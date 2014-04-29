@@ -7,13 +7,14 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 
 * [Backups](#backups)
 * [Cloning](#cloning)
+* [CMDB](#cmdb)
 * [Continuous integration](#continuous-integration)
 * [DevOps Tools](#devops-tools)
 * [Hosting](#hosting)
 * [IMAP/POP3](#imappop3)
 * [LDAP](#ldap)
 * [Monitoring](#monitoring)
-* [Newsletter](#newsletter)
+* [Newsletter](#newsletters)
 * [NoSQL](#nosql)
 * [RDBMS](#rdbms)
 * [SMTP](#smtp)
@@ -43,6 +44,12 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
+
+### CMDB
+*Configuration management database.*
+
+* [i-doit](http://www.i-doit.org/) - Open Source IT Documentation and CMDB.
+* [iTop](http://www.combodo.com/-Overview-.html) - A complete open source, ITIL, web based service management tool.
 
 ### Continuous integration
 *Continuous integration software.*
@@ -98,7 +105,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 
-### Newsletter
+### Newsletters
 *Newsletter software.*
 
 * [phpList](http://www.phplist.com/) - Newsletter manager.
