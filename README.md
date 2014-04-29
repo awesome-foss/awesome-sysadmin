@@ -20,6 +20,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [SSH](#ssh)
 * [Statistics](#statistics)
 * [Ticketing systems](#ticketing-systems)
+* [Troubleshooting](#troubleshooting)
 * [Project Management](#project-management)
 * [Version control](#version-control)
 * [Virtualization](#virtualization)
@@ -44,7 +45,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
 
 ### Continuous integration
-*Continuous integration tools
+*Continuous integration software.*
 
 * [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
@@ -149,6 +150,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Open source support ticket system.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
+
+### Troubleshooting
+*Troubleshooting Tools.*
+
+* [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 
 ### Project Management
 *Web-based project management and bug tracking systems.*
