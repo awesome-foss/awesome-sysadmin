@@ -7,6 +7,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 
 * [Backups](#backups)
 * [Cloning](#cloning)
+* [Continuous integration](#continuous-integration)
 * [DevOps Tools](#devops-tools)
 * [Hosting](#hosting)
 * [IMAP/POP3](#imappop3)
@@ -41,6 +42,12 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
+
+### Continuous integration
+*Continuous integration tools
+
+* [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
+* [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 
 ### DevOPs Tools
 *Configuration management tools.*
@@ -83,6 +90,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
+* [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 * [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
@@ -139,7 +147,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
-* [osTicket](http://osticket.com/) -
+* [osTicket](http://osticket.com/) - Open source support ticket system.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 
 ### Project Management
