@@ -10,6 +10,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [CMDB](#cmdb)
 * [Continuous integration](#continuous-integration)
 * [DevOps Tools](#devops-tools)
+* [DNS](#dns)
 * [Hosting](#hosting)
 * [IMAP/POP3](#imappop3)
 * [LDAP](#ldap)
@@ -70,6 +71,14 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
+
+### DNS
+*DNS servers.*
+
+* [Bind](https://www.isc.org/downloads/bind/) - The most widely used name server software.
+* [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
+* [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
+* [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 
 ### Hosting
 *Web hosting control panels*
