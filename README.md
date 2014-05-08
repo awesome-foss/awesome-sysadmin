@@ -1,7 +1,7 @@
 Awesome Sysadmin
 ================
 
-A curated list of amazingly awesome sysadmin open source resources inspired by [Awesome PHP](https://gist.github.com/Xanza/7663627)
+A curated list of amazingly awesome sysadmin open source resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 ### Categories
 
