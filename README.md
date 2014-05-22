@@ -31,6 +31,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [Webmails](#webmails)
 * [Wikis](#wikis)
 * [Resources](#resources)
+  * [Editors](#editors)
   * [Websites](#websites)
 
 ### Backups
@@ -222,6 +223,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
+
+### Editors
+*Open source code editors.*
+
+* [Atom](https://atom.io/) - A hackable text editor from Github.
+* [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
+* [Geany](http://www.geany.org/) - GTK2 text editor.
 
 ### Websites
 *Useful sysadmin related websites.*
