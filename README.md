@@ -31,6 +31,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
   * [Books](#books)
   * [Editors](#editors)
   * [Websites](#websites)
+* [Contributing](#contributing)
 
 ## Backups
 *Backup software.*
@@ -39,8 +40,8 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [UrBackup](http://www.urbackup.org/) - Another client/server backup system.
 
-## Cloning.
-*Cloning software*
+## Cloning
+*Cloning software.*
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
@@ -239,3 +240,6 @@ Various resources, such as books, websites and articles, for improving your skil
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages.
+
+# Contributing
+Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
