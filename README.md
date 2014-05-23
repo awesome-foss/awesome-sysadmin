@@ -1,5 +1,5 @@
 # Awesome Sysadmin
-A curated list of amazingly awesome sysadmin open source resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
+A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Backups](#backups)
