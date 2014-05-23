@@ -5,6 +5,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
+  * [Cloud Storage](#cloud-storage)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
   * [Continuous integration](#continuous-integration)
@@ -55,6 +56,11 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
+
+## Cloud Storage
+
+* [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
+* [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 
 ## Configuration Management Database
 *Configuration management database (CMDB) software.*
