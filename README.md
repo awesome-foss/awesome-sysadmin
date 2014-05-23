@@ -5,15 +5,17 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
-  * [CMDB](#cmdb)
+  * [Configuration Management Database](#configuration-management-database)
+  * [Configuration Management](#configuration-management)
   * [Continuous integration](#continuous-integration)
-  * [DevOps Tools](#devops-tools)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
-  * [Hosting](#hosting)
+  * [Hosting Control Panels](#hosting-control-panels)
   * [IMAP/POP3](#imappop3)
+  * [IT Asset Management](#it-asset-management) 
   * [LDAP](#ldap)
   * [Monitoring](#monitoring)
+  * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
   * [RDBMS](#rdbms)
@@ -54,19 +56,13 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 
-## CMDB
-*Configuration management database.*
+## Configuration Management Database
+*Configuration management database (CMDB) software.*
 
 * [i-doit](http://www.i-doit.org/) - Open Source IT Documentation and CMDB.
 * [iTop](http://www.combodo.com/-Overview-.html) - A complete open source, ITIL, web based service management tool.
 
-## Continuous integration
-*Continuous integration software.*
-
-* [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
-* [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
-
-## DevOPs Tools
+## Configuration Management
 *Configuration management tools.*
 
 * [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
@@ -75,10 +71,11 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 
-*Network configuration management tools.*
+## Continuous integration
+*Continuous integration software.*
 
-* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
-* [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
+* [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
+* [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
@@ -98,7 +95,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 
-## Hosting
+## Hosting Control Panels
 *Web hosting control panels*
 
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
@@ -111,6 +108,12 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
 * [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) - One of the oldest and most popular server implementations of POP3.
+
+## IT Asset Management
+*IT Assets Management software.*
+
+* [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
+* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
 
 ## LDAP
 *LDAP servers.*
@@ -131,6 +134,12 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
+
+## Network Configuration Management
+*Network configuration management tools.*
+
+* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
+* [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 
 ## Newsletters
 *Newsletter software.*
