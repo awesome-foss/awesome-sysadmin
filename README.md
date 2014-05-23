@@ -4,6 +4,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Backups](#backups)
   * [Cloning](#cloning)
+  * [Cloud Computing](#cloud-computing)
   * [CMDB](#cmdb)
   * [Continuous integration](#continuous-integration)
   * [DevOps Tools](#devops-tools)
@@ -46,6 +47,12 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
+
+## Cloud Computing
+
+* [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
+* [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
+* [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 
 ## CMDB
 *Configuration management database.*
