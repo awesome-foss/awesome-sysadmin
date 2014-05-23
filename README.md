@@ -7,6 +7,7 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
   * [CMDB](#cmdb)
   * [Continuous integration](#continuous-integration)
   * [DevOps Tools](#devops-tools)
+  * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Hosting](#hosting)
   * [IMAP/POP3](#imappop3)
@@ -36,9 +37,9 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 ## Backups
 *Backup software.*
 
-* [Amanda](http://www.amanda.org/) - Client–server model backup tool.
+* [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
-* [UrBackup](http://www.urbackup.org/) - Another client/server backup system.
+* [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 
 ## Cloning
 *Cloning software.*
@@ -71,6 +72,16 @@ A curated list of amazingly awesome sysadmin open source resources inspired by [
 
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
+
+## Distributed Filesystems
+*Network distributed filesystems.*
+
+* [Ceph](http://ceph.com/) - Distributed object store and file system.
+* [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
+* [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
+* [Lustre](http://lustre.opensfs.org/) -  A type of parallel distributed file system, generally used for large-scale cluster computing.
+* [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
+* [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
 ## DNS
 *DNS servers.*
