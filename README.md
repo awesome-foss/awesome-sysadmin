@@ -137,6 +137,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
+* [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 * [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
