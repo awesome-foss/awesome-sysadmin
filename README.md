@@ -148,6 +148,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Metric gathering and display software*
 
 * [Collectd](http://collectd.org/) - system statistic collection daemon
+* [Statsd](https://github.com/etsy/statsd/) - application statistic listener
+* [Diamond](https://github.com/BrightcoveOS/Diamond) Python based statistic collection daemon
+* [Graphite] (http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server
+
 
 ## Network Configuration Management
 *Network configuration management tools.*
