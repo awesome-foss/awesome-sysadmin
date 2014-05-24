@@ -134,6 +134,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Monitoring software.*
 
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
+* [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios, 
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
