@@ -16,6 +16,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [IT Asset Management](#it-asset-management) 
   * [LDAP](#ldap)
   * [Monitoring](#monitoring)
+  * [Metric & Metric Collection](#metric-&-metric-collection
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
@@ -142,6 +143,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother
 * [Sensu](http://sensuapp.org/) - Flexible, scaleable and extensible monitoring framework
+
+## Metric & Metric Collection
+*Metric gathering and display software*
+
+* [collectd](http://collectd.org/) - system statistic collection daemon
 
 ## Network Configuration Management
 *Network configuration management tools.*
