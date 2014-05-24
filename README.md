@@ -56,6 +56,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
+* [Eucalpytus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility
 
 ## Cloud Storage
 
