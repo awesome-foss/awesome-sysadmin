@@ -232,6 +232,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
+* [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
 
 ## Webmails
 *Webmail applications.*
