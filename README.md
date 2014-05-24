@@ -271,6 +271,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 * [Atom](https://atom.io/) - A hackable text editor from Github.
 * [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
+* [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
 
 ## Websites
