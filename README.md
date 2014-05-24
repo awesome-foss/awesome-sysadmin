@@ -139,7 +139,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
-* [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
+* [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother
+* [Sensu](http://sensuapp.org/) - Flexible, scaleable and extensible monitoring framework
 
 ## Network Configuration Management
 *Network configuration management tools.*
