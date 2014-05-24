@@ -147,7 +147,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Metric & Metric Collection
 *Metric gathering and display software*
 
-* [collectd](http://collectd.org/) - system statistic collection daemon
+* [Collectd](http://collectd.org/) - system statistic collection daemon
 
 ## Network Configuration Management
 *Network configuration management tools.*
