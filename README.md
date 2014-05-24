@@ -16,7 +16,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [IT Asset Management](#it-asset-management) 
   * [LDAP](#ldap)
   * [Monitoring](#monitoring)
-  * [Metric & Metric Collection](#metric-&-metric-collection)
+  * [Metric & Metric Collection](#metric--metric-collection)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
