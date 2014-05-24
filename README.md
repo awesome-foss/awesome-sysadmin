@@ -82,6 +82,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
+* [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
@@ -106,6 +107,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
+* [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 
 ## IMAP/POP3
 *IMAP/POP3 mail servers.*
@@ -140,6 +142,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
+* [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 
 ## Network Configuration Management
 *Network configuration management tools.*
@@ -232,6 +235,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
+* [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
 
 ## Webmails
 *Webmail applications.*
