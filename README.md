@@ -8,12 +8,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cloud Storage](#cloud-storage)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
-  * [Continuous integration](#continuous-integration)
+  * [Continuous Integration](#continuous-integration)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Hosting Control Panels](#hosting-control-panels)
   * [IMAP/POP3](#imappop3)
-  * [IT Asset Management](#it-asset-management) 
+  * [IT Asset Management](#it-asset-management)
   * [LDAP](#ldap)
   * [Monitoring](#monitoring)
   * [Network Configuration Management](#network-configuration-management)
@@ -79,10 +79,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 
-## Continuous integration
+## Continuous Integration
 *Continuous integration software.*
 
 * [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
+* [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 
 ## Distributed Filesystems
@@ -108,6 +109,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Web hosting control panels*
 
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
+* [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
 * [Feathur](http://feathur.com) - VPS Provisioning and Management Software
 
@@ -138,7 +140,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Monitoring software.*
 
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
-* [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios, 
+* [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
@@ -148,6 +150,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
+* [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
@@ -245,10 +248,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *VPN software.*
 
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
+* [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
 * [SoftEther VPN](https://www.softether.org/) - Alternative to OpenVPN.
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
-* [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN
+* [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 
 ## Webmails
 *Webmail applications.*
