@@ -230,6 +230,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux
+* [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
 
