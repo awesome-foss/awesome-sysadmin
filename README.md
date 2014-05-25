@@ -172,6 +172,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## RDBMS
 *Relational DBMS.*
 
+* [Firebird](http://www.firebirdsql.org/) - True universal open source database.
 * [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
 * [MySQL](http://dev.mysql.com/) - Most popular RDBMS server.
 * [Percona Server](http://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
