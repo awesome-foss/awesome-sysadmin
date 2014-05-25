@@ -43,6 +43,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
+* [BURP](http://burp.grke.org/) - BackUp and Restore Program.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 
 ## Cloning
