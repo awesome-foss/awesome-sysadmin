@@ -151,6 +151,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
 * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
+* [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
