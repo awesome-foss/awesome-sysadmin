@@ -100,12 +100,14 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
 * [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
+* [Unbound](https://unbound.net/) - Validating, recursive, and caching DNS resolver.
 
 ## Hosting Control Panels
 *Web hosting control panels*
 
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
+* [Feathur](http://feathur.com) - VPS Provisioning and Management Software
 
 ## IMAP/POP3
 *IMAP/POP3 mail servers.*
@@ -219,6 +221,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
+* [Flyspray](http://flyspray.org) - Written in PHP.
 
 ## Version control
 *Software versioning and revision control.*
