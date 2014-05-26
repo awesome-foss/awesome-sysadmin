@@ -62,6 +62,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 ## Cloud Storage
 
+* [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
 * [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud storage (it's described as "like bittorrent, with upload" by @zooko) 
