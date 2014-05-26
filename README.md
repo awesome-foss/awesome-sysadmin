@@ -245,6 +245,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Virtualization
 *Virtualization software.*
 
+* [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
