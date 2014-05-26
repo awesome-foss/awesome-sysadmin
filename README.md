@@ -44,8 +44,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
-* [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
+* [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
+* [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
 
 ## Cloning
 *Cloning software.*
@@ -63,6 +64,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
+* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud storage (it's described as "like bittorrent, with upload" by @zooko) 
 
 ## Configuration Management Database
 *Configuration management database (CMDB) software.*
