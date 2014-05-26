@@ -8,6 +8,6 @@ Please ensure your pull request adheres to the following guidelines:
 * Keep descriptions short and simple.
 * End all descriptions with a full stop/period.
 * Check your spelling and grammar.
-* New categories, or improvements to the existing categorisaton are welcome.
+* New categories, or improvements to the existing categorisation are welcome.
 
 Thank you for your suggestions!
