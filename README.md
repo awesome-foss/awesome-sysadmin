@@ -47,8 +47,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
-* [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
+* [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 
 ## Cloning
 *Cloning software.*
