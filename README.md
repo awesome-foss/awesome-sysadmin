@@ -110,7 +110,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
 * [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
-* [Unbound](https://unbound.net/) - Validating, recursive, and caching DNS resolver.
+* [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 
 ## Hosting Control Panels
 *Web hosting control panels*
