@@ -43,6 +43,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
+* [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
