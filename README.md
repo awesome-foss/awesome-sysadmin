@@ -16,6 +16,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [IT Asset Management](#it-asset-management)
   * [LDAP](#ldap)
   * [Monitoring](#monitoring)
+  * [Metric & Metric Collection](#metric--metric-collection)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
@@ -61,6 +62,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
+* [Eucalpytus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility
 
 ## Cloud Storage
 
@@ -163,6 +165,14 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
+## Metric & Metric Collection
+*Metric gathering and display software.*
+
+* [Collectd](http://collectd.org/) - System statistic collection daemon.
+* [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon
+* [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
+* [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
+
 ## Network Configuration Management
 *Network configuration management tools.*
 
@@ -259,7 +269,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
 * [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
-* [SoftEther VPN](https://www.softether.org/) - Alternative to OpenVPN.
+* [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
