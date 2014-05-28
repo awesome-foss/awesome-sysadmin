@@ -56,6 +56,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
+* [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
 
 ## Cloud Computing
 
