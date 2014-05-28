@@ -231,6 +231,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Web-based ticketing system.*
 
 * [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
+* [Cerb](http://www.cerberusweb.com/) - A group-based e-mail management project built on PHP5/MySQL with a commercial open source license.
 * [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Open source support ticket system.
