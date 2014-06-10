@@ -70,7 +70,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
 * [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
-* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud storage (it's described as "like bittorrent, with upload" by @zooko) 
+* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud storage (it's described as "like bittorrent, with upload" by @zooko)
 
 ## Configuration Management Database
 *Configuration management database (CMDB) software.*
@@ -317,6 +317,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
 * [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
+* [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 
 ## Websites
 *Useful sysadmin related websites.*
