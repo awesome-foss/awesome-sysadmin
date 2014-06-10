@@ -219,6 +219,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Operating system–level virtualization.*
 
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
+* [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
 ## SSH
 *SSH tools.*
@@ -268,7 +269,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
-* [OpenVZ](http://openvz.org) - Container-based virtualization for Linux
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
