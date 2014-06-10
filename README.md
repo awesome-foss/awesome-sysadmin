@@ -22,6 +22,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [NoSQL](#nosql)
   * [RDBMS](#rdbms)
   * [SMTP](#smtp)
+  * [Software Containers](#software-containers)
   * [SSH](#ssh)
   * [Statistics](#statistics)
   * [Ticketing systems](#ticketing-systems)
@@ -213,6 +214,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
+
+## Software Containers.
+*Operating system–level virtualization.*
+
+* [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 
 ## SSH
 *SSH tools.*
