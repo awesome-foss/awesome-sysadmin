@@ -158,11 +158,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 * [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
+* [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
+* [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
+* [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
-* [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
-* [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
@@ -211,8 +212,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *SMTP servers.*
 
 * [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
-* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
+* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
+* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 
 ## Software Containers.
