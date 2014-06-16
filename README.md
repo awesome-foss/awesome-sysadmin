@@ -211,8 +211,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *SMTP servers.*
 
 * [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
-* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
+* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
+* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 
 ## Software Containers.
