@@ -177,6 +177,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
+* [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 
 ## Network Configuration Management
