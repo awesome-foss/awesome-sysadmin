@@ -62,16 +62,16 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Cloud Computing
 
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
+* [Eucalpytus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
-* [Eucalpytus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility
 
 ## Cloud Storage
 
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
 * [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
-* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud storage (it's described as "like bittorrent, with upload" by @zooko)
+* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 
 ## Configuration Management Database
 *Configuration management database (CMDB) software.*
@@ -92,8 +92,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Continuous Integration
 *Continuous integration software.*
 
-* [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
+* [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 
 ## Distributed Filesystems
@@ -121,10 +121,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Hosting Control Panels
 *Web hosting control panels*
 
+* [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
-* [Feathur](http://feathur.com) - VPS Provisioning and Management Software
 
 ## IMAP/POP3
 *IMAP/POP3 mail servers.*
@@ -145,7 +145,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [389 Directory Server](http://port389.org) - Developed by Red Hat.
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
-* [FusionDirectory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
+* [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
@@ -176,7 +176,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Collectd](http://collectd.org/) - System statistic collection daemon.
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
-* [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon
+* [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
@@ -223,7 +223,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 
-## Software Containers.
+## Software Containers
 *Operating system–level virtualization.*
 
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
@@ -246,7 +246,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Web-based ticketing system.*
 
 * [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
-* [Cerb](http://www.cerberusweb.com/) - A group-based e-mail management project built on PHP5/MySQL with a commercial open source license.
+* [Cerb](http://www.cerberusweb.com/) - A group-based e-mail management project built with a commercial open source license.
 * [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Open source support ticket system.
@@ -261,7 +261,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Project Management
 *Web-based project management and bug tracking systems.*
 
-* [GitLab](https://www.gitlab.com/) - Written in ruby. Clone of GitHub.
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in ruby.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
