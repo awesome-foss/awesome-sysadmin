@@ -251,6 +251,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Open source support ticket system.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
+* [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
 
 ## Troubleshooting
 *Troubleshooting Tools.*
