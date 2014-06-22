@@ -208,6 +208,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
 * [MongoDB](http://www.mongodb.org/) - Another document-oriented database system.
 * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
+* [RethinkDB](http://rethinkdb.com) - Built to store JSON documents, and scale to multiple machines with very little effort. It supports really useful queries like table joins and group by.
 * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
