@@ -73,6 +73,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
+* [SparkleShare](http://sparkleshare.org/) System for distributing data to many locations; several reports of buggy encryption and git replication problems. 
+* [Syncthing](http://syncthing.net/) Open Source system for private, encrypted and authenticated distrobution of data
 
 ## Configuration Management Database
 *Configuration management database (CMDB) software.*
@@ -183,12 +185,15 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+* [Dashing](http://dashing.io/) Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 
 ## Log management
 *Log management tools : collect, parse, visualize ...*
 
 * [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
+* [Fluentd](http://www.fluentd.org/) Open source, plugabble data (logfile) aggregation engine written in C and Ruby. Pretty much same function as Logstash, compatible with Elasticsearch/Kibana.
+* [Graylog2](http://www.graylog2.org/) Open source logfile centralization system with it's own analysis engine (instead of Kibana) Graylog2 has commercial backing, and may end up with paid support options in the future.
 
 ## Network Configuration Management
 *Network configuration management tools.*
@@ -204,11 +209,22 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## NoSQL
 *NoSQL servers.*
 
-* [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
-* [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
-* [MongoDB](http://www.mongodb.org/) - Another document-oriented database system.
-* [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
-* [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
+* Document Store
+  * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
+  * [MongoDB](http://www.mongodb.org/) - Another document-oriented database system.
+  * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features
+  * [ElasticSearch](http://www.elasticsearch.org/) - Java based database, popular with log aggregation, and email archiving projects  
+  * [RethinkDB](http://www.rethinkdb.com/) - Open source distributed document store database, focuses on JSON
+* Column-Family
+  * [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
+  * [Apache hBase](http://hbase.apache.org/) - Hadoop database, a distributed, big data store
+* Graph
+  * [neo4j](http://www.neo4j.org/) - Open source graph database
+  * [flockdb](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database
+* Key-Value
+  * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
+  * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
+  * [LevelDB](https://code.google.com/p/leveldb/) - Google's high performance key/value database
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 
@@ -230,6 +246,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
+* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+* [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server (mailinator.com), also useful for development.
 
 ## Software Containers
 *Operating system–level virtualization.*
@@ -316,6 +334,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Nginx](http://nginx.org/) -  Reverse proxy, load balancer, HTTP cache, and web server.
 * [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
 
+*Web Performance*
+* [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing
+* [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression. While Open Source, Varnish has a commerical support option. 
+
+
 ## Wikis
 *Wiki software.*
 
@@ -345,12 +368,18 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
+* [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing. 
+
 
 ## Websites
 *Useful sysadmin related websites.*
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages.
+* [Rackspace Developers] - Slightly biased blog with lots of Devops Topics
+* [http://blog.devopsguys.com/](http://blog.devopsguys.com/) Devops consultants who blog about operations
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics. (Note: Digital Ocean pays authors for this content)
+* [Code As Craft](http://codeascraft.com/) Etsy's Ops blog, logs of technical posts.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
