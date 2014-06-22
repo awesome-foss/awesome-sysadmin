@@ -306,6 +306,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
 * [Lighttpd](http://www.lighttpd.net/) -  Web server more optimized for speed-critical environments.
 * [Nginx](http://nginx.org/) -  Reverse proxy, load balancer, HTTP cache, and web server.
+* [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
 
 ## Wikis
 *Wiki software.*
