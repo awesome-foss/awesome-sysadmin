@@ -184,7 +184,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 
 ## Log management
-**Log management tools : collect, parse ...**
+*Log management tools : collect, parse, visualize ...*
 
 * [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
