@@ -7,6 +7,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Use the following format: \[RESOURCE\]\(LINK\) - DESCRIPTION.
 * Keep descriptions short and simple.
 * End all descriptions with a full stop/period.
+* Order projects alphabetically within each category.
 * Check your spelling and grammar.
 * New categories, or improvements to the existing categorisation are welcome.
 
