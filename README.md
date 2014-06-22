@@ -322,6 +322,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [DokuWiki](https://www.dokuwiki.org/dokuwiki) - Simple to use and highly versatile wiki that doesn't require a database.
 * [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
 * [Mediawiki](http://www.mediawiki.org/wiki/MediaWiki) - Used to power Wikipedia.
+* [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
 * [TiddlyWiki](http://tiddlywiki.com) - Complete interactive wiki in JavaScript.
 
 # Resources
