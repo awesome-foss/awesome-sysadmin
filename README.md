@@ -17,6 +17,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [LDAP](#ldap)
   * [Monitoring](#monitoring)
   * [Metric & Metric Collection](#metric--metric-collection)
+  * [Log management](#log-management)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
@@ -181,6 +182,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
+
+## Log management
+**Log management tools : collect, parse ...**
+
+* [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
 
 ## Network Configuration Management
 *Network configuration management tools.*
