@@ -17,6 +17,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [LDAP](#ldap)
   * [Monitoring](#monitoring)
   * [Metric & Metric Collection](#metric--metric-collection)
+  * [Log management](#log-management)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
@@ -182,6 +183,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+
+## Log management
+*Log management tools : collect, parse, visualize ...*
+
+* [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
+* [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 
 ## Network Configuration Management
 *Network configuration management tools.*
