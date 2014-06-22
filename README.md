@@ -140,6 +140,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
+* [Snipe IT](http://snipeitapp.com/) - Asset & license management software
 
 ## LDAP
 *LDAP servers.*
