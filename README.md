@@ -187,6 +187,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 **Log management tools : collect, parse ...**
 
 * [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
+* [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 
 ## Network Configuration Management
 *Network configuration management tools.*
