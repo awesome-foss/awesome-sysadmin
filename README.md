@@ -79,6 +79,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [i-doit](http://www.i-doit.org/) - Open Source IT Documentation and CMDB.
 * [iTop](http://www.combodo.com/-Overview-.html) - A complete open source, ITIL, web based service management tool.
+* [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 
 ## Configuration Management
 *Configuration management tools.*
@@ -140,6 +141,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
+* [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 
 ## LDAP
 *LDAP servers.*
