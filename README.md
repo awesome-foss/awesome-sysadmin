@@ -352,7 +352,8 @@ Various resources, such as books, websites and articles, for improving your skil
 *Useful sysadmin related websites.*
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
-* [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages.
+* [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
+* [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
