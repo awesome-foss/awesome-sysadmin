@@ -8,7 +8,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cloud Storage](#cloud-storage)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
-  * [Continuous Integration](#continuous-integration)
+  * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Hosting Control Panels](#hosting-control-panels)
@@ -72,6 +72,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Cloud Orchestration
 
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
+* [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 
 ## Cloud Storage
@@ -99,13 +100,14 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
 
-## Continuous Integration
-*Continuous integration software.*
+## Continuous Integration & Continuous Deployment
+*Continuous integration/deployment software.*
 
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
+* [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
