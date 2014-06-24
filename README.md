@@ -188,6 +188,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Log management tools : collect, parse, visualize ...*
 
 * [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
+* [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Docuement store mainly used for log indexing, storage and analysis.
+* [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper
+* [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 
 ## Network Configuration Management
