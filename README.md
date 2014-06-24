@@ -124,6 +124,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Hosting Control Panels
 *Web hosting control panels*
 
+* [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
 * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
