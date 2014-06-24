@@ -94,6 +94,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
+* [Fabric](http://www.fabfile.org/) - Fabric is a Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 
 ## Continuous Integration
 *Continuous integration software.*
