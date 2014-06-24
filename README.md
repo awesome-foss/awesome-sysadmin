@@ -365,6 +365,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
+* [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 
 ## Websites
 *Useful sysadmin related websites.*
