@@ -229,7 +229,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Queuing
 
-* [ZeroMQ](http://zeromq.org/) - For logs, events and metrics queueing (or anything else for that matter..)
+* [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
+* [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
 
 ## RDBMS
 *Relational DBMS.*
