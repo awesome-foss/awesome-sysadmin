@@ -295,6 +295,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
+* [Vagrant](https://www.vagrantup.com/) - Tool for building complete development
+  environments. 
 
 ## VPN
 *VPN software.*
