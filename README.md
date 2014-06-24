@@ -91,10 +91,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
+* [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
-* [Fabric](http://www.fabfile.org/) - Fabric is a Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
 
 ## Continuous Integration
 *Continuous integration software.*
@@ -149,7 +149,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
-* [Snipe IT](http://snipeitapp.com/) - Asset & license management software
+* [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
 
 ## LDAP
 *LDAP servers.*
@@ -189,7 +189,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
-* [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications
+* [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
 ## Metric & Metric Collection
@@ -198,12 +198,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectd](http://collectd.org/) - System statistic collection daemon.
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
+* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers.  Compatible with Graphite using a single collection process.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
-* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 
 ## Network Configuration Management
 *Network configuration management tools.*
@@ -231,9 +231,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Packaging
 
-* [fpm](https://github.com/jordansissel/fpm) - versatile multi format package creator.
-* [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - full stack, cross distro packaging software (Ruby).
-* [packman](http://packman.readthedocs.org) - full stack, cross distro packaging software (Python).
+* [fpm](https://github.com/jordansissel/fpm) - Fersatile multi format package creator.
+* [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
+* [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 
 ## Queuing
 
@@ -321,10 +321,10 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+* [Vagrant](https://www.vagrantup.com/) - Tool for building complete development
+  environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
-* [Vagrant](https://www.vagrantup.com/) - Tool for building complete development
-  environments. 
 
 ## VPN
 *VPN software.*
