@@ -67,6 +67,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 
+## Cloud Orchestration
+
+* [Cloudify](http://www.getcloudify.org/) -
+* [Salt](http://www.saltstack.com/) - It's written in Python.
+
 ## Cloud Storage
 
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
