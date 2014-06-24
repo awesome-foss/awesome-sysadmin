@@ -221,6 +221,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 
+## Queueing
+
+* [ZeroMQ](http://zeromq.org/) - For logs, events and metrics queueing (or anything else for that matter..)
+
 ## RDBMS
 *Relational DBMS.*
 
