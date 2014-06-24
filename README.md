@@ -191,6 +191,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Log management
 *Log management tools : collect, parse, visualize ...*
 
+* [Graylog2](http://graylog2.org/) - Data analytics system for managing events and logs, creating dashboards, and sending alerts and reports.
 * [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 
