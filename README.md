@@ -107,7 +107,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
-* VladTheDeployer
+* [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
