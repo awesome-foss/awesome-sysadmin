@@ -178,6 +178,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Monitoring software.*
 
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
+* [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
