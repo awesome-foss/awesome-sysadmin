@@ -223,6 +223,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Packaging
 
+* [fpm](https://github.com/jordansissel/fpm) - versatile multi format package creator.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - full stack, cross distro packaging software (Python).
 
