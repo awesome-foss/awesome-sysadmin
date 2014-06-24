@@ -15,9 +15,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [IMAP/POP3](#imappop3)
   * [IT Asset Management](#it-asset-management)
   * [LDAP](#ldap)
+  * [Log Management](#log-management)
   * [Monitoring](#monitoring)
   * [Metric & Metric Collection](#metric--metric-collection)
-  * [Log management](#log-management)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
@@ -160,6 +160,15 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
 
+## Log Management
+*Log management tools: collect, parse, visualize ...*
+
+* [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Docuement store mainly used for log indexing, storage and analysis.
+* [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper
+* [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
+* [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
+* [Logstash](http://logstash.net/) - Tool for managing events and logs.
+
 ## Monitoring
 *Monitoring software.*
 
@@ -194,16 +203,6 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-
-## Log management
-*Log management tools : collect, parse, visualize ...*
-
-* [Graylog2](http://graylog2.org/) - Data analytics system for managing events and logs, creating dashboards, and sending alerts and reports.
-* [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
-* [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Docuement store mainly used for log indexing, storage and analysis.
-* [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper
-* [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
-* [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 
 ## Network Configuration Management
 *Network configuration management tools.*
