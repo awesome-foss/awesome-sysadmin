@@ -67,6 +67,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 
+## Cloud Orchestration
+
+* [Cloudify](http://www.getcloudify.org/) -
+* [Salt](http://www.saltstack.com/) - It's written in Python.
+
 ## Cloud Storage
 
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
@@ -194,6 +199,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Log management tools : collect, parse, visualize ...*
 
 * [Logstash](http://logstash.net/) - Logstash is a tool for managing events and logs.
+* [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Docuement store mainly used for log indexing, storage and analysis.
+* [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper
+* [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 
 ## Network Configuration Management
@@ -218,6 +226,17 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
+
+## Packaging
+
+* [fpm](https://github.com/jordansissel/fpm) - versatile multi format package creator.
+* [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - full stack, cross distro packaging software (Ruby).
+* [packman](http://packman.readthedocs.org) - full stack, cross distro packaging software (Python).
+
+## Queuing
+
+* [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
+* [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
 
 ## RDBMS
 *Relational DBMS.*
@@ -356,6 +375,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
+* [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 
 ## Websites
 *Useful sysadmin related websites.*
