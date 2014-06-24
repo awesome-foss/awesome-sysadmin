@@ -6,7 +6,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Storage](#cloud-storage)
-  * [Collaborative software](#collaborative-software)
+  * [Collaborative Software](#collaborative-software)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
@@ -83,7 +83,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 
-## Collaborative software
+## Collaborative Software
 *Collaborative software or groupware suites.*
 
 * [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
