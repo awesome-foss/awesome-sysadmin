@@ -207,7 +207,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-* [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers.  Compatible with Graphite using a single collection process.
+* [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
@@ -223,7 +223,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Newsletter software.*
 
 * [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
-* [phpList](http://www.phplist.com/) - Newsletter manager.
+* [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
 
 ## NoSQL
 *NoSQL servers.*
@@ -329,8 +329,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
-* [Vagrant](https://www.vagrantup.com/) - Tool for building complete development
-  environments.
+* [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
 
@@ -400,7 +399,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Geany](http://www.geany.org/) - GTK2 text editor.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
-* [Vim](http://vim.org) - a highly configurable text editor built to enable efficient editing. 
+* [Vim](http://vim.org) - A highly configurable text editor built to enable efficient editing.
 
 ## Websites
 *Useful sysadmin related websites.*
