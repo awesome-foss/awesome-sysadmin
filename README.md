@@ -227,7 +227,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - full stack, cross distro packaging software (Python).
 
-## Queueing
+## Queuing
 
 * [ZeroMQ](http://zeromq.org/) - For logs, events and metrics queueing (or anything else for that matter..)
 
