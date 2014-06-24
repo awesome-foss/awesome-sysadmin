@@ -8,7 +8,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cloud Storage](#cloud-storage)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
-  * [Continuous Integration & Continuous Deployment](#continuous-integration-continuous-deployment)
+  * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Hosting Control Panels](#hosting-control-panels)
