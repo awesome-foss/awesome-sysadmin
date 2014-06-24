@@ -387,6 +387,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Geany](http://www.geany.org/) - GTK2 text editor.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [Vim](http://vim.org) - a highly configurable text editor built to enable efficient editing. 
 
 ## Websites
 *Useful sysadmin related websites.*
