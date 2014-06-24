@@ -32,6 +32,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Version control](#version-control)
   * [Virtualization](#virtualization)
   * [VPN](#vpn)
+  * [XMPP](#xmpp)
   * [Web](#web)
   * [Webmails](#webmails)
   * [Wikis](#wikis)
@@ -342,6 +343,16 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+
+## XMPP
+*XMPP servers.*
+
+* [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server written in Erlang/OTP.
+* [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM.
+* [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
+* [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
+* [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
+* [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
 
 ## Webmails
 *Webmail applications.*
