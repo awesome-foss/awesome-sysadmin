@@ -83,6 +83,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Consul](http://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+* [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 
 ## Cloud Storage
 
