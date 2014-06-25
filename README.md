@@ -79,6 +79,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 
+## Service discovery
+
+* [Consul](http://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
+
 ## Cloud Storage
 
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
