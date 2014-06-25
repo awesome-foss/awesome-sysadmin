@@ -50,6 +50,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
+* [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
