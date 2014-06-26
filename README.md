@@ -70,7 +70,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Cloud Computing
 
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
-* [Eucalpytus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
+* [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
