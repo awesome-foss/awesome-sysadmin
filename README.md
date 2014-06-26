@@ -194,6 +194,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
+* [Heka] (https://github.com/mozilla-services/heka) - Data collection and processing made easy
 
 ## Monitoring
 *Monitoring software.*
