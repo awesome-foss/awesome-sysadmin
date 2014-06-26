@@ -266,6 +266,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Relational DBMS.*
 
 * [Firebird](http://www.firebirdsql.org/) - True universal open source database.
+* [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth
 * [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
 * [MySQL](http://dev.mysql.com/) - Most popular RDBMS server.
 * [Percona Server](http://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
