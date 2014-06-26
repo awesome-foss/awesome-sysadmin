@@ -75,6 +75,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
 * [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. 
+* [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 
 ## Cloud Orchestration
 
