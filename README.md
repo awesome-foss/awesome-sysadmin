@@ -364,6 +364,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Virtualization
 *Virtualization software.*
 
+* [Bitnami](https://bitnami.com/) - Freely available VMs for applications described in this list: [GitLab](https://bitnami.com/stack/gitlab), [Jenkins](https://bitnami.com/stack/jenkins), [MantisBT](https://bitnami.com/stack/mantis), [Redmine](https://bitnami.com/stack/redmine), [Trac](https://bitnami.com/stack/trac) and [more](https://bitnami.com/stacks).
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
