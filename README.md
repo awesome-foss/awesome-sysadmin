@@ -231,6 +231,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Network Configuration Management
 *Network configuration management tools.*
 
+* [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 
