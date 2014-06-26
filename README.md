@@ -450,6 +450,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [Vim](http://vim.org) - A highly configurable text editor built to enable efficient editing.
+* [GNU Emacs](http://www.gnu.org/software/emacs/) - an extensible, customizable text editor—and more. 
 
 ## Repositories
 *Software package repositories.*
