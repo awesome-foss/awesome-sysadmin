@@ -38,8 +38,10 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Webmails](#webmails)
   * [Wikis](#wikis)
 * [Resources](#resources)
+  * [Blogs](#blogs)
   * [Books](#books)
   * [Editors](#editors)
+  * [Repositories](#repositories)
   * [Websites](#websites)
 * [Contributing](#contributing)
 
@@ -85,7 +87,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
 * [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
+* [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
+* [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distrobution of data.
 
 ## Collaborative Software
 *Collaborative software or groupware suites.*
@@ -204,7 +208,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 * [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
-* [OMD](http://omdistro.org/) - OMD - The Open Monitoring Distribution.
+* [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 * [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
@@ -219,12 +223,13 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Collectd](http://collectd.org/) - System statistic collection daemon.
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
+* [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
-* [OpenTSDB](http://opentsdb.net/) - OpenTSDB - Store and server massive amounts of time series data without losing granularity.
+* [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 
@@ -241,14 +246,24 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
 
 ## NoSQL
-*NoSQL servers.*
+*NoSQL databases.*
 
-* [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
-* [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
-* [MongoDB](http://www.mongodb.org/) - Another document-oriented database system.
-* [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
-* [RethinkDB](http://rethinkdb.com) - Built to store JSON documents, and scale to multiple machines with very little effort. It supports really useful queries like table joins and group by.
-* [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
+* Column-Family
+  * [Apache HBase](http://hbase.apache.org/) - Hadoop database, a distributed, big data store.
+  * [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
+* Document Store
+  * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
+  * [ElasticSearch](http://www.elasticsearch.org/) - Java based database, popular with log aggregation, and email archiving projects.
+  * [MongoDB](http://www.mongodb.org/) - Another document-oriented database system.
+  * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
+  * [RethinkDB](http://www.rethinkdb.com/) - Open source distributed document store database, focuses on JSON.
+* Graph
+  * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
+  * [Neo4j](http://www.neo4j.org/) - Open source graph database.
+* Key-Value
+  * [LevelDB](https://code.google.com/p/leveldb/) - Google's high performance key/value database.
+  * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
+  * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 
@@ -281,6 +296,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
 * [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
+* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+* [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server, also useful for development.
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
@@ -315,7 +332,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Open source support ticket system.
-* [Otrs](http://www.otrs.com/) -  A free and open-source trouble ticket system software package that a company, organization, or other entity can use to assign tickets to incoming queries and track further communications about them.
+* [Otrs](http://www.otrs.com/) - A free and open-source trouble ticket system software package that a company, organization, or other entity can use to assign tickets to incoming queries and track further communications about them.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 * [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
 
@@ -329,7 +346,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in ruby.
-* [Gogs](http://gogs.io/) - Written in Go
+* [Gogs](http://gogs.io/) - Written in Go.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
@@ -384,10 +401,15 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Apache](http://httpd.apache.org/) - Most popular web server.
 * [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
-* [Lighttpd](http://www.lighttpd.net/) -  Web server more optimized for speed-critical environments.
-* [Nginx](http://nginx.org/) -  Reverse proxy, load balancer, HTTP cache, and web server.
+* [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
+* [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
 * [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
-* [Varnish](https://www.varnish-cache.org/) - Very popular HTTP cache server.
+
+*Web Performance*
+
+* [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.
+* [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
+
 
 ## Wikis
 *Wiki software.*
@@ -400,6 +422,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
+
+## Blogs
+
+* [Code as Craft](http://codeascraft.com/) - Etsy's Ops blog, logs of technical posts.
+* [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
+* [Rackspace Developers](http://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
 
 ## Books
 *Sysadmin related books.*
@@ -418,15 +446,21 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
+* [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [Vim](http://vim.org) - A highly configurable text editor built to enable efficient editing.
+
+## Repositories
+*Software package repositories.*
+
+* [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
+* [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 
 ## Websites
 *Useful sysadmin related websites.*
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
-* [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
-* [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics. (Note: Digital Ocean pays authors for this content)
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
