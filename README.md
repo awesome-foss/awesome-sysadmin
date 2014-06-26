@@ -264,7 +264,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Relational DBMS.*
 
 * [Firebird](http://www.firebirdsql.org/) - True universal open source database.
-* [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth
+* [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth.
 * [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
 * [MySQL](http://dev.mysql.com/) - Most popular RDBMS server.
 * [Percona Server](http://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
@@ -309,6 +309,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
 * [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
 * [osTicket](http://osticket.com/) - Open source support ticket system.
+* [Otrs](http://www.otrs.com/) -  A free and open-source trouble ticket system software package that a company, organization, or other entity can use to assign tickets to incoming queries and track further communications about them.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
 * [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
 
