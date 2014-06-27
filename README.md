@@ -22,6 +22,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
+  * [Packaging](#packaging)
   * [RDBMS](#rdbms)
   * [SMTP](#smtp)
   * [Software Containers](#software-containers)
@@ -280,6 +281,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
+* [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
 ## Queuing
 
