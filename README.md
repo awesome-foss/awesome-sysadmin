@@ -87,7 +87,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Cloud Storage
 
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
-* [ownCloud](http://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
+* [ownCloud](https://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
 * [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
@@ -98,9 +98,9 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
 * [EGroupware](http://www.egroupware.org/) - Groupware software written in PHP.
-* [Kolab](www.kolab.org) - Another groupware suite.
-* [SOGo](http://www.sogo.nu/) -  Collaborative software server with a focus on simplicity and scalability.
-* [Zimbra](http://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
+* [Kolab](https://www.kolab.org) - Another groupware suite.
+* [SOGo](https://www.sogo.nu/) -  Collaborative software server with a focus on simplicity and scalability.
+* [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
 
 ## Configuration Management Database
 *Configuration management database (CMDB) software.*
