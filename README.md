@@ -460,7 +460,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
-* [Vim](http://vim.org) - A highly configurable text editor built to enable efficient editing.
+* [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
 ## Repositories
 *Software package repositories.*
