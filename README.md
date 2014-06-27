@@ -344,6 +344,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Troubleshooting Tools.*
 
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
+* [Wireshark](http://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
 ## Project Management
 *Web-based project management and bug tracking systems.*
