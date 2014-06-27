@@ -356,7 +356,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Web-based project management and bug tracking systems.*
 
 * [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
-* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in ruby.
+* [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written iket](https://github.com/takezoe/gitbucket) 
 * [Gogs](http://gogs.io/) - Written in Go.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
