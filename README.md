@@ -217,7 +217,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
-* [Zabbix](http://www.zabbix.com/) - Eenterprise-class software for monitoring of networks and applications.
+* [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
 ## Metric & Metric Collection
