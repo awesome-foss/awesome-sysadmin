@@ -23,6 +23,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
   * [RDBMS](#rdbms)
+  * [Security](#security)
   * [SMTP](#smtp)
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
@@ -307,6 +308,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [PostgreSQL](http://www.postgresql.org/) - Object-relational database management system (ORDBMS).
 * [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based database cluster.
 * [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
+
+## Security
+*Security tools.*
+
+* [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 
 ## SMTP
 *SMTP servers.*
