@@ -199,11 +199,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Log management tools: collect, parse, visualize ...*
 
 * [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
-* [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper
+* [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
+* [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
 * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
+* [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
-* [Heka] (https://github.com/mozilla-services/heka) - Data collection and processing made easy
 
 ## Monitoring
 *Monitoring software.*
