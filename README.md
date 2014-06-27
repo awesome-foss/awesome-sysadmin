@@ -130,6 +130,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
+* [Drone.io](https://github.com/drone/drone) - continuous integration server built on Docker and configured using YAML files.
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
