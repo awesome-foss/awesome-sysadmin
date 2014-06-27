@@ -358,9 +358,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Version control
 *Software versioning and revision control.*
 
-* [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
 * [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
 * [Git](http://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed.
+* [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
 * [Mercurial](http://mercurial.selenic.com/) - Another distributed revision control.
 * [Subversion](http://subversion.apache.org/) - Client-server revision control system.
 
@@ -430,7 +430,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ## Blogs
 
-* [Code as Craft](http://codeascraft.com/) - Etsy's Ops blog, logs of technical posts.
+* [Code as Craft](http://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
 * [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
 * [Rackspace Developers](http://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
 
@@ -450,11 +450,11 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
 * [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
+* [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [Vim](http://vim.org) - A highly configurable text editor built to enable efficient editing.
-* [GNU Emacs](http://www.gnu.org/software/emacs/) - an extensible, customizable text editor—and more. 
 
 ## Repositories
 *Software package repositories.*
