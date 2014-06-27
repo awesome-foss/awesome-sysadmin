@@ -160,6 +160,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
+* [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 
 ## IMAP/POP3
 *IMAP/POP3 mail servers.*
