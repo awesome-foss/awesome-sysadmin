@@ -478,6 +478,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
 ## Repositories
