@@ -351,6 +351,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Analytics software.*
 
 * [Analog](http://www.analog.cx/) - The most popular logfile analyser in the world.
+* [GoAccess](http://goaccess.io/) - Open source real-time web log analyzer and interactive viewer that runs in a terminal.
 * [Piwik](http://piwik.org/) - Free and open source web analytics application.
 * [Webalizer](http://www.webalizer.org/) - Fast, free web server log file analysis program.
 
