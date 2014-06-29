@@ -22,6 +22,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
+  * [Packaging](#packaging)
+  * [Queuing](#queuing)
   * [RDBMS](#rdbms)
   * [Security](#security)
   * [SMTP](#smtp)
