@@ -296,6 +296,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Queuing
 
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
+* [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
