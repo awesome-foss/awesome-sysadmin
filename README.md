@@ -71,6 +71,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 ## Cloud Computing
 
+* [AppScale](http:/github.com/AppScale/appscale) - Open source cloud software with Google App Engine compatibility.
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
