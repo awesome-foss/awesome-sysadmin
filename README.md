@@ -342,7 +342,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Mosh](http://mosh.mit.edu/) - The mobile shell.
 * [parallel-ssh](http://code.google.com/p/parallel-ssh/) - Provides parallel versions of OpenSSH and related tools.
 * [SSH Power Tool](http://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
-* [ssh-ca](https://github.com/cloudtools/ssh-ca/) - Certificate based SSH allows us to launch a server at time X and grant SSH access to that server later at time X + Y without touching the authorized keys file. Further it allows us to generate certificates that expire at some predefined time meaning that users can be granted access to a system for a short period of time.
+* [ssh-ca](https://github.com/cloudtools/ssh-ca/) - Allows giving ssh access to servers without putting a users key on the server, as well as expiring access.
 
 ## Statistics
 *Analytics software.*
