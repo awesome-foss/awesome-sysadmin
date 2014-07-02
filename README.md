@@ -217,6 +217,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
+* [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
@@ -293,11 +294,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Queuing
 
+* [ActiveMQ](https://activemq.apache.org/) - Open source java message broker
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
-* [ActiveMQ](https://activemq.apache.org/) - Open source java message broker
 
 ## RDBMS
 *Relational DBMS.*
