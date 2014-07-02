@@ -214,11 +214,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 ## Monitoring
 *Monitoring software.*
 
-* [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system 
+* [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system. 
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
-* [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system
+* [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
@@ -295,7 +295,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Queuing
 
-* [ActiveMQ](https://activemq.apache.org/) - Open source java message broker
+* [ActiveMQ](https://activemq.apache.org/) - Open source java message broker.
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
@@ -396,9 +396,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
-* [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple
+* [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
-* [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Complete open source virtualization management solution
+* [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Complete open source virtualization management solution.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
