@@ -398,6 +398,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+* [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Complete open source virtualization management solution
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
