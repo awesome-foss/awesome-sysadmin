@@ -42,6 +42,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Blogs](#blogs)
   * [Books](#books)
   * [Editors](#editors)
+  * [Newsletters](#newsletters)
   * [Repositories](#repositories)
   * [Websites](#websites)
 * [Contributing](#contributing)
@@ -480,6 +481,10 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
+## Newsletters
+
+* [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
+
 ## Repositories
 *Software package repositories.*
 
@@ -490,7 +495,7 @@ Various resources, such as books, websites and articles, for improving your skil
 *Useful sysadmin related websites.*
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics. (Note: Digital Ocean pays authors for this content)
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
