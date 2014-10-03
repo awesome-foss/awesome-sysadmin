@@ -498,6 +498,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
+* [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
