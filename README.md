@@ -148,6 +148,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Ceph](http://ceph.com/) - Distributed object store and file system.
 * [DRBD](http://www.drbd.org/) - Disributed Replicated Block Device.
+* [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
 * [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
 * [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
 * [Lustre](http://lustre.opensfs.org/) -  A type of parallel distributed file system, generally used for large-scale cluster computing.
