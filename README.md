@@ -338,6 +338,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Software Containers
 *Operating system–level virtualization.*
 
+* [Bitnami](https://bitnami.com/) - Produces open source installers or software packages for web applications and development stacks as well as virtual appliances.
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
@@ -398,7 +399,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Virtualization
 *Virtualization software.*
 
-* [Bitnami](https://bitnami.com/) - Freely available VMs for applications described in this list: [GitLab](https://bitnami.com/stack/gitlab), [Jenkins](https://bitnami.com/stack/jenkins), [MantisBT](https://bitnami.com/stack/mantis), [Redmine](https://bitnami.com/stack/redmine), [Trac](https://bitnami.com/stack/trac) and [more](https://bitnami.com/stacks).
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
