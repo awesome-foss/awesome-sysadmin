@@ -90,6 +90,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 
+## Service discovery
+
+* [Consul](http://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
+* [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+* [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
+
 ## Cloud Storage
 
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
