@@ -6,6 +6,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Storage](#cloud-storage)
+  * [Code Review](#code-review)
   * [Collaborative Software](#collaborative-software)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
@@ -102,6 +103,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
 * [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distrobution of data.
+
+## Code Review
+*Web Based collaborative code review system.*
+
+* [Gerrit](https://code.google.com/p/gerrit/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
+* [Review Board](https://www.reviewboard.org/) - Available as free software uner the MIT License.
 
 ## Collaborative Software
 *Collaborative software or groupware suites.*
