@@ -23,6 +23,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
   * [Packaging](#packaging)
+  * [Queuing](#queuing)
   * [RDBMS](#rdbms)
   * [Security](#security)
   * [Service Discovery](#service-discovery)
@@ -76,12 +77,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
+* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
+* [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
-* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. 
-* [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 
 ## Cloud Orchestration
 
@@ -92,7 +93,6 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
-
 
 ## Cloud Storage
 
@@ -251,10 +251,11 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
-* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
+* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
+* [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
@@ -304,6 +305,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Queuing
 
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
+* [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
@@ -323,6 +325,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Security
 *Security tools.*
 
+* [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 
 ## Service Discovery
@@ -364,6 +367,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Analytics software.*
 
 * [Analog](http://www.analog.cx/) - The most popular logfile analyser in the world.
+* [GoAccess](http://goaccess.io/) - Open source real-time web log analyzer and interactive viewer that runs in a terminal.
 * [Piwik](http://piwik.org/) - Free and open source web analytics application.
 * [Webalizer](http://www.webalizer.org/) - Fast, free web server log file analysis program.
 
