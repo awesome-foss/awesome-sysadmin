@@ -286,6 +286,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * Column-Family
   * [Apache HBase](http://hbase.apache.org/) - Hadoop database, a distributed, big data store.
   * [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
+  * [Hypertable](http://hypertable.org/) - C++ based BigTable-like DBMS, communicates through Thrift and runs either as stand-alone or on distributed FS such as Hadoop.
 * Document Store
   * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
   * [ElasticSearch](http://www.elasticsearch.org/) - Java based database, popular with log aggregation, and email archiving projects.
