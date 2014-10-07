@@ -260,6 +260,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
+* [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
