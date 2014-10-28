@@ -380,6 +380,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Analog](http://www.analog.cx/) - The most popular logfile analyser in the world.
 * [GoAccess](http://goaccess.io/) - Open source real-time web log analyzer and interactive viewer that runs in a terminal.
 * [Piwik](http://piwik.org/) - Free and open source web analytics application.
+* [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically
 * [Webalizer](http://www.webalizer.org/) - Fast, free web server log file analysis program.
 
 ## Ticketing systems
