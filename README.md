@@ -66,6 +66,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
+* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool
 
 ## Cloning
 *Cloning software.*
