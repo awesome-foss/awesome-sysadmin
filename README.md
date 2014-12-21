@@ -145,6 +145,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Continuous integration/deployment software.*
 
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
+* [Capistrano](http://www.capistranorb.com) - Reliably deploy your application to any number of machines simultaneously, in sequence or as a rolling set.
+* [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (like Capistrano but single script)
 * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
