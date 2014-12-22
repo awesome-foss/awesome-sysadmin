@@ -135,7 +135,6 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
-* [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
@@ -145,13 +144,19 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 *Continuous integration/deployment software.*
 
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
-* [Capistrano](http://www.capistranorb.com) - Reliably deploy your application to any number of machines simultaneously, in sequence or as a rolling set.
-* [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (like Capistrano but single script)
 * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
-* [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
+
+## Deployment Automation
+*Tools and scripts to support deployments to your servers.*
+
+* [Capistrano](http://www.capistranorb.com) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
+* [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
+* [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
+* [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
+* [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation (rake based).
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
