@@ -411,6 +411,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [OpenProject](https://www.openproject.org) - Project collaboration with open source.
 * [Phabricator](http://phabricator.org/) Written in PHP.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
+* [Taiga](https://taiga.io/) - Agile, Free, Open Source Project Management Tool based on the Kanban and Scrum methods.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
 * [Trac](http://trac.edgewall.org/) - Written in python.
 
