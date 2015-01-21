@@ -33,7 +33,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
   * [Statistics](#statistics)
-  * [Status Pages](#statuspages)
+  * [Status Pages](#status-pages)
   * [Ticketing systems](#ticketing-systems)
   * [Troubleshooting](#troubleshooting)
   * [Project Management](#project-management)
