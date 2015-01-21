@@ -33,6 +33,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
   * [Statistics](#statistics)
+  * [Status Pages](#statuspages)
   * [Ticketing systems](#ticketing-systems)
   * [Troubleshooting](#troubleshooting)
   * [Project Management](#project-management)
@@ -400,6 +401,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [GoAccess](http://goaccess.io/) - Open source real-time web log analyzer and interactive viewer that runs in a terminal.
 * [Piwik](http://piwik.org/) - Free and open source web analytics application.
 * [Webalizer](http://www.webalizer.org/) - Fast, free web server log file analysis program.
+
+## Status Pages
+
+* [StatusPage.io](http://www.statuspage.io) - Hosted Status Page Platform.
+* [Cachet](https://cachethq.io) - An open source status page system written in PHP.
 
 ## Ticketing systems
 *Web-based ticketing system.*
