@@ -2,6 +2,7 @@
 A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 * [Awesome Sysadmin](#awesome-sysadmin)
+  * [Automation](#automation)
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
@@ -50,6 +51,14 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Repositories](#repositories)
   * [Websites](#websites)
 * [Contributing](#contributing)
+
+## Automation
+*Automation build.*
+
+* [GNU Make](http://www.amanda.org/) - The most popular automation build tool for many purposes.
+* [Apache Maven](http://maven.apache.org/) - Build automation tool mainly for Java.
+* [Apache Ant](http://www.bacula.org/) - Automation build tool, similar to make, written in Java.
+* [Gradle](http://gradle.org/) - Another open source build automation system.
 
 ## Backups
 *Backup software.*
