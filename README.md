@@ -141,6 +141,15 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
 
+## Build and software organization tools
+*Build and software organization tools.*
+
+* [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way.
+* [environment-modules Tcl](http://en.wikipedia.org/wiki/Environment_Modules_%28software%29) - .
+* [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
+* [environment-modules Tcl/C](http://modules.sourceforge.net/) - The Environment Modules package provides for the dynamic modification of a user's environment via modulefiles.
+* [HPCBIOS](hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
+
 ## Continuous Integration & Continuous Deployment
 *Continuous integration/deployment software.*
 
