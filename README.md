@@ -15,10 +15,11 @@
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Hosting Control Panels](#hosting-control-panels)
-  * [IMAP/POP3](#imappop3)
   * [IT Asset Management](#it-asset-management)
   * [LDAP](#ldap)
   * [Log Management](#log-management)
+  * [Mail Clients](#mail-clients)
+  * [Mail Servers](#mail-servers)
   * [Monitoring](#monitoring)
   * [Metric & Metric Collection](#metric--metric-collection)
   * [Network Configuration Management](#network-configuration-management)
@@ -29,7 +30,6 @@
   * [RDBMS](#rdbms)
   * [Security](#security)
   * [Service Discovery](#service-discovery)
-  * [SMTP](#smtp)
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
   * [Statistics](#statistics)
@@ -42,7 +42,6 @@
   * [VPN](#vpn)
   * [XMPP](#xmpp)
   * [Web](#web)
-  * [Webmails](#webmails)
   * [Wikis](#wikis)
 * [Resources](#resources)
   * [Blogs](#blogs)
@@ -138,7 +137,7 @@
 *Configuration management database (CMDB) software.*
 
 * [i-doit](http://www.i-doit.org/) - Open Source IT Documentation and CMDB.
-* [iTop](http://www.combodo.com/-Overview-.html) - A complete open source, ITIL, web based service management tool.
+* [iTop](http://www.combodo.com/-Overview-.html) - Complete open source, ITIL, web based service management tool.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Sicekit](https://github.com/sicekit/sicekit) - The systems & infrastructure encyclopedia toolkit (based on mediawiki).
 * [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
@@ -220,14 +219,6 @@
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
 * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 
-## IMAP/POP3
-*IMAP/POP3 mail servers.*
-
-* [Courier IMAP/POP3](http://www.courier-mta.org/imap/) - Fast, scalable, enterprise IMAP and POP3 server.
-* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
-* [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
-* [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) - One of the oldest and most popular server implementations of POP3.
-
 ## IT Asset Management
 *IT Assets Management software.*
 
@@ -258,6 +249,49 @@
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+
+## Mail Clients
+
+* [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
+* [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
+* [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
+
+### Webmail
+*Webmail applications.*
+
+* [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
+* [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
+* [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
+
+## Mail Servers
+*Software for setting up mail servers.*
+
+### MDA (IMAP/POP3)
+*Mail Delivery Agents (IMAP/POP3 software).*
+
+* [Courier IMAP/POP3](http://www.courier-mta.org/imap/) - Fast, scalable, enterprise IMAP and POP3 server.
+* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
+* [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
+* [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) - One of the oldest and most popular server implementations of POP3.
+
+### MTA (SMTP)
+*Mail Transfer Agents (SMTP servers).*
+
+* [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
+* [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
+* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+* [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server, also useful for development.
+* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
+* [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
+* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
+* [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
+
+### complete solutions
+*Software for simple deployment of a mail server, e.g. for inexperienced or impatient admins.*
+
+* [Mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
+* [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
+
 
 ## Monitoring
 *Monitoring software.*
@@ -383,19 +417,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
-## SMTP
-*SMTP servers.*
-
-* [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
-* [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
-* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
-* [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server, also useful for development.
-* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
-* [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
-* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
-* [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
-* [Mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
-
 ## Software Containers
 *Operating system–level virtualization.*
 
@@ -501,13 +522,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
 * [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
 * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
-
-## Webmails
-*Webmail applications.*
-
-* [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
-* [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
-* [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
 
 ## Web
 *Web servers.*
