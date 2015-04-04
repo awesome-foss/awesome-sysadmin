@@ -14,6 +14,7 @@
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
+  * [Editors](#editors)
   * [Hosting Control Panels](#hosting-control-panels)
   * [IT Asset Management](#it-asset-management)
   * [LDAP](#ldap)
@@ -46,7 +47,6 @@
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Books](#books)
-  * [Editors](#editors)
   * [Newsletters](#newsletters)
   * [Repositories](#repositories)
   * [Websites](#websites)
@@ -208,6 +208,22 @@
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 * [Yadifa](http://yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
+
+## Editors
+*Open source code editors.*
+
+* [Atom](https://atom.io/) - A hackable text editor from Github.
+* [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
+* [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
+* [Geany](http://www.geany.org/) - GTK2 text editor.
+* [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
+* [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
+* [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
+* [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
+* [Light Table](http://www.lighttable.com/) - The next generation code editor.
+* [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
+* [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
 ## Hosting Control Panels
 *Web hosting control panels*
@@ -567,22 +583,6 @@ Various resources, such as books, websites and articles, for improving your skil
 * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
 * [UNIX and Linux System Administration Handbook](http://www.admin.com/) - Approaches system administration from a practical perspective.
 
-## Editors
-*Open source code editors.*
-
-* [Atom](https://atom.io/) - A hackable text editor from Github.
-* [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
-* [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
-* [Geany](http://www.geany.org/) - GTK2 text editor.
-* [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
-* [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
-* [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
-* [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
-* [Light Table](http://www.lighttable.com/) - The next generation code editor.
-* [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
-* [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
-* [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
-
 ## Newsletters
 
 * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
@@ -590,6 +590,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Repositories
 *Software package repositories.*
 
+* [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
 * [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
 * [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 
