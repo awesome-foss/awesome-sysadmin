@@ -230,9 +230,12 @@
 
 * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
 * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
+* [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
+* [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
+* [Webmin](http://www.webmin.com/) - Linux server control panel.
 * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 
 ## IT Asset Management
