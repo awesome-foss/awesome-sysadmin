@@ -1,5 +1,5 @@
 # Awesome Sysadmin
-A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
+**A curated list of amazingly awesome open source sysadmin resources.** You can check out [other awesome lists](https://github.com/bayandin/awesome-awesomeness) as well. Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Automation](#automation)
@@ -584,6 +584,3 @@ Various resources, such as books, websites and articles, for improving your skil
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
-
-# Contributing
-Please see [CONTRIBUTING](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md) for details.
