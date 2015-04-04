@@ -105,6 +105,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
+* [StackStorm](http://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python
 
 ## Cloud Storage
 
