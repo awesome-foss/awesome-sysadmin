@@ -2,6 +2,7 @@
 A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
 * [Awesome Sysadmin](#awesome-sysadmin)
+  * [Automation](#automation)
   * [Backups](#backups)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
@@ -50,6 +51,14 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Repositories](#repositories)
   * [Websites](#websites)
 * [Contributing](#contributing)
+
+## Automation
+*Automation build.*
+
+* [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, written in Java.
+* [Apache Maven](http://maven.apache.org/) - Build automation tool mainly for Java.
+* [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
+* [Gradle](http://gradle.org/) - Another open source build automation system.
 
 ## Backups
 *Backup software.*
@@ -469,6 +478,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
+* [SquirellMail](http://squirrelmail.org) - Another browser-based IMAP client.
 
 ## Web
 *Web servers.*
