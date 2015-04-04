@@ -319,6 +319,7 @@
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+* [freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard. Transforms raw JSON into delicious UI. View component of MVC.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
