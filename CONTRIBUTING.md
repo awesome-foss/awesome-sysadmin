@@ -1,22 +1,22 @@
 # Contribution Guidelines
-Ensure your pull request adheres to the following guidelines:
 
-* This is an open source compilation.
-  * Check the license of the software is suitable.
+This is a compilation of **Free and Libre Open Source Software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software))**. Restrictive licenses (aka Freeware, Shareware) are *not awesome*.
+
+## Commits
 * Search previous suggestions before making a new one.
-  * Don't create duplicates.
+* Use the following format: `[RESOURCE](LINK) - DESCRIPTION.`
+  * Keep descriptions short (<80 characters).
+  * End descriptions with a full stop.
 * Make an individual commit for each category.
-  * Consolidate multiple commits to a pull request.
-* In pull request descriptions:
-  * Use imperative (e.g. add instead of added/adding).
-  * Include application names and categories.
-  * Include a link to the open source project page.
-  * Example: *Add mosh, openSSH to SSH*
-* Use the following format: \[RESOURCE\]\(LINK\) - DESCRIPTION.
-  * Keep descriptions short.
-  * End descriptions with a full stop/period.
-* Order projects alphabetically within each category.
-* Check spelling and grammar.
-* Improvements to the existing categorisation are welcome.
+  * Order projects alphabetically.
+  * Consolidate multiple commits.
+  
+## Pull Requests
+* Use imperative (e.g. add instead of added/adding) in the PR title.
+* Include application names, categories and a link to the open source project page in the description.
 
-Thank you very much for your suggestions!
+## Issues
+* Discussion, questions and bug reports only.
+* If you are sure software meets the guidelines, create a Pull Request (see above).
+* Check spelling and grammar.
+* Suggestions for improvements to existing structure are welcome.
