@@ -50,7 +50,6 @@
   * [Newsletters](#newsletters)
   * [Repositories](#repositories)
   * [Websites](#websites)
-* [Contributing](#contributing)
 
 ## Automation
 *Automation build.*
@@ -348,6 +347,7 @@
 * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
 * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
+* [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard. Transforms raw JSON into delicious UI.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
@@ -407,6 +407,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
 * [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
+* [Kafka](http://kafka.apache.org) - Extreemly high performance publish/subscribe message system.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
@@ -461,11 +462,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Statistics
 *Analytics software.*
 
-* [Analog](http://www.analog.cx/) - The most popular logfile analyser in the world.
-* [GoAccess](http://goaccess.io/) - Open source real-time web log analyzer and interactive viewer that runs in a terminal.
-* [Piwik](http://piwik.org/) - Free and open source web analytics application.
-* [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically
-* [Webalizer](http://www.webalizer.org/) - Fast, free web server log file analysis program.
+* [Analog](http://www.analog.cx/) - Logfile Analyser.
+* [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically.
+* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal.
+* [Open Web Analytics](http://www.openwebanalytics.com/) - Add web analytics to websites using JS, PHP or REST APIs.
+* [Piwik](http://piwik.org/) - Web analytics application.
+* [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis.
 
 ## Status Pages
 
@@ -476,13 +478,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Web-based ticketing system.*
 
 * [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
-* [Cerb](http://www.cerberusweb.com/) - A group-based e-mail management project built with a commercial open source license.
+* [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
 * [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
-* [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
-* [osTicket](http://osticket.com/) - Open source support ticket system.
-* [Otrs](http://www.otrs.com/) - A free and open-source trouble ticket system software package that a company, organization, or other entity can use to assign tickets to incoming queries and track further communications about them.
+* [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
+* [osTicket](http://osticket.com/) - Simple support ticket system.
+* [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
 * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
-* [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
+* [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 ## Troubleshooting
 *Troubleshooting Tools.*
