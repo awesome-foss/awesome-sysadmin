@@ -4,6 +4,7 @@
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Automation](#automation)
   * [Backups](#backups)
+  * [ChatOps](#chatops)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Storage](#cloud-storage)
@@ -77,6 +78,15 @@
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool
+
+## ChatOps
+*Conversation-driven development and management. See http://www.reddit.com/r/chatops for more information.*
+
+* [Eggdrop](http://www.eggheads.org/) - the world's most popular Open Source IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
+* [Err](http://errbot.net/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
+* [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
+* [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
+* [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
 
 ## Cloning
 *Cloning software.*
