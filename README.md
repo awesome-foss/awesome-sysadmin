@@ -64,6 +64,7 @@
 *Backup software.*
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
+* [Attic](https://attic-backup.org) - A deduplicating backup program written in Python.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Bareos](http://www.bareos.org) - A fork of Bacula backup tool.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
@@ -77,7 +78,7 @@
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
-* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool
+* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
 ## Cloning
 *Cloning software.*
