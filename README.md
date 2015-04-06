@@ -601,6 +601,9 @@ Various resources, such as books, websites and articles, for improving your skil
 * [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
 * [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
 * [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
+* [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
+* [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en-US/Red_Hat_Software_Collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
+* [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (RHEL, CentOS, etc).
 
 ## Websites
 *Useful sysadmin related websites.*
