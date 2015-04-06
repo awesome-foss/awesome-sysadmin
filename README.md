@@ -473,7 +473,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Status Pages
 
-* [StatusPage.io](http://www.statuspage.io) - Hosted Status Page Platform.
 * [Cachet](https://cachethq.io) - An open source status page system written in PHP.
 
 ## Ticketing systems
