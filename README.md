@@ -456,8 +456,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Mosh](http://mosh.mit.edu/) - The mobile shell.
 * [parallel-ssh](http://code.google.com/p/parallel-ssh/) - Provides parallel versions of OpenSSH and related tools.
 * [SSH Power Tool](http://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
-* [stormssh](http://stormssh.readthedocs.org) - A command line tool to manage SSH connections.
 * [sshrc](https://github.com/Russell91/sshrc) - sources ~/.sshrc on your local computer after logging in remotely.
+* [stormssh](http://stormssh.readthedocs.org) - A command line tool to manage SSH connections.
 
 ## Statistics
 *Analytics software.*
