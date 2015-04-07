@@ -312,6 +312,7 @@
 * [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
 * [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
 * [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+* [MailDev](https://github.com/djfarrelly/MailDev) - SMTP Server + Web Interface for viewing and testing emails during development. Made with NodeJS.
 * [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server, also useful for development.
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
