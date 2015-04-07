@@ -64,6 +64,7 @@
 *Backup software.*
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
+* [Attic](https://attic-backup.org) - A deduplicating backup program written in Python.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Bareos](http://www.bareos.org) - A fork of Bacula backup tool.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
@@ -74,10 +75,11 @@
 * [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
+* [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
-* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool
+* [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
 ## ChatOps
 *Conversation-driven development and management. See http://www.reddit.com/r/chatops for more information.*
@@ -131,6 +133,7 @@
 *Web Based collaborative code review system.*
 
 * [Gerrit](https://code.google.com/p/gerrit/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
+* [Phabricator](http://phabricator.org/) - Code review tool build by facebook and used by WikiMedia, FB, dropbox etc. Comes with an integrated wiki, bug tracker, VC integration and a CLI tool called arcanist.
 * [Review Board](https://www.reviewboard.org/) - Available as free software uner the MIT License.
 
 ## Collaborative Software
@@ -338,7 +341,6 @@
 * [Node-Bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series, metrics monitor.
 * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
-* [Opsmatic](https://opsmatic.com/) - Configuration monitoring software for your infrastructure with automatic drift detection.
 * [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
@@ -400,7 +402,7 @@
   * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
   * [Neo4j](http://www.neo4j.org/) - Open source graph database.
 * Key-Value
-  * [LevelDB](https://code.google.com/p/leveldb/) - Google's high performance key/value database.
+  * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
@@ -440,9 +442,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial. Privides tooling to automatically encrypt secrets like passwords.
 * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+* [Glastopf](http://glastopf.org/) - A low-interaction web application honeypot to emulate vulnerabilities and gather attack data.
+* [Kippo](https://github.com/desaster/kippo) - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
-* [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection techniques.
+* [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
 
 ## Service Discovery
 
@@ -611,8 +615,15 @@ Various resources, such as books, websites and articles, for improving your skil
 *Software package repositories.*
 
 * [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
+
+### Debian-based distributions
 * [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
+
+### RPM-based distributions
+* [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (RHEL, CentOS, etc).
+* [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
 * [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
+* [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en-US/Red_Hat_Software_Collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
 
 ## Websites
 *Useful sysadmin related websites.*
