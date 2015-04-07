@@ -488,6 +488,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Status Pages
 
 * [Cachet](https://cachethq.io) - An open source status page system written in PHP.
+* [PHP Server Monitor](http://sourceforge.net/projects/phpservermon/) - Open source. PHP. Easy to set up. Requires SQL.
+* [Severus](http://codecanyon.net/item/severus-server-monitor/7094389) - Built on the codeigniter MVC framework, that allows you to monitor the status servers from an easy to use interface.
 
 ## Ticketing systems
 *Web-based ticketing system.*
