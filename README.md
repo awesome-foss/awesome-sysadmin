@@ -13,10 +13,10 @@
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
+  * [Control Panels](#control-panels)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Editors](#editors)
-  * [Hosting Control Panels](#hosting-control-panels)
   * [IT Asset Management](#it-asset-management)
   * [LDAP](#ldap)
   * [Log Management](#log-management)
@@ -185,6 +185,20 @@
 * [Go](http://www.go.cd/) - Open source continuous delivery server.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 
+## Control Panels
+*Web hosting and server control panels*
+
+* [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
+* [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
+* [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
+* [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
+* [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
+* [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
+* [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
+* [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
+* [Webmin](http://www.webmin.com/) - Linux server control panel.
+* [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
+
 ## Deployment Automation
 *Tools and scripts to support deployments to your servers.*
 
@@ -237,19 +251,6 @@
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
-
-## Hosting Control Panels
-*Web hosting control panels*
-
-* [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
-* [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
-* [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
-* [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
-* [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
-* [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
-* [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
-* [Webmin](http://www.webmin.com/) - Linux server control panel.
-* [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 
 ## IT Asset Management
 *IT Assets Management software.*
