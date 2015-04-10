@@ -343,7 +343,6 @@
 * [Node-Bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series, metrics monitor.
 * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
-* [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
