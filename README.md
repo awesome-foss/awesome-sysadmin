@@ -343,6 +343,8 @@
 * [Node-Bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series, metrics monitor.
 * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
+* [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
+* [Prometheus](http://prometheus.io/) - Service monitoring and time series database written in Go at Soundcloud.§
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
@@ -447,6 +449,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Glastopf](http://glastopf.org/) - A low-interaction web application honeypot to emulate vulnerabilities and gather attack data.
 * [Kippo](https://github.com/desaster/kippo) - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
 * [OSSEC](http://ossec.net) - OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more.
+* [OSQuery](https://osquery.io/) - Query your servers status and info using a SQL like interface.
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
@@ -569,9 +572,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *XMPP Web Clients*
 
-* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives
-* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node
-* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript
+* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
+* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives.
+* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
 
 ## Web
 *Web servers.*
