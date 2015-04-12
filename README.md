@@ -567,6 +567,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
 * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
 
+*XMPP Web Clients*
+
+* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives
+* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node
+* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript
+
 ## Web
 *Web servers.*
 
