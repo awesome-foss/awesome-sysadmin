@@ -248,6 +248,7 @@
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
+* [KDevelop] (https://www.kdevelop.org/) - An open source IDE by the people behind KDE.
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
