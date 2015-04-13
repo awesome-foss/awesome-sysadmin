@@ -330,10 +330,12 @@
 ## Monitoring
 *Monitoring software.*
 
+* [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system. 
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+* [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
@@ -367,6 +369,7 @@
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
+* [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
 * [Prometheus](http://prometheus.io/) - An open-source service monitoring system and time series database.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
@@ -418,6 +421,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Queuing
 
+* [ActiveMQ](https://activemq.apache.org/) - Open source java message broker.
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
 * [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
 * [Kafka](http://kafka.apache.org) - Extremely high performance publish/subscribe message system.
@@ -447,6 +451,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Glastopf](http://glastopf.org/) - A low-interaction web application honeypot to emulate vulnerabilities and gather attack data.
 * [Kippo](https://github.com/desaster/kippo) - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
 * [OSSEC](http://ossec.net) - OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more.
+* [OSQuery](https://osquery.io/) - Query your servers status and info using a SQL like interface.
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS) created by Martin Roesch in 1998.
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
@@ -538,10 +543,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Virtualization
 *Virtualization software.*
 
+* [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
+* [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+* [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Complete open source virtualization management solution.
 * [QEMU](http://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
@@ -566,6 +574,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
 * [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
 * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
+
+*XMPP Web Clients*
+
+* [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
+* [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives.
+* [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
 
 ## Web
 *Web servers.*
