@@ -633,6 +633,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Newsletters
 
 * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
+* [Operations news](http://webopsweekly.com/) - Weekly newsletter aggregating the greatest and latest from the devops and sysadmin world
 
 ## Repositories
 *Software package repositories.*
