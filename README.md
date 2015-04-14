@@ -633,6 +633,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Newsletters
 
 * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
+* [Web Operations Weekly](http://webopsweekly.com/) - A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
 ## Repositories
 *Software package repositories.*
