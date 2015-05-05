@@ -632,6 +632,18 @@ Various resources, such as books, websites and articles, for improving your skil
 * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
 * [UNIX and Linux System Administration Handbook](http://www.admin.com/) - Approaches system administration from a practical perspective.
 
+## Communities / Forums
+*For the social people.*
+
+* [ArsTechnica OpenForum](http://arstechnica.com/civis/) – IT Forum which is attached to a large news site.
+* [Reddit](https://www.reddit.com) - Really, really large bulletin board system.
+  * [/r/Linux](https://www.reddit.com/r/linux) - News and information about Linux.
+  * [/r/LinuxQuestions](https://www.reddit.com/r/linuxquestions)
+  * [/r/SysAdmin](https://www.reddit.com/r/sysadmin/)
+* [Spiceworks Community](https://community.spiceworks.com/start) – General enterprise IT news and small articles.
+* [StackExchange Network](https://stackexchange.com/sites#technology) – Q&A communities.
+  * [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
+
 ## Newsletters
 
 * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
@@ -656,6 +668,12 @@ Various resources, such as books, websites and articles, for improving your skil
 
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
+
+## Wikis
+*Useful Wikis for Sysadmins – not to be confused with Wiki software.*
+
+* [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
+* [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 
 ## License
 
