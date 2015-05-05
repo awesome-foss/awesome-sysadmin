@@ -44,13 +44,15 @@
   * [VPN](#vpn)
   * [XMPP](#xmpp)
   * [Web](#web)
-  * [Wikis](#wikis)
+  * [Wiki Software](#wiki-software)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Books](#books)
+  * [Communities/Forums](#communities-forums)
   * [Newsletters](#newsletters)
   * [Repositories](#repositories)
   * [Websites](#websites)
+  * [Wikis](#wikis)
 
 ## Automation
 *Automation build.*
@@ -602,8 +604,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
 
 
-## Wikis
-*Wiki software.*
+## Wiki Software
 
 * [DokuWiki](https://www.dokuwiki.org/dokuwiki) - Simple to use and highly versatile wiki that doesn't require a database.
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
