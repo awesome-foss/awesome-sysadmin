@@ -48,7 +48,7 @@
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Books](#books)
-  * [Communities/Forums](#communities-forums)
+  * [Communities/Forums](#communities--forums)
   * [Newsletters](#newsletters)
   * [Repositories](#repositories)
   * [Websites](#websites)
