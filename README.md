@@ -17,8 +17,8 @@
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Editors](#editors)
+  * [Identity Management](#identity-management)
   * [IT Asset Management](#it-asset-management)
-  * [LDAP](#ldap)
   * [Log Management](#log-management)
   * [Mail Clients](#mail-clients)
   * [Mail Servers](#mail-servers)
@@ -258,6 +258,22 @@
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
+## Identity Management
+*LDAP servers and other tools to manage accounts and identities.*
+
+### LDAP
+* [389 Directory Server](http://port389.org) - Developed by Red Hat.
+* [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
+* [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
+* [OpenDS](https://opends.java.net/) - Another directory server written in Java.
+* [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
+
+### Tools and web interfaces
+* [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
+* [FreeIPA](http://www.freeipa.org/) - Security management solution, can manage LDAP, KRB, DNS, sudo, and more
+* [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
+* [Samba](https://www.samba.org/) – Open Source Active Directory and CIFS protocol implementation.
+
 ## IT Asset Management
 *IT Assets Management software.*
 
@@ -266,17 +282,6 @@
 * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
-
-## LDAP
-*LDAP servers.*
-
-* [389 Directory Server](http://port389.org) - Developed by Red Hat.
-* [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
-* [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
-* [FreeIPA](http://www.freeipa.org/) - security management solution, can manage LDAP,KRB,DNS, sudo, and more
-* [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
-* [OpenDS](https://opends.java.net/) - Another directory server written in Java.
-* [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
 
 ## Log Management
 *Log management tools: collect, parse, visualize ...*
