@@ -1,3 +1,9 @@
+/*
+  Title: Awesome Sysadmin
+  Description: A curated list of amazingly awesome open source sysadmin resources.
+  Author: n1trux
+  */
+
 # Awesome Sysadmin
 **A curated list of amazingly awesome open source sysadmin resources.** You can check out [other awesome lists](https://github.com/n1trux/awesome-awesomeness) as well. Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
