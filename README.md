@@ -314,6 +314,8 @@
 * [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
 * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
+* [Horde](http://www.horde.org) - Webmail and groupware client
+* [Rainloop](http://www.rainloop.net) - Very nice webmail with IMAP/SMTP Support and multi accounting
 
 ## Mail Servers
 *Software for setting up mail servers.*
@@ -344,6 +346,8 @@
 * [Mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
 * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
 * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture.
+* [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface.
+* [Fufix](https://www.debinux.de/fufix/) - Fufix is a mailserver installer based on Dovecot, Postfix, Postfixadmin, Nginx, PHP, MySQL and Fail2ban.
 
 
 ## Monitoring
@@ -407,6 +411,8 @@
 
 * [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
 * [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
+* [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
+* [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
 ## NoSQL
 *NoSQL databases.*
@@ -520,6 +526,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Status Pages
 
 * [Cachet](https://cachethq.io) - An open source status page system written in PHP.
+* [Stashboard](http://www.stashboard.org) - The open source status page for cloud services and APIs.
+* [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - SSD is a status dashboard designed to provide an easy to understand view into an organization's infrastructure health status.
+* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services. 
 
 ## Ticketing systems
 *Web-based ticketing system.*
