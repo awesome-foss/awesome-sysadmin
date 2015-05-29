@@ -5,7 +5,7 @@ This is a compilation of **Free and Libre Open Source Software ([FLOSS](https://
 ## Commits
 * Search previous suggestions before making a new one.
 * Use the following format: `[RESOURCE](LINK) - DESCRIPTION.`
-  * Keep descriptions short (<80 characters).
+  * Keep descriptions short (<80 characters), use (this link)[http://www.charactercountonline.com] to count.
   * End descriptions with a full stop.
 * Make an individual commit for each category.
   * Order projects alphabetically.
