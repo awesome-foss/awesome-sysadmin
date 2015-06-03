@@ -364,7 +364,7 @@
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
-* [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
+* [LibreNMS](https://github.com/librenms/librenms/) - Fully featured network monitoring system that provides a wealth of features and device support.
 * [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
@@ -376,6 +376,7 @@
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
+* [ServerStatus](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
