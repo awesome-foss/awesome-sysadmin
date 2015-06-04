@@ -213,6 +213,7 @@
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
 * [Webmin](http://www.webmin.com/) - Linux server control panel.
+* [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
 * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 
 ## Deployment Automation
