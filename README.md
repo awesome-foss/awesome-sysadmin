@@ -377,7 +377,8 @@
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
-* [ServerStatus](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
+* [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
+* [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
