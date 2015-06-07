@@ -211,6 +211,7 @@
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
 * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
+* [Virtkick](https://www.virtkick.com/) - A simple orchestrator. Manage virtual machines or Docker containers easily.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
 * [Webmin](http://www.webmin.com/) - Linux server control panel.
 * [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
