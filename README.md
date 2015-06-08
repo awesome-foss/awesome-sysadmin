@@ -586,6 +586,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Virtualization software.*
 
 * [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
+* [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your open source KVM or Xen virtualized environment.
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
