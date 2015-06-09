@@ -209,6 +209,7 @@
 * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
 * [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
+* [Panamax](http://panamax.io/) - An open-source project that makes deploying complex containerized apps as easy as Drag-and-Drop.
 * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * [Virtkick](https://www.virtkick.com/) - A simple orchestrator. Manage virtual machines or Docker containers easily.
