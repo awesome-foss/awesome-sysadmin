@@ -205,6 +205,7 @@
 *Web hosting and server control panels*
 
 * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
+* [Atomia DNS](http://atomiadns.com/) - Free and open source DNS management system.
 * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
 * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
 * [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
