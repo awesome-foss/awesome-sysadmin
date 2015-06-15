@@ -9,9 +9,9 @@ This is a compilation of **Free and Libre Open Source Software ([FLOSS](https://
   * End descriptions with a full stop.
 * Make an individual commit for each category.
   * Order projects alphabetically.
-  * Consolidate multiple commits.
   
 ## Pull Requests
+* Consolidate multiple commits.
 * Use imperative (e.g. add instead of added/adding) in the PR title.
 * Include application names, categories and a link to the open source project page in the description.
 
