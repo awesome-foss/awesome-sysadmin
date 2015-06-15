@@ -213,6 +213,7 @@
 * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
 * [Panamax](http://panamax.io/) - An open-source project that makes deploying complex containerized apps as easy as Drag-and-Drop.
 * [PDNS Gui](https://github.com/odoucet/pdns-gui) - Web based GUI which aids in administering domains and records for the PowerDNS with MySQL backend. 
+* [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * [Virtkick](https://www.virtkick.com/) - A simple orchestrator. Manage virtual machines or Docker containers easily.
