@@ -205,22 +205,29 @@
 ## Control Panels
 *Web hosting and server control panels*
 
-* [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
-* [Atomia DNS](http://atomiadns.com/) - DNS management system.
-* [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
-* [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
-* [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
-* [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
-* [Panamax](http://panamax.io/) - Project that makes deploying complex containerized apps as easy as Drag-and-Drop.
-* [PDNS Gui](https://github.com/odoucet/pdns-gui) - Web based GUI which aids in administering domains and records for the PowerDNS with MySQL backend. 
-* [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
-* [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
-* [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
-* [Virtkick](https://www.virtkick.com/) - A simple orchestrator. Manage virtual machines or Docker containers easily.
-* [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
-* [Webmin](http://www.webmin.com/) - Linux server control panel.
-* [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
-* [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
+* Web hosting
+  * [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
+  * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
+  * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
+  * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
+  * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
+* E-mail
+* DNS
+  * [Atomia DNS](http://atomiadns.com/) - DNS management system.
+  * [PDNS Gui](https://github.com/odoucet/pdns-gui) - Web based GUI which aids in administering domains and records for the PowerDNS with MySQL backend.
+  * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
+* Revision Control
+* Virtualization
+  * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
+  * [Panamax](http://panamax.io/) - Project that makes deploying complex containerized apps as easy as Drag-and-Drop.
+  * [Virtkick](https://www.virtkick.com/) - A simple orchestrator. Manage virtual machines or Docker containers easily.
+  * [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
+* Server
+  * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
+  * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
+  * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
+  * [Webmin](http://www.webmin.com/) - Linux server control panel.
+* Others
 
 ## Deployment Automation
 *Tools and scripts to support deployments to your servers.*
