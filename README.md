@@ -214,7 +214,7 @@
 * E-mail
 * DNS
   * [Atomia DNS](http://atomiadns.com/) - DNS management system.
-  * [PDNS Gui](https://github.com/odoucet/pdns-gui) - Web based GUI which aids in administering domains and records for the PowerDNS with MySQL backend.
+  * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
   * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 * Revision Control
 * Virtualization
