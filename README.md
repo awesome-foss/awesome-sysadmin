@@ -203,7 +203,7 @@
 * [Jenkins](http://jenkins-ci.org/) - An extendable continuous integration server.
 
 ## Control Panels
-*Web hosting and server control panels*
+*Web hosting and server or service control panels*
 
 * Web hosting
   * [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
