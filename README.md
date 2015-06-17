@@ -221,6 +221,7 @@
   * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
   * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 * E-mail
+  * [Postfix Admin](http://postfixadmin.sourceforge.net/) - web interface to manage postfix mailboxes, virtual domains and aliases.
 * DNS
   * [Atomia DNS](http://atomiadns.com/) - DNS management system.
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
