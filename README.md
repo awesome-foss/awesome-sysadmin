@@ -105,9 +105,10 @@
 ## Client management
 *Managing software on desktop computers.*
 
-* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) – automated inventory, deployment and network scan.
-* [Opsi](http://www.opsi.org/en) (open PC server integration) - Client Management System for Windows clients based on Debian.
-* [WAPT] (apt-get for Windows) – automated, network-wide (un)installation, configuration and upgrades of Windows based software.
+* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Inventory, deployment and network scan.
+* [Opsi](http://www.opsi.org/en) (open PC server integration) - Client Management for Windows based on Debian.
+* [WAPT] - Network-wide (un)installation, configuration and upgrades of Windows based software.
+* [WPKG] - Software deployment, upgrade and removal program for Windows.
 
 ## Cloning
 *Cloning software.*
