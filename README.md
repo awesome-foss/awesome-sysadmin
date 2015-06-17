@@ -11,6 +11,7 @@
   * [Automation](#automation)
   * [Backups](#backups)
   * [ChatOps](#chatops)
+  * [Client Management](#client-management)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Storage](#cloud-storage)
@@ -100,6 +101,13 @@
 * [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
 * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
 * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
+
+## Client management
+*Managing software on desktop computers.*
+
+* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) – automated inventory, deployment and network scan.
+* [Opsi](http://www.opsi.org/en) (open PC server integration) - Client Management System for Windows clients based on Debian.
+* [WAPT] (apt-get for Windows) – automated, network-wide (un)installation, configuration and upgrades of Windows based software.
 
 ## Cloning
 *Cloning software.*
