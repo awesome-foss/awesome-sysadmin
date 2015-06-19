@@ -35,6 +35,7 @@
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
   * [Packaging](#packaging)
+  * [Project Management](#project-management)
   * [Queuing](#queuing)
   * [RDBMS](#rdbms)
   * [Security](#security)
@@ -478,6 +479,20 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
+## Project Management
+*Web-based project management and bug tracking systems.*
+
+* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
+* [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
+* [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
+* [OpenProject](https://www.openproject.org) - Project collaboration.
+* [Phabricator](http://phabricator.org/) Written in PHP.
+* [Redmine](http://www.redmine.org/) - Written in ruby on rails.
+* [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
+* [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
+* [Trac](http://trac.edgewall.org/) - Written in python.
+
 ## Queuing
 
 * [ActiveMQ](https://activemq.apache.org/) - Java message broker.
@@ -582,20 +597,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [Trinity Rescue Kit](http://trinityhome.org) - Linux Live CD for general computer troubleshooting.
 * [Wireshark](http://www.wireshark.org/) - The world's foremost network protocol analyzer.
-
-## Project Management
-*Web-based project management and bug tracking systems.*
-
-* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
-* [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
-* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
-* [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
-* [OpenProject](https://www.openproject.org) - Project collaboration.
-* [Phabricator](http://phabricator.org/) Written in PHP.
-* [Redmine](http://www.redmine.org/) - Written in ruby on rails.
-* [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
-* [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
-* [Trac](http://trac.edgewall.org/) - Written in python.
 
 ## Version control
 *Software versioning and revision control.*
