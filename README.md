@@ -10,10 +10,12 @@
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Automation](#automation)
   * [Backups](#backups)
+  * [Build and software organization tools](#build-and-software-organization-tools)
   * [ChatOps](#chatops)
   * [Client Management](#client-management)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
+  * [Cloud Orchestration](#cloud-orchestration)
   * [Cloud Storage](#cloud-storage)
   * [Code Review](#code-review)
   * [Collaborative Software](#collaborative-software)
@@ -21,6 +23,7 @@
   * [Configuration Management](#configuration-management)
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Control Panels](#control-panels)
+  * [Deployment Automation](#deployment-automation)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Editors](#editors)
@@ -46,7 +49,6 @@
   * [Status Pages](#status-pages)
   * [Ticketing systems](#ticketing-systems)
   * [Troubleshooting](#troubleshooting)
-  * [Project Management](#project-management)
   * [Version control](#version-control)
   * [Virtualization](#virtualization)
   * [VPN](#vpn)
@@ -92,6 +94,15 @@
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
+
+## Build and software organization tools
+*Build and software organization tools.*
+
+* [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way.
+* [environment-modules Tcl](http://en.wikipedia.org/wiki/Environment_Modules_%28software%29) - .
+* [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
+* [environment-modules Tcl/C](http://modules.sourceforge.net/) - The Environment Modules package provides for the dynamic modification of a user's environment via modulefiles.
+* [HPCBIOS](hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 
 ## ChatOps
 *Conversation-driven development and management. See http://www.reddit.com/r/chatops for more information.*
@@ -193,15 +204,6 @@
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
-
-## Build and software organization tools
-*Build and software organization tools.*
-
-* [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way.
-* [environment-modules Tcl](http://en.wikipedia.org/wiki/Environment_Modules_%28software%29) - .
-* [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
-* [environment-modules Tcl/C](http://modules.sourceforge.net/) - The Environment Modules package provides for the dynamic modification of a user's environment via modulefiles.
-* [HPCBIOS](hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 
 ## Continuous Integration & Continuous Deployment
 *Continuous integration/deployment software.*
