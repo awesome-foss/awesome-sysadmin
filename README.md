@@ -12,7 +12,7 @@
   * [Backups](#backups)
   * [Build and software organization tools](#build-and-software-organization-tools)
   * [ChatOps](#chatops)
-  * [Client Management](#client-management)C
+  * [Client Management](#client-management)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Orchestration](#cloud-orchestration)
