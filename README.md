@@ -12,7 +12,7 @@
   * [Backups](#backups)
   * [Build and software organization tools](#build-and-software-organization-tools)
   * [ChatOps](#chatops)
-  * [Client Management](#client-management)
+  * [Client Management](#client-management)C
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Orchestration](#cloud-orchestration)
@@ -235,6 +235,7 @@
 * Virtualization
   * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
   * [Panamax](http://panamax.io/) - Project that makes deploying complex containerized apps as easy as Drag-and-Drop.
+  * [OpenVZ Web Panel](http://owp.softunity.com.ru/) - Web panel to control your OpenVZ servers.
   * [Virtkick](https://www.virtkick.com/) - A simple orchestrator. Manage virtual machines or Docker containers easily.
   * [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
 * Server
