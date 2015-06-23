@@ -377,6 +377,7 @@
 ### complete solutions
 *Software for simple deployment of a mail server, e.g. for inexperienced or impatient admins.*
 
+* [hMailServer](https://www.hmailserver.com) - Open source e-mail server for Microsoft Windows
 * [Mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
 * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
 * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture.
