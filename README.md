@@ -232,6 +232,7 @@
 * Revision Control
   * [iF.SVNAdmin](http://svnadmin.insanefactory.com/) - WebGUI to manage Subversion repositories and User/Group permissions.
   * [SCM-Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories.
+  * [WebSVN](http://www.websvn.info/) - Opensource web subversion repository browser.
 * Virtualization
   * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
   * [Panamax](http://panamax.io/) - Project that makes deploying complex containerized apps as easy as Drag-and-Drop.
