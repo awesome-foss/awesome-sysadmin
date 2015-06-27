@@ -220,7 +220,6 @@
   * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
   * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
   * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
-  * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 * E-mail
   * [Postfix Admin](http://postfixadmin.sourceforge.net/) - web interface to manage postfix mailboxes, virtual domains and aliases.
 * DNS
