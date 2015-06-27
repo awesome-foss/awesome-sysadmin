@@ -137,10 +137,10 @@
 * [Eucalyptus](https://www.eucalyptus.com/) - Private cloud software with AWS compatibility.
 * [Flynn](https://flynn.io) - PaaS
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
-* [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
-* [Openshift](http://www.openshift.org) - OpenShift is a platform as a service product from Red Hat.
-* [OpenStack](https://www.openstack.org/) - Software for building private and public clouds.
-* [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
+* [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
+* [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
+* [OpenStack](https://www.openstack.org/) - Build private and public clouds.
+* [The Foreman](http://theforeman.org/) - Complete lifecycle management tool for physical and virtual servers. FOSS.
 * [Tsuru](https://tsuru.io) - Tsuru is an extensible Platform as a Service software.
 
 ## Cloud Orchestration
@@ -148,7 +148,7 @@
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Cloudify](http://www.getcloudify.org/) -  TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [CloudSlang](http://www.cloudslang.io/) -  Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
-* [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
+* [Juju](https://juju.ubuntu.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
