@@ -5,6 +5,8 @@
   -->
 
 # Awesome Sysadmin
+
+[![Join the chat at https://gitter.im/n1trux/awesome-sysadmin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/n1trux/awesome-sysadmin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **A curated list of amazingly awesome open source sysadmin resources.** You can check out [other awesome lists](https://github.com/sindresorhus/awesome) as well. Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Awesome Sysadmin](#awesome-sysadmin)
