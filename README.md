@@ -189,7 +189,6 @@
 * [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
 * [iTop](http://www.combodo.com/-Overview-.html) - Complete ITIL web based service management tool.
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
-* [Sicekit](https://github.com/sicekit/sicekit) - The systems & infrastructure encyclopaedia toolkit (based on mediawiki).
 * [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 * [Collins](http://tumblr.github.io/collins) - At Tumblr, it's the infrastructure source of truth and knowledge.
 
