@@ -344,7 +344,6 @@
 ### Webmail
 *Webmail applications.*
 
-* [Mailpile](https://www.mailpile.is/) - A modern, fast web-mail client with user-friendly encryption and privacy features.
 * [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
 * [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
 * [Horde](http://www.horde.org) - Webmail and groupware client
