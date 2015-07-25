@@ -294,6 +294,7 @@
 * [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [Sublime Text](https://www.sublimetext.com/) - Graphical text editor for OS X, Linux and Windows.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
