@@ -544,7 +544,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Operating system–level virtualization.*
 
 * [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-* [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features.
+* [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
 ## SSH
