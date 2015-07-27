@@ -83,14 +83,12 @@
 * [Attic](https://attic-backup.org) - A deduplicating backup program written in Python.
 * [Bareos](http://www.bareos.org) - A fork of Bacula backup tool.
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
-* [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Brebis](http://brebisproject.org) - A fully automated backup checker
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
 * [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
 * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
-* [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
@@ -101,7 +99,6 @@
 
 * [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way.
 * [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
-* [environment-modules Tcl/C](http://modules.sourceforge.net/) - The Environment Modules package provides for the dynamic modification of a user's environment via modulefiles.
 * [HPCBIOS](hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 
 ## ChatOps
@@ -220,8 +217,6 @@
   * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
   * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
   * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
-* E-mail
-  * [Postfix Admin](http://postfixadmin.sourceforge.net/) - web interface to manage postfix mailboxes, virtual domains and aliases.
 * DNS
   * [Atomia DNS](http://atomiadns.com/) - DNS management system.
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
@@ -385,7 +380,6 @@
 *Monitoring software.*
 
 * [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
-* [BandwidthD](http://bandwidthd.sourceforge.net/) - BandwidthD tracks usage of TCP/IP network subnets and builds html files with graphs to display utilization.
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
