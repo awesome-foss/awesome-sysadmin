@@ -424,7 +424,7 @@
 * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
 * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
 
-### Metric storage
+### Storage
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
 * [InfluxDB](http://influxdb.com/) - Distributed time series database with no external dependencies.
