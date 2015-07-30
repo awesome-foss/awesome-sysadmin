@@ -409,31 +409,30 @@
 ## Metric & Metric Collection
 *Metric gathering and display software.*
 
-### Collectors only
-* [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
-* [Collectd](http://collectd.org/) - System statistic collection daemon.
-* [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
-* [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
-* [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
+* Collectors only
+  * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
+  * [Collectd](http://collectd.org/) - System statistic collection daemon.
+  * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
+  * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
+  * [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
 
-### Dashboards
-* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-* [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
-* [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
-* [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
-* [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-* [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
+* Dashboards
+  * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+  * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
+  * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
+  * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
+  * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
+  * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
 
-### Storage
-* [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-* [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
-* [InfluxDB](http://influxdb.com/) - Distributed time series database with no external dependencies.
+* Storage
+  * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
+  * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
+  * [InfluxDB](http://influxdb.com/) - Distributed time series database with no external dependencies.
 
-### Packages
-* [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-* [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
-* [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
-
+* Packages
+  * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
+  * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
+  * [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
 
 ## Network Configuration Management
 *Network configuration management tools.*
