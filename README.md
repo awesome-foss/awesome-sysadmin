@@ -558,7 +558,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Statistics
 *Analytics software.*
 
-* [Analog](http://www.analog.cx/) - Logfile Analyser.
 * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically.
 * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - Add web analytics to websites using JS, PHP or REST APIs.
