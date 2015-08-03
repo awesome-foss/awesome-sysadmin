@@ -358,6 +358,7 @@
 ### MTA (SMTP)
 *Mail Transfer Agents (SMTP servers).*
 
+* [cmail](http://cmail.rocks/) - Mail server suite with SQLite backend.
 * [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
 * [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
 * [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
