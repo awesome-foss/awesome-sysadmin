@@ -4,11 +4,11 @@
   Author: n1trux
   -->
 
-# Awesome Sysadmin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Sysadmin
 
 **A curated list of amazingly awesome open source sysadmin resources.** You can check out [other awesome lists](https://github.com/sindresorhus/awesome) as well. Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
-[![Join the chat at https://gitter.im/n1trux/awesome-sysadmin](https://img.shields.io/badge/gitter%20chat-join-blue.svg)](https://gitter.im/n1trux/awesome-sysadmin)
+[![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the Gitter chat](https://img.shields.io/badge/gitter%20chat-join-blue.svg)](https://gitter.im/n1trux/awesome-sysadmin)
 
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Automation](#automation)
