@@ -515,7 +515,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Security tools.*
 
 * [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords.
-* [Bro](http://www.bro.org) - Bro is a powerful framework for network analysis and security monitoring. 
+* [Bro](http://www.bro.org) - Bro is a powerful framework for network analysis and security monitoring.
 * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 * [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
@@ -527,6 +527,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Network intrusion prevention system (NIPS) and network intrusion detection system (NIDS).
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
+* [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing. 
 
 ## Service Discovery
 
@@ -539,7 +540,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Operating system–level virtualization.*
 
 * [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-* [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features. 
+* [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
 ## SSH
@@ -571,7 +572,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Cachet](https://cachethq.io) - Status page system written in PHP.
 * [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
 * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
-* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services. 
+* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
 
 ## Ticketing systems
 *Web-based ticketing system.*
