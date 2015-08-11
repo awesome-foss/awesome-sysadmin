@@ -515,7 +515,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Security tools.*
 
 * [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords.
-* [Bro](http://www.bro.org) - Bro is a powerful framework for network analysis and security monitoring. 
+* [Bro](http://www.bro.org) - Bro is a powerful framework for network analysis and security monitoring.
 * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
 * [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
@@ -539,7 +539,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Operating system–level virtualization.*
 
 * [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-* [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features. 
+* [LXC](https://linuxcontainers.org/lxc/) -  Userspace interface for the Linux kernel containment features.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
 ## SSH
@@ -571,7 +571,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Cachet](https://cachethq.io) - Status page system written in PHP.
 * [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
 * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
-* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services. 
+* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
 
 ## Ticketing systems
 *Web-based ticketing system.*
@@ -610,6 +610,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
+* [OpenNode](http://opennodecloud.com) - OpenNode builds open-source infrastructure management software and implements cloud systems.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution.
