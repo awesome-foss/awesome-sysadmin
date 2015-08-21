@@ -294,6 +294,7 @@
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
+* [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
 
 ## Identity Management
 *LDAP servers and other tools to manage accounts and identities.*
@@ -539,6 +540,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
 * [Snort](https://www.snort.org/) - Network intrusion prevention system (NIPS) and network intrusion detection system (NIDS).
 * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
+* [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing. 
 
 ## Service Discovery
 
