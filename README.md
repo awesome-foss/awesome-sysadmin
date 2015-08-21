@@ -338,46 +338,10 @@
 * [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
 * [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
-### Webmail
-*Webmail applications.*
 
-* [Roundcube](http://roundcube.net/) - Browser-based IMAP client with an application-like user interface.
-* [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
-* [Horde](http://www.horde.org) - Webmail and groupware client
-* [Rainloop](http://www.rainloop.net) - Very nice webmail with IMAP/SMTP Support and multi accounting
+## Mail servers/webmail
 
-## Mail Servers
-*Software for setting up mail servers.*
-
-### MDA (IMAP/POP3)
-*Mail Delivery Agents (IMAP/POP3 software).*
-
-* [Courier IMAP/POP3](http://www.courier-mta.org/imap/) - Fast, scalable, enterprise IMAP and POP3 server.
-* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
-* [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
-
-### MTA (SMTP)
-*Mail Transfer Agents (SMTP servers).*
-
-* [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
-* [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
-* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
-* [Maildrop](https://github.com/m242/maildrop) - Disposable email SMTP server, also useful for development.
-* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
-* [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
-* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
-* [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
-
-### complete solutions
-*Software for simple deployment of a mail server, e.g. for inexperienced or impatient admins.*
-
-* [hMailServer](https://www.hmailserver.com) - Open source e-mail server for Microsoft Windows
-* [Mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
-* [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
-* [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture.
-* [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface.
-* [Fufix](https://www.debinux.de/fufix/) - Fufix is a mailserver installer based on Dovecot, Postfix, Postfixadmin, Nginx, PHP, MySQL and Fail2ban.
-
+See https://github.com/kickball/awesome-selfhosted#email
 
 ## Monitoring
 *Monitoring software.*
