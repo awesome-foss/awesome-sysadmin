@@ -432,7 +432,7 @@
 
 * Storage
   * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-  * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
+  * [KairosDB](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
   * [InfluxDB](http://influxdb.com/) - Distributed time series database with no external dependencies.
 
 * Packages
