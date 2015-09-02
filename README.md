@@ -452,18 +452,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
 ## Project Management
-*Web-based project management and bug tracking systems.*
-
-* [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system.
-* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
-* [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
-* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
-* [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
-* [OpenProject](https://www.openproject.org) - Project collaboration.
-* [Redmine](http://www.redmine.org/) - Written in ruby on rails.
-* [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
-* [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
-* [Trac](http://trac.edgewall.org/) - Written in python.
+*Web-based project management and bug tracking systems*: see https://github.com/Kickball/awesome-selfhosted#project-management
 
 ## Queuing
 
