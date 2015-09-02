@@ -169,7 +169,7 @@
 ## Code Review
 *Web Based collaborative code review system.*
 
-* [Gerrit](https://code.google.com/p/gerrit/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
+* [Gerrit](https://www.gerritcodereview.com/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
 * [Phabricator](http://phabricator.org/) - Code review tool build by facebook and used by WikiMedia, FB, dropbox etc. Comes with an integrated wiki, bug tracker, VC integration and a CLI tool called arcanist.
 * [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
 
@@ -460,7 +460,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
 * [OpenProject](https://www.openproject.org) - Project collaboration.
-* [Phabricator](http://phabricator.org/) Written in PHP.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
 * [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods.
 * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
