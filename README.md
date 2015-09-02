@@ -628,15 +628,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Wiki Software
 
-* [DokuWiki](https://www.dokuwiki.org/dokuwiki) - Simple to use and highly versatile wiki that doesn't require a database.
-* [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-* [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
-* [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) - Wiki completely built in HTML5/Javascript and runs 100% on the client
-* [Mediawiki](http://www.mediawiki.org/wiki/MediaWiki) - Used to power Wikipedia.
-* [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
-* [Ōlelo Wiki](https://github.com/minad/olelo) - A wiki that stores pages in a Git repository.
-* [PmWiki](http://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites.
-* [TiddlyWiki](http://tiddlywiki.com) - Complete interactive wiki in JavaScript.
+See https://github.com/Kickball/awesome-selfhosted#wikis
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
