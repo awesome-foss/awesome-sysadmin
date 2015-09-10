@@ -440,6 +440,7 @@ See https://github.com/kickball/awesome-selfhosted#email
 * Graph
   * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
   * [Neo4j](http://www.neo4j.org/) - Graph database.
+  * [OrientDB](http://orientdb.com/) - Multi-Model Database, mainly Graph Database.
 * Key-Value
   * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
