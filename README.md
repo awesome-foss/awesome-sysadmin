@@ -339,6 +339,7 @@
   * [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
   * [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
   * [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
+  * [N1](https://nylas.com/N1) - Extensible mail client.
 
 
 ## Mail servers/webmail
