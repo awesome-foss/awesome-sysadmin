@@ -528,13 +528,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [stormssh](http://stormssh.readthedocs.org) - A command line tool to manage SSH connections.
 
 ## Statistics
-*Analytics software.*
-
-  * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically.
-  * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal.
-  * [Open Web Analytics](http://www.openwebanalytics.com/) - Add web analytics to websites using JS, PHP or REST APIs.
-  * [Piwik](http://piwik.org/) - Web analytics application.
-  * [Webalizer](http://www.webalizer.org/) - Fast web server log file analysis.
+*Analytics software. See https://github.com/Kickball/awesome-selfhosted#analytics*
 
 ## Status Pages
 
