@@ -539,16 +539,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
 
 ## Ticketing systems
-*Web-based ticketing system.*
-
-  * [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
-  * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
-  * [Flyspray](http://www.flyspray.org/) - Web-based bug tracking system written in PHP.
-  * [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
-  * [osTicket](http://osticket.com/) - Simple support ticket system.
-  * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
-  * [Request Tracker](https://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
-  * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
+*Web-based ticketing system. See https://github.com/Kickball/awesome-selfhosted#ticketing*
 
 ## Troubleshooting
 *Troubleshooting Tools.*
