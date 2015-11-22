@@ -496,7 +496,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
   * [Snort](https://www.snort.org/) - Network intrusion prevention system (NIPS) and network intrusion detection system (NIDS).
   * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
-  * [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing. 
+  * [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing.
 
 ## Service Discovery
 
