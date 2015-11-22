@@ -82,7 +82,7 @@
 
   * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
   * [Attic](https://attic-backup.org) - A deduplicating backup program written in Python.
-  * [Bareos](http://www.bareos.org) - A fork of Bacula backup tool.
+  * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
   * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
   * [Brebis](http://brebisproject.org) - A fully automated backup checker
   * [Burp](http://burp.grke.org/) - Network backup and restore program.
@@ -91,7 +91,7 @@
   * [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
   * [Obnam](http://obnam.org/) - An easy, secure, snapshots-based backup program with data de-duplication.
   * [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
-  * [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
+  * [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
   * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
   * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
   * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
@@ -105,11 +105,11 @@
   * [HPCBIOS](hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 
 ## ChatOps
-*Conversation-driven development and management. See http://www.reddit.com/r/chatops for more information.*
+*Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
   * [CloudBot](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
   * [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
-  * [Err](http://errbot.net/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
+  * [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
   * [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
   * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
   * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
@@ -119,14 +119,14 @@
 
   * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Inventory, deployment and network scan.
   * [Opsi](http://www.opsi.org/en) (open PC server integration) - Client Management for Windows based on Debian.
-  * [WAPT](http://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
+  * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
   * [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
 
 ## Cloning
 *Cloning software.*
 
   * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
-  * [Fog](http://www.fogproject.org/) - Another computer cloning solution.
+  * [Fog](https://www.fogproject.org/) - Another computer cloning solution.
 
 ## Cloud Computing
 
@@ -146,26 +146,26 @@
 
 ## Cloud Orchestration
 
-  * [BOSH](http://docs.cloudfoundry.org/bosh/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
-  * [Cloudify](http://www.getcloudify.org/) - TOSCA-based cloud orchestration software platform written in Python and YAML.
+  * [BOSH](http://bosh.io/docs/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
+  * [Cloudify](http://getcloudify.org/) - TOSCA-based cloud orchestration software platform written in Python and YAML.
   * [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
-  * [Juju](https://juju.ubuntu.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
+  * [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
   * [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/v1.0/)) `Apache` `Go`
-  * [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
+  * [MCollective](https://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
   * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
   * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
-  * [Salt](http://www.saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
-  * [StackStorm](http://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python
+  * [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
+  * [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python
 
 ## Cloud Storage
 
   * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
   * [ownCloud](https://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
   * [Pydio](https://pyd.io) - Pydio (formerly AjaXplorer) is a mature solution for file sharing and synchronization.
-  * [Seafile](http://seafile.com) - Another Cloud Storage solution.
+  * [Seafile](https://www.seafile.com/en/home/) - Another Cloud Storage solution.
   * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
   * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
-  * [Syncthing](http://syncthing.net/) - System for private, encrypted and authenticated distribution of data.
+  * [Syncthing](https://syncthing.net/) - System for private, encrypted and authenticated distribution of data.
 
 ## Code Review
 *Web Based collaborative code review system.*
@@ -178,11 +178,11 @@
 *Collaborative software or groupware suites.*
 
   * [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
-  * [EGroupware](http://www.egroupware.org/) - Groupware software written in PHP.
+  * [EGroupware](http://www.egroupware.org/start.html) - Groupware software written in PHP.
   * [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
-  * [Kolab](https://www.kolab.org) - Another groupware suite.
+  * [Kolab](https://kolab.org/) - Another groupware suite.
   * [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
-  * [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
+  * [Zimbra](http://community.zimbra.com/) - Collaborative software suite, that includes an email server and web client.
 
 ## Configuration Management Database
 *Configuration management database (CMDB) software.*
@@ -191,25 +191,25 @@
   * [iTop](http://www.combodo.com/-Overview-.html) - Complete ITIL web based service management tool.
   * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
   * [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
-  * [Collins](http://tumblr.github.io/collins) - At Tumblr, it's the infrastructure source of truth and knowledge.
+  * [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 
 ## Configuration Management
 *Configuration management tools.*
 
-  * [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
-  * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
-  * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
+  * [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
+  * [CFEngine](https://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
+  * [Chef](https://www.chef.io/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
   * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
-  * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
-  * [Salt](http://www.saltstack.com/) - It's written in Python.
-  * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
+  * [Puppet](https://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
+  * [Salt](http://saltstack.com/) - It's written in Python.
+  * [Slaughter](http://www.steve.org.uk/Software/slaughter/) - It's written in Perl.
 
 ## Continuous Integration & Continuous Deployment
 *Continuous integration/deployment software.*
 
   * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
   * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
-  * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
+  * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
   * [Go](http://www.go.cd/) - Continuous delivery server.
   * [Jenkins](http://jenkins-ci.org/) - An extendable continuous integration server.
 
@@ -217,10 +217,10 @@
 *Web hosting and server or service control panels*
 
   * Web hosting
-    * [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
+    * [Froxlor](https://froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
     * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
     * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
-    * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
+    * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
   * DNS
     * [Atomia DNS](http://atomiadns.com/) - DNS management system.
     * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
@@ -245,7 +245,7 @@
 ## Deployment Automation
 *Tools and scripts to support deployments to your servers.*
 
-  * [Capistrano](http://www.capistranorb.com) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
+  * [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
   * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
   * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
   * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
@@ -255,11 +255,11 @@
 *Network distributed filesystems.*
 
   * [Ceph](http://ceph.com/) - Distributed object store and file system.
-  * [DRBD](http://www.drbd.org/) - Distributed Replicated Block Device.
+  * [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
   * [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
   * [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
   * [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
-  * [Lustre](http://lustre.opensfs.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
+  * [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
   * [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
   * [MogileFS](http://mogilefs.org/) - Application level, network distributed file system.
   * [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
@@ -277,21 +277,21 @@
   * [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
   * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
   * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
-  * [Yadifa](http://yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
+  * [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
 
 ## Editors
 *Open source code editors.*
 
   * [Atom](https://atom.io/) - A hackable text editor from Github.
   * [Brackets](http://brackets.io/) - Code editor for web designers and front-end developers.
-  * [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
+  * [Eclipse](http://www.eclipse.org/) - IDE written in Java with an extensible plug-in system.
   * [Geany](http://www.geany.org/) - GTK2 text editor.
   * [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
   * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
-  * [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
+  * [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages.
   * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
   * [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
-  * [Light Table](http://www.lighttable.com/) - The next generation code editor.
+  * [Light Table](http://lighttable.com/) - The next generation code editor.
   * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
   * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
   * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
@@ -301,14 +301,14 @@
 *LDAP servers and other tools to manage accounts and identities.*
 
 ### LDAP
-  * [389 Directory Server](http://port389.org) - Developed by Red Hat.
+  * [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
   * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
   * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
   * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
-  * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
+  * [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
 
 ### Tools and web interfaces
-  * [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
+  * [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
   * [FreeIPA](http://www.freeipa.org/) - Security management solution, can manage LDAP, KRB, DNS, sudo, and more
   * [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
   * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
@@ -320,18 +320,18 @@
   * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
   * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
   * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
-  * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
+  * [Snipe IT](https://snipeitapp.com/) - Asset & license management software.
 
 ## Log Management
 *Log management tools: collect, parse, visualize ...*
 
-  * [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
+  * [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
   * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
   * [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
-  * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
+  * [Graylog2](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
   * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
-  * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
-  * [Logstash](http://logstash.net/) - Tool for managing events and logs.
+  * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
+  * [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
   * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
 ## Mail Clients
@@ -364,19 +364,19 @@ See https://github.com/kickball/awesome-selfhosted#email
   * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
   * [Linux Dash](https://github.com/afaqurk/linux-dash) - A simple, low-overhead web dashboard for GNU / Linux. (~1MB) ([Demo](http://linuxdash.afaqtariq.com/))
   * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
-  * [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
-  * [Node-Bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series, metrics monitor.
+  * [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
+  * [Node-Bell](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series, metrics monitor.
   * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
   * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
   * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely
   * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
-  * [Sensu](http://sensuapp.org/) - Monitoring framework.
+  * [Sensu](https://sensuapp.org/) - Monitoring framework.
   * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
   * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
   * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
   * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
   * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
-  * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
+  * [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
   * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
   * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
@@ -401,11 +401,11 @@ See https://github.com/kickball/awesome-selfhosted#email
 * Storage
   * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
   * [KairosDB](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
-  * [InfluxDB](http://influxdb.com/) - Distributed time series database with no external dependencies.
+  * [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
 
 * Packages
   * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-  * [Packetbeat](http://packetbeat.com/) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
+  * [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
   * [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
 
 ## Network Configuration Management
@@ -421,7 +421,7 @@ See https://github.com/kickball/awesome-selfhosted#email
 *Newsletter software.*
 
   * [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
-  * [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
+  * [phpList](https://www.phplist.com/) - Newsletter manager written in PHP.
   * [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
   * [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
@@ -434,13 +434,13 @@ See https://github.com/kickball/awesome-selfhosted#email
   * [Hypertable](http://hypertable.org/) - C++ based BigTable-like DBMS, communicates through Thrift and runs either as stand-alone or on distributed FS such as Hadoop.
 * Document Store
   * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
-  * [ElasticSearch](http://www.elasticsearch.org/) - Java based database, popular with log aggregation, and email archiving projects.
-  * [MongoDB](http://www.mongodb.org/) - Another document-oriented database system.
+  * [ElasticSearch](https://www.elastic.co/) - Java based database, popular with log aggregation, and email archiving projects.
+  * [MongoDB](https://www.mongodb.org/) - Another document-oriented database system.
   * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
   * [RethinkDB](http://www.rethinkdb.com/) - Distributed document store database, focuses on JSON.
 * Graph
   * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
-  * [Neo4j](http://www.neo4j.org/) - Graph database.
+  * [Neo4j](http://neo4j.com/) - Graph database.
 * Key-Value
   * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
@@ -451,7 +451,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Packaging
 
   * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
-  * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
+  * [omnibus-ruby](https://github.com/chef/omnibus) - Full stack, cross distro packaging software (Ruby).
   * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
   * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
@@ -474,8 +474,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Firebird](http://www.firebirdsql.org/) - True universal database.
   * [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth.
   * [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
-    * [adminer](http://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
-  * [Percona Server](http://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
+    * [adminer](https://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
+  * [Percona Server](https://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
   * [PostgreSQL](http://www.postgresql.org/) - Object-relational database management system (ORDBMS).
   * [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.
   * [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
@@ -484,14 +484,14 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Security tools.*
 
   * [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords.
-  * [Bro](http://www.bro.org) - Bro is a powerful framework for network analysis and security monitoring.
+  * [Bro](https://www.bro.org/) - Bro is a powerful framework for network analysis and security monitoring.
   * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
   * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
   * [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
   * [Glastopf](http://glastopf.org/) - A low-interaction web application honeypot to emulate vulnerabilities and gather attack data.
   * [Kippo](https://github.com/desaster/kippo) - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
   * [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
-  * [OSSEC](http://ossec.net) - OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more.
+  * [OSSEC](http://www.ossec.net/) - OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more.
   * [OSQuery](https://osquery.io/) - Query your servers status and info using a SQL like interface.
   * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
   * [Snort](https://www.snort.org/) - Network intrusion prevention system (NIPS) and network intrusion detection system (NIDS).
@@ -500,7 +500,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Service Discovery
 
-  * [Consul](http://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
+  * [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
   * [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
   * [etcd](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
   * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
@@ -518,8 +518,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Advanced SSH config](https://pypi.python.org/pypi/advanced-ssh-config/) - Enhances ssh_config file capabilities, completely transparent.
   * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn ssh session after network interruption.
   * [Cluster SSH](http://sourceforge.net/projects/clusterssh/) - Controls a number of xterm windows via a single graphical console.
-  * [DSH](http://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.
-  * [Mosh](http://mosh.mit.edu/) - The mobile shell.
+  * [DSH](https://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Dancer's shell / distributed shell - Wrapper for executing multiple remote shell commands from one command line.
+  * [Mosh](https://mosh.mit.edu/) - The mobile shell.
   * [parallel-ssh](http://code.google.com/p/parallel-ssh/) - Provides parallel versions of OpenSSH and related tools.
   * [ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) - A democratic SSH certificate authority.
   * [ssh-ca](https://github.com/cloudtools/ssh-ca/) - Allows giving ssh access to servers without putting a users key on the server, as well as expiring access.
@@ -546,13 +546,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Ticketing systems
 *Web-based ticketing system.*
 
-  * [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
+  * [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
   * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project.
-  * [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
+  * [Flyspray](http://www.flyspray.org/) - Web-based bug tracking system written in PHP.
   * [MantisBT](http://www.mantisbt.org/) - Web-based bug tracking system.
   * [osTicket](http://osticket.com/) - Simple support ticket system.
   * [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications.
-  * [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
+  * [Request Tracker](https://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
   * [TheBugGenie](http://www.thebuggenie.com) - Ticket system with extensive user rights system.
 
 ## Troubleshooting
@@ -561,7 +561,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   + [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
   * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
   * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
-  * [Wireshark](http://www.wireshark.org/) - The world's foremost network protocol analyzer.
+  * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
 ## Version control
 *Software versioning and revision control.*
@@ -569,7 +569,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
   * [Git](http://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed.
   * [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
-  * [Mercurial](http://mercurial.selenic.com/) - Another distributed revision control.
+  * [Mercurial](https://www.mercurial-scm.org/) - Another distributed revision control.
   * [Subversion](http://subversion.apache.org/) - Client-server revision control system.
 
 ## Virtualization
@@ -582,7 +582,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
   * [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
   * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
-  * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+  * [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
   * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution.
   * [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
   * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
@@ -596,13 +596,13 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
   * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
   * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
-  * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
+  * [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
   * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 
 ## XMPP
 *XMPP servers.*
 
-  * [ejabberd](http://www.ejabberd.im/) - XMPP instant messaging server written in Erlang/OTP.
+  * [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server written in Erlang/OTP.
   * [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM.
   * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
   * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
@@ -639,9 +639,9 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ## Blogs
 
-  * [Code as Craft](http://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
+  * [Code as Craft](https://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
   * [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
-  * [Rackspace Developers](http://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
+  * [Rackspace Developers](https://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
 
 ## Books
 *Sysadmin related books.*
@@ -666,7 +666,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ## Newsletters
 
-  * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
+  * [Servers for Hackers](https://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
   * [Web Operations Weekly](http://webopsweekly.com/) - A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
 ## Repositories
@@ -675,13 +675,13 @@ Various resources, such as books, websites and articles, for improving your skil
   * [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
 
 ### Debian-based distributions
-  * [Dotdeb](http://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
+  * [Dotdeb](https://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
 
 ### RPM-based distributions
   * [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (RHEL, CentOS, etc).
   * [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
   * [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
-  * [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en-US/Red_Hat_Software_Collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
+  * [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
 
 ## Websites
 *Useful sysadmin related websites.*
