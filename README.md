@@ -496,7 +496,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
   * [Snort](https://www.snort.org/) - Network intrusion prevention system (NIPS) and network intrusion detection system (NIDS).
   * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
-  * [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing. 
+  * [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing.
 
 ## Service Discovery
 
@@ -560,6 +560,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
   + [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
   * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
+  * [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
   * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
   * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
