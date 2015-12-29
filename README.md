@@ -416,6 +416,7 @@ See https://github.com/kickball/awesome-selfhosted#email
   * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
   * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
   * [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
+  * [phpIPAM](http://phpipam.net/) - free open-source IP address web management tool.
 
 ## Newsletters
 *Newsletter software.*
