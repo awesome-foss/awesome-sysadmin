@@ -130,7 +130,7 @@
 
 ## Cloud Computing
 
-  * [AppScale](http:/github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
+  * [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
   * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
   * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
   * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
