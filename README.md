@@ -181,7 +181,7 @@
   * [EGroupware](http://www.egroupware.org/start.html) - Groupware software written in PHP.
   * [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
   * [Kolab](https://kolab.org/) - Another groupware suite.
-  * [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
+  * [SOGo](http://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
   * [Zimbra](http://community.zimbra.com/) - Collaborative software suite, that includes an email server and web client.
 
 ## Configuration Management Database
