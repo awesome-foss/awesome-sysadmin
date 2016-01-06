@@ -498,6 +498,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Snort](https://www.snort.org/) - Network intrusion prevention system (NIPS) and network intrusion detection system (NIDS).
   * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
   * [SSHGuard](http://www.sshguard.net/) - A software to protect services in addition to SSH, written in C
+  * [Kippo](https://github.com/desaster/ki) - 
 
 ## Service Discovery
 
