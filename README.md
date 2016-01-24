@@ -130,7 +130,7 @@
 
 ## Cloud Computing
 
-  * [AppScale](http:/github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
+  * [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
   * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
   * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
   * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
@@ -181,7 +181,7 @@
   * [EGroupware](http://www.egroupware.org/start.html) - Groupware software written in PHP.
   * [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
   * [Kolab](https://kolab.org/) - Another groupware suite.
-  * [SOGo](https://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
+  * [SOGo](http://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
   * [Zimbra](http://community.zimbra.com/) - Collaborative software suite, that includes an email server and web client.
 
 ## Configuration Management Database
@@ -600,7 +600,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
   * [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server written in Erlang/OTP.
   * [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM.
-  * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform) - Fork of ejabberd.
+  * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Fork of ejabberd.
   * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
   * [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
   * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
