@@ -362,7 +362,6 @@ See https://github.com/kickball/awesome-selfhosted#email
   * [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
   * [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems.
   * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
-  * [Linux Dash](https://github.com/afaqurk/linux-dash) - A simple, low-overhead web dashboard for GNU / Linux. (~1MB) ([Demo](http://linuxdash.afaqtariq.com/))
   * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
   * [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
   * [Node-Bell](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series, metrics monitor.
