@@ -365,7 +365,11 @@ See https://github.com/kickball/awesome-selfhosted#email
   * [Node-Bell](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series, metrics monitor.
   * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
   * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
-  * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely
+  * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
+  * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut
+ils and flask.
+  * [pyDash](https://github.com/k3oni/pydash) - Small web-based monitoring dashboard for linux. ([De
+mo](http://pydash.hostechs.com/main/) - _admin/admin_)
   * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
   * [Sensu](https://sensuapp.org/) - Monitoring framework.
   * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
@@ -373,9 +377,14 @@ See https://github.com/kickball/awesome-selfhosted#email
   * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
   * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
   * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
+  * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
   * [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
   * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
   * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
+
+
+
+
 
 ## Metric & Metric Collection
 *Metric gathering and display software.*
