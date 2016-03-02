@@ -347,7 +347,7 @@ See https://github.com/kickball/awesome-selfhosted#email
 ## Monitoring
 *Monitoring software.*
 
-  * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface ([Demo](http://demo.adagios.org/), [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
+  * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
   * [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
   * [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
   * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
