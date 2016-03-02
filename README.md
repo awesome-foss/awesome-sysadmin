@@ -585,20 +585,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 
 ## XMPP
-*XMPP servers.*
 
-  * [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server written in Erlang/OTP.
-  * [Metronome IM](http://www.lightwitch.org/metronome) - Fork of Prosody IM.
-  * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Fork of ejabberd.
-  * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server.
-  * [Prosody IM](http://prosody.im/) - XMPP server written in Lua.
-  * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
-
-*XMPP Web Clients*
-
-  * [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript.
-  * [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common paid alternatives.
-  * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
+_See https://github.com/Kickball/awesome-selfhosted#xmpp_
 
 ## Web
 *Web servers.*
