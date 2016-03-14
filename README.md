@@ -247,7 +247,7 @@
   * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
   * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
   * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-  * [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation (rake based).
+  * [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
 ## Distributed Filesystems
 *Network distributed filesystems.*
