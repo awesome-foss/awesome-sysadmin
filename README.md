@@ -115,6 +115,8 @@
 ## Client management
 *Managing software on desktop computers.*
 
+  * [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
+  * [just-install](http://just-install.it/) – Python script for downloading and silently installing MSI files.
   * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Inventory, deployment and network scan.
   * [Opsi](http://www.opsi.org/en) (open PC server integration) - Client Management for Windows based on Debian.
   * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
@@ -238,7 +240,6 @@
     * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
     * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
     * [Webmin](http://www.webmin.com/) - Linux server control panel.
-  * Others
 
 ## Deployment Automation
 *Tools and scripts to support deployments to your servers.*
