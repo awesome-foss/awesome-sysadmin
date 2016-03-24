@@ -294,6 +294,7 @@
   * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
   * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
   * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
+  * [VSCode](https://github.com/Microsoft/vscode) - Cross platform Visual Studio Code.
   * [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
 
 ## Identity Management
