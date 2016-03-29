@@ -79,9 +79,9 @@
 *Backup software.*
 
   * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
-  * [Attic](https://attic-backup.org) - A deduplicating backup program written in Python.
   * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
   * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
+  * [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
   * [Brebis](http://brebisproject.org) - A fully automated backup checker
   * [Burp](http://burp.grke.org/) - Network backup and restore program.
   * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
