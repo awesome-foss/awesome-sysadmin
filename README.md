@@ -112,6 +112,7 @@
   * [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
   * [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
   * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
+  * [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go.
 
 ## Client management
 *Managing software on desktop computers.*
