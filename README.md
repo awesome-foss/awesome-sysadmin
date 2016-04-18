@@ -296,6 +296,7 @@
   * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
   * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
   * [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
+  * [Visual Studio Code](https://code.visualstudio.com/) - An open source cross-platform extensible code editor from Microsoft
 
 ## Identity Management
 *LDAP servers and other tools to manage accounts and identities.*
