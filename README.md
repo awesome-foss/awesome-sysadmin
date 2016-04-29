@@ -611,7 +611,9 @@ _See https://github.com/Kickball/awesome-selfhosted#xmpp_
 *Web servers.*
 
   * [Apache](http://httpd.apache.org/) - Most popular web server.
+  * [Caddy](https://caddyserver.com/) - Modern feature set and easy to configure.
   * [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
+  * [Hiawatha](https://www.hiawatha-webserver.org/) - Prioritises security, simplicity and performance.
   * [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
   * [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
   * [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
