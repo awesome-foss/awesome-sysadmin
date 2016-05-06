@@ -341,9 +341,11 @@
 ## Mail Clients
 
   * [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
+  * [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
   * [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
-  * [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
   * [N1](https://nylas.com/N1) - Extensible mail client.
+  * [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
+  * [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
 
 ## Mail servers/webmail
