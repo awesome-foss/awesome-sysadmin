@@ -210,6 +210,7 @@
 *Continuous integration/deployment software.*
 
   * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
+  * [CapsuleCD](https://github.com/AnalogJ/capsulecd) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc).
   * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
   * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
   * [Go](http://www.go.cd/) - Continuous delivery server.
