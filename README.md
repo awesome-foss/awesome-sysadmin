@@ -332,7 +332,7 @@
   * [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
   * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
   * [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
-  * [Graylog2](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
+  * [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
   * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
   * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
   * [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
