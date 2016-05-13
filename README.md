@@ -611,7 +611,7 @@ _See https://github.com/Kickball/awesome-selfhosted#xmpp_
 *Web servers.*
 
   * [Apache](http://httpd.apache.org/) - Most popular web server.
-  * [Caddy](https://caddyserver.com/) - Modern feature set and easy to configure.
+  * [Caddy](https://caddyserver.com/) - Lightweight, general-purpose web server supporting HTTP/2, automatic TLS and easy configuration. Written in Go.
   * [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
   * [Hiawatha](https://www.hiawatha-webserver.org/) - Prioritises security, simplicity and performance.
   * [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
