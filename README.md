@@ -161,13 +161,7 @@
 
 ## Cloud Storage
 
-  * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
-  * [ownCloud](https://owncloud.org) - Provides universal access to your files via the web, your computer or your mobile devices.
-  * [Pydio](https://pyd.io) - Pydio (formerly AjaXplorer) is a mature solution for file sharing and synchronization.
-  * [Seafile](https://www.seafile.com/en/home/) - Another Cloud Storage solution.
-  * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
-  * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
-  * [Syncthing](https://syncthing.net/) - System for private, encrypted and authenticated distribution of data.
+_See https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization_
 
 ## Code Review
 *Web Based collaborative code review system.*
@@ -350,7 +344,7 @@
 
 ## Mail servers/webmail
 
-See https://github.com/kickball/awesome-selfhosted#email
+_See https://github.com/kickball/awesome-selfhosted#email_
 
 ## Monitoring
 *Monitoring software.*
@@ -470,6 +464,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
 ## Project Management
+
 *Web-based project management and bug tracking systems*: see https://github.com/Kickball/awesome-selfhosted#project-management
 
 ## Queuing
@@ -535,9 +530,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
 ## SSH
+
 *SSH tools. See https://github.com/moul/awesome-ssh*
 
 ## Statistics
+
 *Analytics software. See https://github.com/Kickball/awesome-selfhosted#analytics*
 
 ## Status Pages
@@ -618,7 +615,7 @@ _See https://github.com/Kickball/awesome-selfhosted#xmpp_
 
 ## Wiki Software
 
-See https://github.com/Kickball/awesome-selfhosted#wikis
+_See https://github.com/Kickball/awesome-selfhosted#wikis_
 
 # Resources
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
