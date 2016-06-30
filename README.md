@@ -218,6 +218,7 @@ _See https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization
     * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
     * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
     * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
+    * [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
   * DNS
     * [Atomia DNS](http://atomiadns.com/) - DNS management system.
     * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
@@ -235,7 +236,6 @@ _See https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization
   * Server
     * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
     * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
-    * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
     * [Webmin](http://www.webmin.com/) - Linux server control panel.
 
 ## Deployment Automation
