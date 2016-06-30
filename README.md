@@ -231,7 +231,6 @@ _See https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization
     * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
     * [Panamax](http://panamax.io/) - Project that makes deploying complex containerized apps as easy as Drag-and-Drop.
     * [OpenVZ Web Panel](http://owp.softunity.com.ru/) - Web panel to control your OpenVZ servers.
-    * [Virtkick](https://www.virtkick.com/) - A simple orchestrator. Manage virtual machines or Docker containers easily.
     * [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
   * Server
     * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
