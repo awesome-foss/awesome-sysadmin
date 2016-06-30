@@ -584,7 +584,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
   * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
   * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
-  * [XenServer](http://xenserver.org/) - Complete virtualization platform, using Xen and an extended toolstack/API.
+  * [XenServer](http://xenserver.org/) - Turnkey virtualization platform based on CentOS distribution, using Xen and an extended toolstack/API.
 
 ## VPN
 *VPN software.*
