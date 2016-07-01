@@ -43,7 +43,7 @@
   * [Queuing](#queuing)
   * [RDBMS](#rdbms)
   * [Remote Management](#remote-management)
-  * [Security](#security)
+  * Security: [sbilly/awesome-security](https://github.com/sbilly/awesome-security)
   * [Service Discovery](#service-discovery)
   * [Software Containers](#software-containers)
   * [SSH](#ssh)
@@ -494,26 +494,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 * [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 * [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol. 
-
-## Security
-*Security tools.*
-
-  * [Blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial. Provides tooling to automatically encrypt secrets like passwords.
-  * [Bro](https://www.bro.org/) - Bro is a powerful framework for network analysis and security monitoring.
-  * [Denyhosts](http://denyhosts.sourceforge.net/) - Thwart SSH dictionary based attacks and brute force attacks.
-  * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
-  * [FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response, a cybersecurity incident management platform.
-  * [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
-  * [Glastopf](http://glastopf.org/) - A low-interaction web application honeypot to emulate vulnerabilities and gather attack data.
-  * [Kippo](https://github.com/desaster/kippo) - A medium-interaction SSH honeypot, mostly used as a standalone SSH daemon with a configurable Filesystem sandbox.
-  * [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
-  * [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing.
-  * [OSSEC](http://www.ossec.net/) - OSSEC is a HIDS that performs log analysis, FIM, rootkit detection, and much more.
-  * [OSQuery](https://osquery.io/) - Query your servers status and info using a SQL like interface.
-  * [pfSense](https://www.pfsense.org/) - Firewall and Router FreeBSD distribution.
-  * [Snort](https://www.snort.org/) - Network intrusion prevention system (NIPS) and network intrusion detection system (NIDS).
-  * [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
-  * [SSHGuard](http://www.sshguard.net/) - A software to protect services in addition to SSH, written in C
 
 ## Service Discovery
 
