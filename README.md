@@ -565,6 +565,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
   * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
   * [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
+  * [Otto](https://www.ottoproject.io/) - Development and deployment system designed as the successor to Vagrant.
   * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
   * [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
   * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution.
