@@ -391,6 +391,7 @@ ils and flask.
   * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
   * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
   * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
+  * [Statusengine](https://statusengine.org) - MySQL backend for Nagios/Naemon with responsive web frontend.
   * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
   * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
   * [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
