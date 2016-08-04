@@ -624,7 +624,7 @@ Various resources, such as books, websites and articles, for improving your skil
   * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
   * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
   * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
-  * [UNIX and Linux System Administration Handbook](http://www.admin.com/) - Approaches system administration from a practical perspective.
+  * UNIX and Linux System Administration Handbook (ISBN-13: 978-0131480056) - Approaches system administration from a practical perspective.
 
 
 ## Communities / Forums
