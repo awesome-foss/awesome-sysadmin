@@ -93,6 +93,7 @@
   * [Obnam](http://obnam.org/) - An easy, secure, snapshots-based backup program with data de-duplication.
   * [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
   * [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
+  * [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
   * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
   * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
   * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
@@ -157,14 +158,17 @@
 ## Cloud Orchestration
 
   * [BOSH](http://bosh.io/docs/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
+  * [Cloud Foundry](https://www.cloudfoundry.org/) - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
   * [Cloudify](http://getcloudify.org/) - TOSCA-based cloud orchestration software platform written in Python and YAML.
   * [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
+  * [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
   * [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
   * [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
   * [MCollective](https://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
   * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
   * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
   * [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
+  * [Spruce](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis](https://github.com/starkandwayne/genesis).
   * [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python
 
 
@@ -214,6 +218,7 @@
 
   * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
   * [CapsuleCD](https://github.com/AnalogJ/capsulecd) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc).
+  * [concourse](http://concourse.ci/) - A modern tool to gain visibility on the CI/CD pipeline.  The flexible, declarative DSL is easy to learn and powerful to use.
   * [Drone](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
   * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
   * [Go](http://www.go.cd/) - Continuous delivery server.
@@ -366,6 +371,7 @@
   * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
   * [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
   * [Bloonix](https://bloonix.org) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
+  * [bolo](http://bolo.niftylogic.com/) - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
   * [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
   * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
   * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
@@ -621,6 +627,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Books
 *Sysadmin related books.*
 
+  * [Codex](https://www.gitbook.com/book/starkandwayne/codex/details) - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
   * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
   * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
   * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
