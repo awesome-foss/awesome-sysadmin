@@ -161,7 +161,7 @@
   * [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
   * [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
   * [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
-  * [MCollective](https://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
+  * [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
   * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
   * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
   * [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
@@ -204,7 +204,7 @@
   * [CFEngine](https://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
   * [Chef](https://www.chef.io/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
   * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
-  * [Puppet](https://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
+  * [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
   * [Salt](http://saltstack.com/) - It's written in Python.
   * [Slaughter](http://www.steve.org.uk/Software/slaughter/) - It's written in Perl.
 
