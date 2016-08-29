@@ -319,14 +319,19 @@
 ### LDAP
   * [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
   * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
+  * [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
   * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
   * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
   * [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
 
 ### Tools and web interfaces
   * [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
-  * [FreeIPA](http://www.freeipa.org/) - Security management solution, can manage LDAP, KRB, DNS, sudo, and more
+  * [FreeIPA](http://www.freeipa.org/) - Security management solution, can manage LDAP, KRB, DNS, sudo, and more.
+  * [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
+  * [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites.
   * [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
+  * [OpenID](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
+  * [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
   * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 
 
