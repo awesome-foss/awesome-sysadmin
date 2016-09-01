@@ -328,7 +328,7 @@
   * [FreeIPA](http://www.freeipa.org/) - Security management solution, can manage LDAP, KRB, DNS, sudo, and more
   * [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
   * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
-
+  * [BounCA](https://bounca.org/) - BounCA is a personal SSL / Certificate Authority Key tool for managing self-signed certificates.
 
 ## IT Asset Management
 *IT Assets Management software.*
