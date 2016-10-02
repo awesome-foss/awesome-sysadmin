@@ -276,6 +276,7 @@
   * [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
   * [MogileFS](http://mogilefs.org/) - Application level, network distributed file system.
   * [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
+  * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
   * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
   * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
