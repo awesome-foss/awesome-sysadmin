@@ -266,6 +266,7 @@
 ## Distributed Filesystems
 *Network distributed filesystems.*
 
+  * [Camlistore](https://camlistore.org/) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
   * [Ceph](http://ceph.com/) - Distributed object store and file system.
   * [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
   * [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
