@@ -277,7 +277,7 @@
   * [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
   * [MogileFS](http://mogilefs.org/) - Application level, network distributed file system.
   * [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
-  * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation. 
+  * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation.
   * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
   * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
   * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
@@ -337,6 +337,7 @@
   * [OpenID](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
   * [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
   * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
+  * [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
 
 
 ## IT Asset Management
