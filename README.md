@@ -388,6 +388,7 @@
   * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache` `Go`
   * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
   * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+  * [Datadog](https://github.com/DataDog/dd-agent) - Real-time monitoring, visualization, and alerting as a service \[[1](https://datadoghq.com/blog?ref=awesome)\]   
   * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
   * [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
   * [Icinga](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
@@ -517,7 +518,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Firebird](http://www.firebirdsql.org/) - True universal database.
   * [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth.
   * [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
-    * [adminer](https://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
+  * [adminer](https://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
   * [Percona Server](https://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
   * [PostgreSQL](http://www.postgresql.org/) - Object-relational database management system (ORDBMS).
   * [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.
