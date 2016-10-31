@@ -293,6 +293,7 @@
   * [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.
   * [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
   * [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
+  * [Pi-hole](https://pi-hole.net/) - Network wide hardware adblocking (using a DNS server on a Raspberry Pi)
   * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
   * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
   * [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
