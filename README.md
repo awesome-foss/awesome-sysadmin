@@ -261,7 +261,7 @@
   * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
   * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
   * [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
-  * [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. 
+  * [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
 
 
 ## Distributed Filesystems
@@ -406,7 +406,6 @@ ils and flask.
   * [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
   * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
   * [Sensu](https://sensuapp.org/) - Monitoring framework.
-  * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
   * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
   * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
   * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
