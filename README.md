@@ -635,7 +635,7 @@ Various resources, such as books, websites and articles, for improving your skil
   * [Code as Craft](https://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
   * [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
   * [Rackspace Developers](https://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
-  * [RoseHosting Blog](https://www.rosehosting.com/blog/) - Various tutorials and guides for sysadmin and Linux-related topics.
+  * [RoseHosting Blog](https://www.rosehosting.com/blog/) - Linux tutorials for installing and configuring various software through the Linux command line. Guides and introductions to different Linux technologies and applications. Tips and tricks you can do via the Linux command line and more.
 
 
 ## Books
