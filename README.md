@@ -243,6 +243,7 @@
     * [SCM-Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories.
     * [WebSVN](http://www.websvn.info/) - Opensource web subversion repository browser.
   * Virtualization
+    * [Proxmox VE](https://pve.proxmox.com) - Proxmox Virtual Environment is an open source server virtualization management solution based on QEMU/KVM and LXC.
     * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
     * [Panamax](http://panamax.io/) - Project that makes deploying complex containerized apps as easy as Drag-and-Drop.
     * [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
