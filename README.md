@@ -236,6 +236,7 @@
     * [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
   * DNS
     * [Atomia DNS](http://atomiadns.com/) - DNS management system.
+    * [nsedit](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
     * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
     * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
   * Revision Control
