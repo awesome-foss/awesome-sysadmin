@@ -336,10 +336,10 @@
   * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
   * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
   * [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
+  * [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 
 ### Tools and web interfaces
   * [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
-  * [FreeIPA](http://www.freeipa.org/) - Security management solution, can manage LDAP, KRB, DNS, sudo, and more.
   * [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
   * [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites.
   * [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
