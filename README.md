@@ -701,6 +701,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
   * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
   * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
+  * [Datadog Monitoring Guides](https://www.datadoghq.com/blog?ref=awesome) - Broad collection of monitoring guides for a variety of system administration tools.
 
 
 ## Wikis
