@@ -462,6 +462,7 @@ ils and flask.
 
   * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
   * [Oxidized](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
+  * [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
   * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
   * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
   * [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
