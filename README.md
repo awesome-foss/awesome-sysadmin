@@ -410,6 +410,7 @@
   * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
   * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
   * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
+  * [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut
 ils and flask.
   * [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
