@@ -631,6 +631,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
   * [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
   * [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
+  * [Traefic](https://traefik.io/) - modern HTTP reverse proxy and load balancer supports several backends (Docker, Swarm, Mesos/Marathon, Kubernetes, Consul, Etcd, Zookeeper, BoltDB, Rest API, file…) to manage its configuration.
+  * [Fabio](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.
 
 *Web Performance*
 
