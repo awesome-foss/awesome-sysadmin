@@ -294,6 +294,7 @@
   * [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend.
   * [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.
   * [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
+  * [MicroDNS](https://github.com/fffaraz/microdns) - A tiny dockerized DNS server in Go that always returns the same IP for any query sent to it.
   * [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
   * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
   * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
