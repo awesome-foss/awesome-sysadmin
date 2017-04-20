@@ -99,6 +99,7 @@
   * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
   * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
   * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
+  * [Bvckup](https://www.bvckup2.com/) - Light, versatile and very capable data replication software.
 
 
 ## Build and software organization tools
