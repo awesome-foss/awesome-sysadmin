@@ -84,6 +84,7 @@
 
   * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
   * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
+  * [BackupPC](http://backuppc.sourceforge.net/) - BackupPC is a high-performance system for backing up to disk.
   * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
   * [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
   * [Burp](http://burp.grke.org/) - Network backup and restore program.
