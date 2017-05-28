@@ -83,6 +83,7 @@
 *Backup software.*
 
   * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
+  * [BackMeUp](https://github.com/Ardakilic/backmeup) - A simple and automated MySQL/MariaDB databases and files backup script on *nix Machines using Amazon S3, WebDav (e.g: ownCloud / NextCloud) and Dropbox.
   * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
   * [BackupPC](http://backuppc.sourceforge.net/) - BackupPC is a high-performance system for backing up to disk.
   * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
