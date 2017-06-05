@@ -608,6 +608,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
   * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
   * [XenServer](http://xenserver.org/) - Turnkey virtualization platform based on CentOS distribution, using Xen and an extended toolstack/API.
+  * [virtualizor](http://www.virtualizor.com/) - Virtualizor is a powerful web based VPS Control Panel. It supports OpenVZ, Xen PV, Xen HVM, Citrix XenServer and Linux KVM virtualization.
 
 
 ## VPN
@@ -620,6 +621,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
   * [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
   * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+  * [virtualizor](http://www.virtualizor.com/) - Virtualizor is a powerful web based VPS Control Panel. It supports OpenVZ, Xen PV, Xen HVM, Citrix XenServer and Linux KVM virtualization.
 
 
 ## Web
