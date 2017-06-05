@@ -130,6 +130,7 @@
   * [Opsi](http://www.opsi.org/en) (open PC server integration) - Client Management for Windows based on Debian.
   * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
   * [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
+  * [Munki](https://munki.org/munki) - Managed software deployment for Macs.
 
 
 ## Cloning
