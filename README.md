@@ -412,6 +412,7 @@
   * [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. 
   * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
   * [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
+  * [prometheus](https://prometheus.io/) - Power your metrics and alerting with a leading open-source monitoring solution.
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut
 ils and flask.
   * [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
