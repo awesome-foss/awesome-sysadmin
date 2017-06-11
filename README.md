@@ -261,9 +261,11 @@
   * [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
   * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
   * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
-  * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-  * [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
   * [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
+  * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
+  * [sup](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
+  * [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
+
 
 
 ## Distributed Filesystems
