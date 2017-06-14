@@ -409,12 +409,14 @@
   * [Node-Bell](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series, metrics monitor.
   * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
   * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
+  * [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. 
   * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
   * [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
   * [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut
 ils and flask.
   * [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
   * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
+  * [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
   * [Sensu](https://sensuapp.org/) - Monitoring framework.
   * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
   * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
@@ -422,6 +424,7 @@ ils and flask.
   * [SWMP - Server Web Monitor Page](https://swmp.thefuzz.xyz/) - A responsive, eye-pleasing Linux server statistics dashboard.
   * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
   * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
+  * [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
   * [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
   * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
   * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
