@@ -618,13 +618,18 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## VPN
 *VPN software.*
 
-  * [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
+  * [Freelan](http://freelan.org/) - Multi-platform, peer-to-peer VPN that abstracts a LAN over the Internet.
+  * [GoVPN](http://www.govpn.info/) - DPI/censorship-resistant VPN daemon.
+  * [libreSwan](https://libreswan.org/) - Default IPsec implementation for many RPM-based Linux distributions.
+  * [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
   * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
+  * [PeerVPN](https://peervpn.net/) - Peer-to-peer VPN for building full mesh private networks.
   * [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
-  * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
+  * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features.
   * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
   * [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
   * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+  * [WireGuard](https://www.wireguard.io/) - Modern VPN that aims to be as easy to configure and deploy as SSH.
 
 
 ## Web
