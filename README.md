@@ -172,6 +172,7 @@
   * [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
   * [Spruce](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis](https://github.com/starkandwayne/genesis).
   * [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python
+  * [Terraform](https://www.terraform.io/) - Terraform enables you to safely and predictably create, change, and improve production infrastructure.
 
 
 ## Code Review
