@@ -571,6 +571,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Status Pages
 
   * [Cachet](https://cachethq.io) - Status page system written in PHP.
+  * [LambStatus](https://github.com/ks888/LambStatus) - Serverless status page system which aims to build and maintain the system at minimum effort.
   * [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
   * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
   * [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
