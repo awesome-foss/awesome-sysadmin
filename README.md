@@ -127,7 +127,7 @@
   * [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
   * [just-install](http://just-install.it/) – Python script for downloading and silently installing MSI files.
   * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Inventory, deployment and network scan.
-  * [Opsi](http://www.opsi.org/en) (open PC server integration) - Client Management for Windows based on Debian.
+  * [Opsi](http://www.opsi.org) (open PC server integration) - Client Management for Windows based on Debian.
   * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
   * [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
 
@@ -357,7 +357,7 @@
 
   * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
   * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
-  * [OPSI](http://www.opsi.org/en) - Hardware and software inventory, deployment, and patching for Linux and Windows.
+  * [OPSI](http://www.opsi.org) - Hardware and software inventory, deployment, and patching for Linux and Windows.
   * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
   * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
   * [Snipe IT](https://snipeitapp.com/) - Asset & license management software.
