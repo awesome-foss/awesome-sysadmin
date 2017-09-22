@@ -271,6 +271,7 @@
 ## Distributed Filesystems
 *Network distributed filesystems.*
 
+  * [BeeGFS](https://www.beegfs.io/) - BeeGFS is a high-performance parallel file system.
   * [Camlistore](https://camlistore.org/) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
   * [Ceph](http://ceph.com/) - Distributed object store and file system.
   * [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
