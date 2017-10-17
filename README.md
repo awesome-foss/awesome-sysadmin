@@ -382,7 +382,7 @@
   * [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
   * [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
   * [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
-  * [N1](https://nylas.com/N1) - Extensible mail client.
+  * [Nylas Mail](https://www.nylas.com/nylas-mail/) - Extensible mail client.
   * [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
   * [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
@@ -602,7 +602,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
   * [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
   * [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
-  * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
+  * [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
   * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
   * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
   * [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
@@ -661,7 +661,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Books
 *Sysadmin related books.*
 
-  * [Codex](https://www.gitbook.com/book/starkandwayne/codex/details) - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
+  * [Codex](http://www.starkandwayne.com/codex/) - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
   * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
   * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
   * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
