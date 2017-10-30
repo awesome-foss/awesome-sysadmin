@@ -424,7 +424,7 @@ ils and flask.
   * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
   * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
   * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
-  * [SWMP - Server Web Monitor Page](https://swmp.fuzzytek.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.
+  * [SWMP - Server Web Monitor Page](https://swmp.fuzzytek.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.([Source Code](https://github.com/fuzzymannerz/swmp))
   * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
   * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
   * [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
