@@ -402,6 +402,7 @@
   * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
   * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
   * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
+  * [glances](https://nicolargo.github.io/glances/) - cross-platform monitoring tool which aims to present a maximum of information in a minimum of space through a curses or Web based interface. `LGPL-3.0` `Python`
   * [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
   * [Icinga](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
   * [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
