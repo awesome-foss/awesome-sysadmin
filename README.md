@@ -403,7 +403,7 @@
   * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
   * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
   * [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
-  * [htop](http://hisham.hm/htop/) - an interactive ncurses process viewer.
+  * [htop](http://hisham.hm/htop/) - an interactive ncurses process viewer. `GPL-2.0` 
  * [Icinga](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
   * [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
   * [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems.
