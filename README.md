@@ -168,7 +168,9 @@
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
 * [Spruce](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis](https://github.com/starkandwayne/genesis).
-* [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python
+* [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python.
+* [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
+
 
 ## Code Review
 
