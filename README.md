@@ -445,6 +445,7 @@
   * [PGObserver](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
   * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
   * [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
+  * [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
 * Dashboards
   * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
