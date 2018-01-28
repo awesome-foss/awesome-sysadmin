@@ -324,6 +324,7 @@
 * [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
 * [Light Table](http://lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
 * [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
