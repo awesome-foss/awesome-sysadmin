@@ -375,7 +375,7 @@
 * [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
 * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
 * [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
-* [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
+* [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
 * [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
