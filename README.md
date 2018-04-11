@@ -572,6 +572,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Status Pages
 
 * [Cachet](https://cachethq.io) - Status page system written in PHP.
+* [SiteUp](https://github.com/JoseTomasTocino/SiteUp) - Platform for monitoring Internet services, with accompanying Android app. Written in Python/Django.
 * [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
 * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
 * [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
