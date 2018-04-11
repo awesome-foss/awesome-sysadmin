@@ -219,6 +219,7 @@
 
 *Continuous integration/deployment software.*
 
+* [Abstruse CI](https://github.com/bleenco/abstruse) - Open Source CI/CD Platform built on Docker.
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
 * [CapsuleCD](https://github.com/AnalogJ/capsulecd) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc).
 * [concourse](http://concourse.ci/) - A modern tool to gain visibility on the CI/CD pipeline.  The flexible, declarative DSL is easy to learn and powerful to use.
