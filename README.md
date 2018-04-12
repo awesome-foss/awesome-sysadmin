@@ -94,6 +94,7 @@
 * [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
 * [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
 * [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
+* [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
 * [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
 * [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
