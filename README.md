@@ -249,7 +249,6 @@
   * [WebSVN](https://websvnphp.github.io/) - Opensource web subversion repository browser.
 * Virtualization
   * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
-  * [Panamax](http://panamax.io/) - Project that makes deploying complex containerized apps as easy as Drag-and-Drop.
   * [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
   * [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
 * Server
@@ -506,7 +505,7 @@
 * Key-Value
   * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database.
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
-  * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
+  * [Riak](http://docs.basho.com/) - Another fault-tolerant key-value NoSQL database.
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 
