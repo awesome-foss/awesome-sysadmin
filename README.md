@@ -190,7 +190,7 @@
 * [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
 * [Kolab](https://kolab.org/) - Another groupware suite.
 * [SOGo](http://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
-* [Zimbra](https://www.zimbra.com/open-source-email-overview/) - Collaborative software suite, that includes an email server and web client.
+
 
 ## Configuration Management Database
 
