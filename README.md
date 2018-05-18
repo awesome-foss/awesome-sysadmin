@@ -354,6 +354,7 @@
 * [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
 * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 * [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
+* [SSL-CP](https://github.com/reddec/ssl-cp) - SSL Key / multi Certificate Authority web-based tool for creating self-signed certificates with different exports options (PEM, PFX) and cookbooks (generates config for Stunnel, Nginx and etc.)
 
 ## IT Asset Management
 
