@@ -332,7 +332,7 @@
 
 ## Identity Management
 
-*servers and other tools to manage accounts and identities.*
+*LDAP servers and other tools to manage accounts and identities.*
 
 ### LDAP
 
