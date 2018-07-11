@@ -339,6 +339,7 @@
 * [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
 * [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
+* [GLAuth](https://github.com/glauth/glauth) - Simple and lightweight LDAP server in Golang.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
