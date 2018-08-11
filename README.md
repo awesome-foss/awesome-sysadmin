@@ -254,6 +254,7 @@
   * [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
 * Server
   * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
+  * [Cloudron](https://cloudron.io/) - Complete solution to run apps on a server.
   * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
   * [Webmin](http://www.webmin.com/) - Linux server control panel.
 
