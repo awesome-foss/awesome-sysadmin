@@ -601,6 +601,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
 * [Mercurial](https://www.mercurial-scm.org/) - Another distributed revision control.
 * [Subversion](http://subversion.apache.org/) - Client-server revision control system.
+* [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
 ## Virtualization
 
