@@ -234,7 +234,7 @@
 
 * Web hosting
   * [Froxlor](https://froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
-  * [i-MSCP](https://i-mscp.net) - internet - Multi Host Configuration Panel.
+  * [i-MSCP](https://i-mscp.net) - internet - Multi Server Control Panel.
   * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
   * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
   * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
