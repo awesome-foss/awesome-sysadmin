@@ -239,7 +239,6 @@
   * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
   * [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
 * DNS
-  * [Atomia DNS](http://atomiadns.com/) - DNS management system.
   * [nsedit](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
   * [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring
