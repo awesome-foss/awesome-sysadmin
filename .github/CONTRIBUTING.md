@@ -19,10 +19,3 @@ This is a compilation of **Free and Libre Open Source Software ([FLOSS](https://
 * Write a short text why the application you're adding is actually awesome.
   * Put only stuff on the list you or another contributor can personally recommend
   * Recommending your own software is discouraged.
-
-## Issues
-
-* Discussion, questions and bug reports only.
-* If you are sure software meets the guidelines, create a Pull Request (see above).
-* Check spelling and grammar.
-* Suggestions for improvements to existing structure are welcome.
