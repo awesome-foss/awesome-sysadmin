@@ -308,6 +308,7 @@
 
 *Domain management.*
 
+* [DnsControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure.
 * [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location.
 
 ## Editors
