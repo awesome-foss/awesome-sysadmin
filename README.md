@@ -309,6 +309,7 @@
 *Domain management.*
 
 * [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location.
+* [octoDNS](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
 
 ## Editors
 
