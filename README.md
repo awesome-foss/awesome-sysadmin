@@ -143,7 +143,6 @@
 ## Cloud Computing
 
 * [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
-* [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
@@ -321,6 +320,7 @@
 * [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
 * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
 * [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages.
+* [IntelliJ IDEA](http://www.jetbrains.org) - Community version of IntelliJ, a powerful IDE written in Java.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
 * [Light Table](http://lighttable.com/) - The next generation code editor.
@@ -570,6 +570,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
   * [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
   * [Portainer](https://portainer.io/) - Simple management UI for Docker.
+* [Jail](https://wiki.freebsd.org/Jails) - FreeBSD container implementation.
 * [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
   * [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
@@ -585,10 +586,12 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *Troubleshooting Tools.*
 
+* [atop](https://www.atoptool.nl/) - Linux server performance analysis and monitor tool.
 * [genet](https://github.com/genet-app/genet) - Caffeinated Packet Analyzer.
 * [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
+* [nethogs](https://github.com/raboof/nethogs) - Network utility that shows bandwidth used by process.
 * [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
@@ -632,6 +635,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
 * [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
 * [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
+* [stunnel](https://www.stunnel.org/) - Lightweight, proxy designed to add TLS encryption to existing client and server.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 
 ## Web
@@ -651,6 +655,9 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.
 * [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
+* [Squid](http://www.squid-cache.org/) - Powerful caching and forwarding HTTP/FTP proxy, and reverse proxy.
+* [Pound](http://www.apsis.ch/pound/) - Lightweight, powerful reverse-proxy and load-balancer.
+* [Traffic](https://trafficserver.apache.org/) - Versatile and high-performance caching proxy server.
 
 # Resources
 
