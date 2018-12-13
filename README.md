@@ -626,6 +626,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *VPN software.*
 
+* [WireGuard](https://www.wireguard.com/) - fast, modern and secure VPN tunnel (L3, kernel side, custom, VERY FAST)
 * [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
 * [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
