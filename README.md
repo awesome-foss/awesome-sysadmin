@@ -295,6 +295,7 @@
 *DNS servers.*
 
 * [Bind](https://www.isc.org/downloads/bind/) - The most widely used name server software.
+* [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go.
 * [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
 * [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend.
 * [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.
