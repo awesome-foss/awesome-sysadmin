@@ -339,6 +339,7 @@
 ### LDAP
 
 * [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
+* [Æ-DIR -- Authorized Entities Directory](https://www.ae-dir.com/) - DevOps IAM based on OpenLDAP
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
 * [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
