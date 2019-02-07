@@ -147,7 +147,7 @@
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
-* [HPE Helion Eucalyptus](http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html) - Private cloud software with AWS compatibility.
+* [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
 * [Flynn](https://flynn.io) - PaaS
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 * [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
