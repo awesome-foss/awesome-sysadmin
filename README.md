@@ -19,7 +19,7 @@
   * [Cloud Orchestration](#cloud-orchestration)
   * Cloud Storage: [see awesome-selfhosted#file-transfersynchronization](https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization)
   * [Code Review](#code-review)
-  * [Collaborative Software](#collaborative-software)
+  * Collaborative Software: [see awesome-selfhosted#groupware](https://github.com/Kickball/awesome-selfhosted#groupware)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
@@ -181,16 +181,6 @@
 * [Gerrit](https://www.gerritcodereview.com/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
 * [Phabricator](http://phabricator.org/) - Code review tool build by facebook and used by WikiMedia, FB, dropbox etc. Comes with an integrated wiki, bug tracker, VC integration and a CLI tool called arcanist.
 * [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
-
-## Collaborative Software
-
-*Collaborative software or groupware suites.*
-
-* [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
-* [EGroupware](http://www.egroupware.org/start.html) - Groupware software written in PHP.
-* [Horde Groupware](http://www.horde.org/apps/groupware) - PHP based collaborative software suite that includes email, calendars, wikis, time tracking and file management.
-* [Kolab](https://kolab.org/) - Another groupware suite.
-* [SOGo](http://www.sogo.nu/) - Collaborative software server with a focus on simplicity and scalability.
 
 
 ## Configuration Management Database
