@@ -355,6 +355,7 @@
 * [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
 * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 * [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
+* [Simple PKI](https://github.com/kaysond/spki) - A bash script OpenSSL wrapper that generates and manages a simple PKI suitable for small deployments
 
 ## IT Asset Management
 
