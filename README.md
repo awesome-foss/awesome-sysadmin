@@ -246,6 +246,7 @@
   * [iF.SVNAdmin](http://svnadmin.insanefactory.com/) - WebGUI to manage Subversion repositories and User/Group permissions.
   * [SCM-Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories.
   * [WebSVN](https://websvnphp.github.io/) - Opensource web subversion repository browser.
+  * [Gitlab](https://gitlab.com/) - Open source Git repository management (Github clone), w/ Issue tracker, CI etc.
 * Virtualization
   * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
   * [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
