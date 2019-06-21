@@ -444,7 +444,7 @@
   * [PGObserver](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
   * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
   * [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
-  * [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+  * [Telegraf](https://github.com/xdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
 * Dashboards
   * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
@@ -459,6 +459,7 @@
   * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
   * [KairosDB](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
   * [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
+  * [Gnocchi](https://github.com/gnocchixyz/gnocchi) - Gnocchi – Metric as a Service.
 
 * Packages
   * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
