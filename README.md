@@ -700,7 +700,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ### Debian-based distributions
 
-* [Dotdeb](https://www.dotdeb.org/) - Repository with LAMP updated packages for Debian.
+* [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
 
 ### RPM-based distributions
 
