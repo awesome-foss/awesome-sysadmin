@@ -353,6 +353,7 @@
 * [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
 * [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 * [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
+* [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 
 ## IT Asset Management
 
