@@ -573,6 +573,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
   * [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
+* [AWS Firecracker](https://firecracker-microvm.github.io/) - Secure and fast microVMs for Serverless computing. 
+* [Weave Ignite](https://github.com/weaveworks/ignite) - Weave Ignite is an open source Virtual Machine (VM) manager with a container UX and built-in GitOps management.
 
 ## Status Pages
 
