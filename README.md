@@ -101,6 +101,7 @@
 * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
+* [Veeam Agent for Linux](https://www.veeam.com/linux-backup-free.html) - Image-based backups from inside the guest system, both at the file level and volume level. True incremental backup is enabled using Veeam’s kernel module changed block tracking (CBT) functionality.
 * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
 ## Build and software organization tools
