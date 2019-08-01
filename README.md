@@ -234,7 +234,8 @@
 * Web hosting
   * [Froxlor](https://froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
   * [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
-  * [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
+  * [Sentora](http://sentora.org/) - TinyCP is web based control panel for managing linux like systems.
+  * [TinyCP](https://tinycp.com/) - Control panel for Linux, BSD, and Windows based on ZPanel.
   * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
   * [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
 * DNS
