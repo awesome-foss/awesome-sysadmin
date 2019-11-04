@@ -415,6 +415,7 @@
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 * [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
+* [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS.
 * [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code](https://github.com/netxms/netxms))
 * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
@@ -457,7 +458,6 @@
   * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
   * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
   * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
-  * [Netdata](http://netdata.firehol.org/) - Real-time performance monitoring for Linux systems with plugin support.
 
 * Storage
   * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
