@@ -307,7 +307,9 @@
 
 *Domain management.*
 
+* [DnsControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure.
 * [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location.
+* [octoDNS](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
 
 ## Editors
 
