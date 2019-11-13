@@ -84,7 +84,7 @@
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
-* [BackupPC](http://backuppc.sourceforge.net/) - BackupPC is a high-performance system for backing up to disk.
+* [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
 * [Backupninja](https://0xacab.org/riseuplabs/backupninja) - Lightweight, extensible meta-backup system.
 * [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
 * [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
