@@ -207,7 +207,6 @@
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
 * [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://saltstack.com/) - It's written in Python.
-* [Slaughter](http://www.steve.org.uk/Software/slaughter/) - It's written in Perl.
 
 ## Continuous Integration & Continuous Deployment
 
