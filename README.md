@@ -587,6 +587,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
 * [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
 * [vigil](https://github.com/valeriansaliou/vigil) -  Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack. Written in Rust.
+* [Statping](https://github.com/hunterlong/statping) - Status page system written in Go.
 
 ## Troubleshooting
 
