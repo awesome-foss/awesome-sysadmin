@@ -81,7 +81,7 @@
 
 ## Backups
 
-*Backup software.*
+*Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
 
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
