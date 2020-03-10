@@ -265,6 +265,7 @@
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 * [sup](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 * [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
+* [Kafe](https://github.com/libkafe/kafe) - Scriptable systems automation toolkit with remote management over SSH.
 
 ## Distributed Filesystems
 
