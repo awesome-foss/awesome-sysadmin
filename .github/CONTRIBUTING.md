@@ -2,6 +2,8 @@
 
 This is a compilation of **Free and Libre Open Source Software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software))**. Restrictive licenses (aka Freeware, Shareware) are *not awesome*. Please adhere to the following guidelines or your Pull Request will be closed.
 
+**Submitting your own software is not awesome**, unless you have a healthy ecosystem with a few contributors which aren't your sock puppet accounts.
+
 ## Commits
 
 * Search previous suggestions before making a new one.
