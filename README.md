@@ -25,6 +25,7 @@
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Control Panels](#control-panels)
   * [Deployment Automation](#deployment-automation)
+  * [Diagramming](#diagramming)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
   * [Domains](#domains)
@@ -265,6 +266,13 @@
 * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 * [sup](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 * [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
+
+## Diagramming
+
+*Tools used to create diagrams of networks, flows, etc.*
+
+* [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
+* [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
 
 ## Distributed Filesystems
 
