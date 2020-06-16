@@ -400,7 +400,7 @@
 
 * [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
 * [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
-* [Bloonix](https://bloonix.org) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
+* [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
 * [bolo](http://bolo.niftylogic.com/) - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
 * [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
