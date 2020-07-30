@@ -246,7 +246,6 @@
   * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 * Revision Control: see [awesome-selfhosted#project-management](https://github.com/Kickball/awesome-selfhosted#project-management)
 * Virtualization
-  * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
   * [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
   * [WebVirtMgr](https://retspen.github.io) - libvirt-based Web interface for managing virtual machines.
 * Server
