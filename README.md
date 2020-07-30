@@ -442,7 +442,18 @@
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
-## Metric & Metric Collection
+### Status Pages
+
+* [Cachet](https://cachethq.io) - Status page system written in PHP.
+* [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
+* [Statusfy](https://statusfy.co/) - A modern status page for presenting critical service updates.
+* [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
+* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
+* [vigil](https://github.com/valeriansaliou/vigil) -  Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack. Written in Rust.
+* [Statping](https://github.com/hunterlong/statping) - Status page system written in Go.
+* [netcheck](https://demo.ncheck.eu/#/info) – Simple ping status system written in Java, similar to Pingdom and StatusCake.
+
+### Metric & Metric Collection
 
 *Metric gathering and display software.*
 
@@ -577,16 +588,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
   * [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
-
-## Status Pages
-
-* [Cachet](https://cachethq.io) - Status page system written in PHP.
-* [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
-* [Statusfy](https://statusfy.co/) - A modern status page for presenting critical service updates.
-* [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
-* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
-* [vigil](https://github.com/valeriansaliou/vigil) -  Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack. Written in Rust.
-* [Statping](https://github.com/hunterlong/statping) - Status page system written in Go.
 
 ## Troubleshooting
 
