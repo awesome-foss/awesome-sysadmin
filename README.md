@@ -149,7 +149,6 @@
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
-* [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
 * [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
 * [Flynn](https://flynn.io) - PaaS
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
@@ -168,7 +167,6 @@
 * [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 * [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
 * [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
-* [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 * [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 * [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 * [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
@@ -204,7 +202,6 @@
 * [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
 * [CFEngine](https://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 * [Chef](https://www.chef.io/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
-* [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
 * [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://saltstack.com/) - It's written in Python.
 
@@ -248,7 +245,6 @@
 * Virtualization
   * [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
 * Server
-  * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
   * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
   * [Webmin](http://www.webmin.com/) - Linux server control panel.
 
@@ -600,7 +596,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *Troubleshooting Tools.*
 
-* [genet](https://github.com/genet-app/genet) - Caffeinated Packet Analyzer.
 * [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
@@ -637,7 +632,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
-* [XenServer](http://xenserver.org/) - Turnkey virtualization platform based on CentOS distribution, using Xen and an extended toolstack/API.
 
 ## VPN
 
@@ -723,7 +717,6 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ### RPM-based distributions
 
-* [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (RHEL, CentOS, etc).
 * [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
 * [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
 * [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
