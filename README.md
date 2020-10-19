@@ -465,7 +465,7 @@
 *Metric gathering and display software.*
 
 * Collectors only
-  * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
+  * [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
   * [Collectd](http://collectd.org/) - System statistic collection daemon.
   * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
   * [PGObserver](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
