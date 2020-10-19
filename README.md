@@ -130,7 +130,7 @@
 *Managing software on desktop computers.*
 
 * [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
-* [just-install](http://just-install.it/) – Python script for downloading and silently installing MSI files.
+* [just-install](https://just-install.github.io/) – Python script for downloading and silently installing MSI files.
 * [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
 * [Opsi](http://www.opsi.org) (open PC server integration) - Client Management for Windows based on Debian.
 * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
