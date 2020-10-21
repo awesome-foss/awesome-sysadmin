@@ -600,7 +600,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *Troubleshooting Tools.*
 
-* [genet](https://github.com/genet-app/genet) - Caffeinated Packet Analyzer.
 * [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
