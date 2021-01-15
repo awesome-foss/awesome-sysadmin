@@ -657,6 +657,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 * [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 * [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
+* [Outline](https://github.com/Jigsaw-Code/outline-server) - Outline Manager application creates and manages Outline servers, powered by Shadowsocks, for all major platforms.
 
 ## Web
 
