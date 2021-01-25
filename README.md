@@ -450,6 +450,7 @@
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
 * [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
+* [ws-monitoring](https://github.com/elestio/ws-monitoring/) - A simple & lightweight realtime monitoring Web UI + server in Node.js.
 * [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
