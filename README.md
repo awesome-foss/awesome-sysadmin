@@ -463,6 +463,7 @@
 * [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
 * [vigil](https://github.com/valeriansaliou/vigil) -  Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack. Written in Rust.
 * [Statping](https://github.com/hunterlong/statping) - Status page system written in Go.
+* [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted status page similar to "Uptime Robot".
 * [netcheck](https://demo.ncheck.eu/#/info) – Simple ping status system written in Java, similar to Pingdom and StatusCake.
 
 ### Metric & Metric Collection
