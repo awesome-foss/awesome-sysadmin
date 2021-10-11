@@ -646,6 +646,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
+* [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. 
 * [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
 * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
 * [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
