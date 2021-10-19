@@ -56,9 +56,10 @@
   * [Version control](#version-control)
   * [Virtualization](#virtualization)
   * [VPN](#vpn)
-  * XMPP: [see awesome-selfhosted#xmpp](https://github.com/Kickball/awesome-selfhosted#xmpp)
   * [Web](#web)
+  * [Webhooks](#webhooks)
   * Wiki Software: [see awesome-selfhosted#wikis](https://github.com/Kickball/awesome-selfhosted#wikis), Sysadmin Wikis: [see #wikis](#wikis)
+  * XMPP: [see awesome-selfhosted#xmpp](https://github.com/Kickball/awesome-selfhosted#xmpp)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Books](#books)
@@ -729,6 +730,13 @@ Various resources, such as books, websites and articles, for improving your skil
 * [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
 * [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 * [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
+
+## Webhooks
+
+*Webhook servers: Create HTTP Endpoints (hooks) to execute scripts*
+
+* [webhook](https://github.com/adnanh/webhook) - Configurable tool that allows you to create HTTP endpoints (hooks), which you can use to execute commands.
+* [webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server to launch shell scripts.
 
 ## Websites
 
