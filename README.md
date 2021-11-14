@@ -147,6 +147,7 @@
 
 * [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
+* [AWS SSO CLI](https://github.com/synfinatic/aws-sso-cli) - A powerful tool for accessing AWS IAM Roles via AWS SSO
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
