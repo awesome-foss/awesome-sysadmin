@@ -653,6 +653,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 * [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 * [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
+* [VPN Setup Guide](https://github.com/git-sgmoore/OpenVPN_Ipsec_L2tp_server_on_Digital_Ocean) - Setup OpenVPN and Ipsec Server on Digital Ocean.
 
 ## Web
 
