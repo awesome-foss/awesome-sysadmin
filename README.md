@@ -391,6 +391,7 @@
 * [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
 * [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
+* [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
 ## Mail Clients
