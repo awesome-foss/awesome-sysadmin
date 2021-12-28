@@ -424,6 +424,7 @@
 * [Icinga](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
 * [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
 * [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems.
+* [MonitoLite](https://github.com/axeloz/monitolite) - Self-hosted PHP application for monitoring distant services using HTTP(s) or PING checks with reactive front-end, tasks history and multiple contacts email (UP and DOWN) alerting system.
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
 * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 * [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
