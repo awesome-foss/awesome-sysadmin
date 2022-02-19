@@ -133,6 +133,7 @@
 * [just-install](https://just-install.github.io/) – Python script for downloading and silently installing MSI files.
 * [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
 * [Opsi](http://www.opsi.org) (open PC server integration) - Client Management for Windows based on Debian.
+* [RuckZuck](https://ruckzuck.tools/) - Windows CLI/GUI package manager written in .NET/PS
 * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
 * [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
 
