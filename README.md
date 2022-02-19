@@ -392,6 +392,7 @@
 * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
 * [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+* [Opensearch](https://opensearch.org/) - OpenSearch is a community-driven, open source search and analytics suite.
 
 ## Mail Clients
 
