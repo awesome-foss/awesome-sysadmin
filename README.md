@@ -444,6 +444,7 @@
 * [SWMP - Server Web Monitor Page](https://swmp.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.([Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
+* [Uptrace tracing tool](https://uptrace.dev/) - OpenTelemetry distributed tracing tool that monitors performance, errors, and logs. ([Source Code](https://github.com/uptrace/uptrace)), `Go`, `BSL`.
 * [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
 * [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
