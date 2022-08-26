@@ -593,6 +593,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
   * [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
   * [Portainer](https://portainer.io/) - Simple management UI for Docker.
+  * [Yacht](https://yacht.sh/) - A container management UI with a focus on templates and 1-click deployments.
 * [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
   * [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
