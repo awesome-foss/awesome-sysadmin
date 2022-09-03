@@ -456,7 +456,6 @@
 * [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
 * [Statusfy](https://statusfy.co/) - A modern status page for presenting critical service updates.
 * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
-* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
 * [vigil](https://github.com/valeriansaliou/vigil) -  Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack. Written in Rust.
 * [Statping-ng](https://github.com/statping-ng/statping-ng) - Status page system written in Go (Active fork of statping).
 * [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted status page similar to "Uptime Robot".
