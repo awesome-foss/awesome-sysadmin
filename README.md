@@ -454,7 +454,6 @@
 **Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 * [vigil](https://github.com/valeriansaliou/vigil) -  Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack. Written in Rust.
-* [netcheck](https://demo.ncheck.eu/#/info) – Simple ping status system written in Java, similar to Pingdom and StatusCake.
 
 ### Metric & Metric Collection
 
