@@ -451,6 +451,8 @@
 
 ### Status Pages
 
+**Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+
 * [Cachet](https://cachethq.io) - Status page system written in PHP.
 * [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
 * [Statusfy](https://statusfy.co/) - A modern status page for presenting critical service updates.
