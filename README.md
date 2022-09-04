@@ -636,6 +636,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *VPN software.*
 
+* [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol.
 * [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
 * [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
