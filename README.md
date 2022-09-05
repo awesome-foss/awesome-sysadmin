@@ -286,7 +286,6 @@
 * [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
 * [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
 * [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
-* [MogileFS](http://mogilefs.org/) - Application level, network distributed file system.
 * [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
 * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation.
 * [Perkeep](https://perkeep.org/) (née Camlistore) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
