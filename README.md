@@ -151,7 +151,6 @@
 * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
 * [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
-* [Flynn](https://flynn.io) - PaaS
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 * [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
 * [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
@@ -286,7 +285,6 @@
 * [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
 * [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
 * [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
-* [MogileFS](http://mogilefs.org/) - Application level, network distributed file system.
 * [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
 * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation.
 * [Perkeep](https://perkeep.org/) (née Camlistore) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
@@ -633,7 +631,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
 * [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
-* [XenServer](http://xenserver.org/) - Turnkey virtualization platform based on CentOS distribution, using Xen and an extended toolstack/API.
 
 ## VPN
 
