@@ -87,7 +87,7 @@
 * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
 * [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
-* [Backupninja](https://0xacab.org/riseuplabs/backupninja) - Lightweight, extensible meta-backup system.
+* [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 * [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
 * [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
@@ -245,7 +245,7 @@
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
   * [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring
   * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
-* Revision Control: see [awesome-selfhosted#project-management](https://github.com/Kickball/awesome-selfhosted#project-management)
+* Revision Control: see [awesome-selfhosted#project-management](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
 * Virtualization
   * [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
 * Server
@@ -367,6 +367,7 @@
 * [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
 * [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 * [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
+* [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
 ## IT Asset Management
 
@@ -391,6 +392,7 @@
 * [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
 * [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
+* [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
 ## Mail Clients
@@ -421,7 +423,7 @@
 * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
 * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 * [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
-* [Icinga](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
+* [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
 * [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
 * [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems.
 * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
@@ -438,6 +440,7 @@
 * [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
+* [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
 * [Sensu](https://sensuapp.org/) - Monitoring framework.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
 * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
@@ -451,15 +454,8 @@
 
 ### Status Pages
 
-* [Cachet](https://cachethq.io) - Status page system written in PHP.
-* [Stashboard](http://www.stashboard.org) - Status page for cloud services and APIs.
-* [Statusfy](https://statusfy.co/) - A modern status page for presenting critical service updates.
-* [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - Overview about an organization's infrastructure health status.
-* [Staytus](http://staytus.co/) - Staytus is a complete solution for publishing the latest information about any issues with your web applications, networks or services.
-* [vigil](https://github.com/valeriansaliou/vigil) -  Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack. Written in Rust.
-* [Statping](https://github.com/hunterlong/statping) - Status page system written in Go.
-* [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted status page similar to "Uptime Robot".
-* [netcheck](https://demo.ncheck.eu/#/info) – Simple ping status system written in Java, similar to Pingdom and StatusCake.
+**Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+
 
 ### Metric & Metric Collection
 
@@ -526,7 +522,7 @@
   * [MongoDB](https://www.mongodb.org/) - Another document-oriented database system.
   * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
   * [RethinkDB](http://www.rethinkdb.com/) - Distributed document store database, focuses on JSON.
-  * [eXist-DB] (Https://www.exist-db.org/) - Open Source XML Database
+  * [eXist-DB](Https://www.exist-db.org/) - Open Source XML Database
 * Graph
   * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
   * [Neo4j](http://neo4j.com/) - Graph database.
@@ -546,7 +542,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ## Project Management
 
-*Web-based project management and bug tracking systems*: see https://github.com/Kickball/awesome-selfhosted#project-management
+*Web-based project management and bug tracking systems*: see https://github.com/awesome-selfhosted/awesome-selfhosted#project-management
 
 ## Queuing
 
@@ -601,7 +597,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *Troubleshooting Tools.*
 
-* [genet](https://github.com/genet-app/genet) - Caffeinated Packet Analyzer.
 * [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
 * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 * [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
@@ -644,6 +639,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *VPN software.*
 
+* [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. 
 * [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. 
 * [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
 * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
