@@ -482,9 +482,10 @@
   * [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
 
 * Packages
-  * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-  * [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
   * [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
+  * [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
+  * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
+  * [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
 ## Network Configuration Management
 
