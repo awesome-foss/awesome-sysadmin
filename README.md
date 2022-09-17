@@ -642,7 +642,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *VPN software.*
 
-* [Dockovpn](https://dockovpn.io) - Out of the box stateless dockerized openvpn compartible server which starts in less than 2 seconds.
+* [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN-compartible server which starts in less than 2 seconds.
 * [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. 
 * [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. 
 * [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
