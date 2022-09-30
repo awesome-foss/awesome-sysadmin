@@ -416,7 +416,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache` `Go`
-* [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
+* [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/tribe29/checkmk)) `Python/PHP`
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 * [EdMon](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 * [ElastiFlow](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
