@@ -367,7 +367,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
 * [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 * [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
-* [SAML Jackson](https://boxyhq.com/docs/jackson/overview) - A SAML SSO service designed as an OAuth 2.0 flow. Integrate SAML with just a few lines of code.
+* [SAML Jackson](https://boxyhq.com/docs/jackson/overview) - Pluggable SSO solution for SaaS apps with support for SAML 2.0/OpenID Providers.
 * [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
 ## IT Asset Management
