@@ -444,7 +444,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Sensu](https://sensuapp.org/) - Monitoring framework.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
 * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
-* [SWMP - Server Web Monitor Page](https://swmp.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.([Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
 * [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
