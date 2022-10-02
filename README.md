@@ -369,6 +369,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 * [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
+### Single Sign-On (SSO)
+
+- [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+
 ## IT Asset Management
 
 *IT Assets Management software.*
