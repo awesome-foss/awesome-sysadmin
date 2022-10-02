@@ -369,6 +369,12 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 * [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
+### Single Sign-On (SSO)
+
+- [Kratos](https://www.ory.sh/kratos/) - Next-gen identity server with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches. ([QuickStart](https://www.ory.sh/kratos/docs/quickstart/), [Source Code](https://github.com/ory/kratos)) `Apache-2.0` `Golang`
+- [PWM](https://github.com/pwm-project/pwm) - An open source password self-service application for LDAP directories including SSO interfaces ([Source Code](https://github.com/pwm-project/pwm)) `Apache-2.0` `Java`
+- [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management ([Source Code](https://github.com/keycloak/keycloak)) Apache-2.0 `Java`
+
 ## IT Asset Management
 
 *IT Assets Management software.*
