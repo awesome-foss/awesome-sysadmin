@@ -337,7 +337,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
 * [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
-* [Visual Studio Code](https://code.visualstudio.com/) - An open source cross-platform extensible code editor from Microsoft
+* [VSCodium](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
 * [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
 
 ## Identity Management
