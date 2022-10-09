@@ -322,7 +322,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Open source code editors.*
 
-* [Atom](https://atom.io/) - A hackable text editor from Github.
+* [Atom Community](https://github.com/atom-community/atom) - A fork of [atom](https://github.com/atom/atom) A hackable text editor from Github.
 * [Brackets](http://brackets.io/) - Code editor for web designers and front-end developers.
 * [Eclipse](http://www.eclipse.org/) - IDE written in Java with an extensible plug-in system.
 * [Geany](http://www.geany.org/) - GTK2 text editor.
