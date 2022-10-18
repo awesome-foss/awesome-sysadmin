@@ -575,7 +575,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 * [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
-* [RustDesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure to display and control your PC and Android devices from anywhere at anytime.
 * [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 * [rdpwrap](https://github.com/stascorp/rdpwrap) - RDP wrapper library allowing Remote Desktop Host support and concurrent RDP sessions on reduced functionality systems for home usage.
 
