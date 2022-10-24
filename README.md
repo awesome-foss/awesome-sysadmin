@@ -595,7 +595,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 * [Podman](https://podman.io) - is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: alias docker=podman ([Source Code](https://github.com/containers/podman)) `Apache-2` `Go`
   * [Podman Compose](https://github.com/containers/podman-compose) - Define and run multi-container podman applications. Fully compatible to docker-compose.
-* [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - a lightweight, chroot-like, environment to boot and isolate containers directly under systemd.
 
 ## Troubleshooting
 
