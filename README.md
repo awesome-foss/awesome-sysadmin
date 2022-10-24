@@ -585,7 +585,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *Operating system–level virtualization.*
 
-* [Buildah](https://buildah.io) - a tool that facilitates building OCI container images ([Source Code](https://github.com/containers/buildah)) `Apache-2` `Go`
 * [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
   * [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
   * [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
@@ -593,8 +592,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
   * [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
-* [Podman](https://podman.io) - is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: alias docker=podman ([Source Code](https://github.com/containers/podman)) `Apache-2` `Go`
-  * [Podman Compose](https://github.com/containers/podman-compose) - Define and run multi-container podman applications. Fully compatible to docker-compose.
 * [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - a lightweight, chroot-like, environment to boot and isolate containers directly under systemd.
 
 ## Troubleshooting
