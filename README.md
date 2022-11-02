@@ -228,6 +228,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [PHP Censor](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 - [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 - [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
+- [Team City](https://www.jetbrains.com/teamcity/) - Free to self hosted and until 03 agents builder and / Continuous Integration platform. ([Source Code](https://github.com/Strider-CD/strider)) `Proprietary commercial JetBrains` `Java`
 - [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
 
