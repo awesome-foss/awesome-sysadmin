@@ -741,6 +741,19 @@ Various resources, such as books, websites and articles, for improving your skil
 
 -------------------
 
+## List of Licenses
+
+- `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
+- `Apache-2.0` - [Apache, Version 2.0](https://www.apache.org/licenses/)
+- `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://opensource.org/licenses/BSD-2-Clause)
+- `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause)
+- `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+- `GPL-3.0` - [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- `MIT` - [MIT License](https://opensource.org/licenses/MIT)
+- `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+
+-------------------
+
 ## Websites
 
 *Useful sysadmin related websites.*
