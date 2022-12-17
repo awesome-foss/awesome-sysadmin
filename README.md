@@ -8,6 +8,10 @@
 
 **A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Pull Request template](./.github/PULL_REQUEST_TEMPLATE.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
 
+--------------------
+
+## Table of contents
+
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Automation](#automation)
   * [Backups](#backups)
@@ -68,7 +72,11 @@
   * [Websites](#websites)
   * [Wikis](#wikis)
 
-## Automation
+--------------------
+
+## Software
+
+### Automation
 
 *Automation build.*
 
@@ -80,7 +88,7 @@
 * [Rake](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
 * [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
 
-## Backups
+### Backups
 
 *Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
 
@@ -104,7 +112,7 @@
 * [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
-## Build and software organization tools
+### Build and software organization tools
 
 *Build and software organization tools.*
 
@@ -113,7 +121,7 @@
 * [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 * [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
-## ChatOps
+### ChatOps
 
 *Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
@@ -125,7 +133,7 @@
 * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
 * [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go.
 
-## Client management
+### Client management
 
 Managing software on desktop computers.
 
@@ -137,14 +145,14 @@ _See also: [IT Asset Management](#it-asset-management)_
 * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
 * [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
 
-## Cloning
+### Cloning
 
 *Cloning software.*
 
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 * [Fog](https://www.fogproject.org/) - Another computer cloning solution.
 
-## Cloud Computing
+### Cloud Computing
 
 * [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
@@ -159,7 +167,7 @@ _See also: [IT Asset Management](#it-asset-management)_
 * [The Foreman](http://theforeman.org/) - Complete lifecycle management tool for physical and virtual servers. FOSS.
 * [Tsuru](https://tsuru.io) - Tsuru is an extensible Platform as a Service software.
 
-## Cloud Orchestration
+### Cloud Orchestration
 
 * [BOSH](http://bosh.io/docs/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Cloud Foundry](https://www.cloudfoundry.org/) - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
@@ -178,7 +186,7 @@ _See also: [IT Asset Management](#it-asset-management)_
 * [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
 
 
-## Code Review
+### Code Review
 
 *Web Based collaborative code review system.*
 
@@ -187,7 +195,7 @@ _See also: [IT Asset Management](#it-asset-management)_
 * [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
 
 
-## Configuration Management Database
+### Configuration Management Database
 
 Configuration management database (CMDB) software.
 
@@ -199,7 +207,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 * [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool
 
-## Configuration Management
+### Configuration Management
 
 *Configuration management tools.*
 
@@ -210,7 +218,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://saltstack.com/) - It's written in Python.
 
-## Continuous Integration & Continuous Deployment
+### Continuous Integration & Continuous Deployment
 
 *Continuous integration/deployment software.*
 
@@ -231,7 +239,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
 
-## Control Panels
+### Control Panels
 
 *Web hosting and server or service control panels.*
 
@@ -255,7 +263,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
   * [Webmin](http://www.webmin.com/) - Linux server control panel.
 
-## Deployment Automation
+### Deployment Automation
 
 *Tools and scripts to support deployments to your servers.*
 
@@ -267,7 +275,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [sup](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 * [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
-## Diagramming
+### Diagramming
 
 *Tools used to create diagrams of networks, flows, etc.*
 
@@ -275,7 +283,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
 * [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
 
-## Distributed Filesystems
+### Distributed Filesystems
 
 *Network distributed filesystems.*
 
@@ -296,7 +304,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
-## DNS
+### DNS
 
 *DNS servers.*
 
@@ -311,7 +319,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 * [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
 
-## Domains
+### Domains
 
 *Domain management.*
 
@@ -319,7 +327,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location.
 * [octoDNS](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
 
-## Editors
+### Editors
 
 *Open source code editors.*
 
@@ -340,11 +348,11 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [VSCodium](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
 * [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
 
-## Identity Management
+### Identity Management
 
 *LDAP servers and other tools to manage accounts and identities.*
 
-### LDAP
+### Identity Management - LDAP
 
 * [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
@@ -354,7 +362,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
 * [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 
-### Tools and web interfaces
+### Identity Management - Tools and web interfaces
 
 * [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 * [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
@@ -369,11 +377,11 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 * [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
-### Single Sign-On (SSO)
+### Identity Management - Single Sign-On (SSO)
 
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
-## IT Asset Management
+### IT Asset Management
 
 *IT Assets Management software.*
 
@@ -384,7 +392,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Source Code](https://github.com/allegro/ralph), [Demo](https://github.com/allegro/ralph#live-demo)) `Apache-2.0` `Python/Docker`
 * [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
-## Log Management
+### Log Management
 
 *Log management tools: collect, parse, visualize ...*
 
@@ -399,7 +407,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 * [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
-## Mail Clients
+### Mail Clients
 
 * [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
 * [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
@@ -408,7 +416,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
 * [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
-## Monitoring
+### Monitoring
 
 *Monitoring software.*
 
@@ -492,7 +500,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   * [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
   * [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
-## Network Configuration Management
+### Network Configuration Management
 
 *Network configuration management tools.*
 
@@ -503,7 +511,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 * [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
 
-## Newsletters
+### Newsletters
 
 *Newsletter software.*
 
@@ -512,7 +520,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
 * [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
-## NoSQL
+### NoSQL
 
 *NoSQL databases.*
 
@@ -537,7 +545,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
 
-## Packaging
+### Packaging
 
 * [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code](https://github.com/aptly-dev/aptly)) `MIT` `Go`
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
@@ -545,11 +553,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 * [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
-## Project Management
+### Project Management
 
 *Web-based project management and bug tracking systems*: see https://github.com/awesome-selfhosted/awesome-selfhosted#project-management
 
-## Queuing
+### Queuing
 
 * [ActiveMQ](https://activemq.apache.org/) - Java message broker.
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
@@ -559,7 +567,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
 
-## RDBMS
+### RDBMS
 
 *Relational DBMS.*
 
@@ -572,20 +580,20 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.
 * [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
 
-## Remote Management
+### Remote Management
 
 * [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 * [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 * [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 
-## Service Discovery
+### Service Discovery
 
 * [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 * [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 * [etcd](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
 * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
-## Software Containers
+### Software Containers
 
 *Operating system–level virtualization.*
 
@@ -597,7 +605,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
-## Troubleshooting
+### Troubleshooting
 
 *Troubleshooting Tools.*
 
@@ -608,7 +616,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
-## Version control
+### Version control
 
 *Software versioning and revision control.*
 
@@ -619,7 +627,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Subversion](http://subversion.apache.org/) - Client-server revision control system.
 * [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
-## Virtualization
+### Virtualization
 
 *Virtualization software.*
 
@@ -638,7 +646,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 * [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
 
-## VPN
+### VPN
 
 *VPN software.*
 
@@ -654,7 +662,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 * [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 
-## Web
+### Web
 
 *Web servers.*
 
@@ -677,14 +685,14 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
 
-## Blogs
+### Blogs
 
 * [Code as Craft](https://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
 * [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
 * [Rackspace Developers](https://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
 * [RoseHosting Blog](https://www.rosehosting.com/blog/) - Linux tutorials for installing and configuring various software through the Linux command line. Guides and introductions to different Linux technologies and applications. Tips and tricks you can do via the Linux command line and more.
 
-## Books
+### Books
 
 *Sysadmin related books.*
 
@@ -695,7 +703,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
 * UNIX and Linux System Administration Handbook (ISBN-13: 978-0131480056) - Approaches system administration from a practical perspective.
 
-## Communities / Forums
+### Communities / Forums
 
 *For the social people.*
 
@@ -708,28 +716,30 @@ Various resources, such as books, websites and articles, for improving your skil
 * [StackExchange Network](https://stackexchange.com/sites#technology) – Q&A communities.
   * [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
 
-## Newsletters
+### Newsletters
 
 * [Servers for Hackers](https://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
 * [Web Operations Weekly](http://webopsweekly.com/) - A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
-## Repositories
+### Repositories
 
 *Software package repositories.*
 
 * [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
 
-### Debian-based distributions
+### Repositories - Debian-based distributions
 
 * [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
 
-### RPM-based distributions
+### Repositories - RPM-based distributions
 
 * [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (RHEL, CentOS, etc).
 * [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
 * [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
 * [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 * [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
+
+-------------------
 
 ## Websites
 
