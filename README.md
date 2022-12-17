@@ -255,7 +255,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
   * [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring
   * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
-* Revision Control: see [awesome-selfhosted#project-management](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
 * Virtualization
   * [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
 * Server
