@@ -683,64 +683,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Traefik](https://traefik.io/) - Traefik is a leading modern reverse proxy and load balancer.
 * [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
 
-# Resources
-
-Various resources, such as books, websites and articles, for improving your skills and knowledge.
-
-### Blogs
-
-* [Code as Craft](https://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
-* [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
-* [Rackspace Developers](https://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
-* [RoseHosting Blog](https://www.rosehosting.com/blog/) - Linux tutorials for installing and configuring various software through the Linux command line. Guides and introductions to different Linux technologies and applications. Tips and tricks you can do via the Linux command line and more.
-
-### Books
-
-*Sysadmin related books.*
-
-* [Codex](http://www.starkandwayne.com/codex/) - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
-* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
-* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
-* [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
-* [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
-* UNIX and Linux System Administration Handbook (ISBN-13: 978-0131480056) - Approaches system administration from a practical perspective.
-
-### Communities / Forums
-
-*For the social people.*
-
-* [ArsTechnica OpenForum](http://arstechnica.com/civis/) – IT Forum which is attached to a large news site.
-* [Reddit](https://www.reddit.com) - Really, really large bulletin board system.
-  * [/r/Linux](https://www.reddit.com/r/linux) - News and information about Linux.
-  * [/r/LinuxQuestions](https://www.reddit.com/r/linuxquestions)
-  * [/r/SysAdmin](https://www.reddit.com/r/sysadmin/)
-* [Spiceworks Community](https://community.spiceworks.com/start) – General enterprise IT news and small articles.
-* [StackExchange Network](https://stackexchange.com/sites#technology) – Q&A communities.
-  * [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
-
-### Newsletters
-
-* [Servers for Hackers](https://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
-* [Web Operations Weekly](http://webopsweekly.com/) - A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
-
-### Repositories
-
-*Software package repositories.*
-
-* [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
-
-### Repositories - Debian-based distributions
-
-* [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
-
-### Repositories - RPM-based distributions
-
-* [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (RHEL, CentOS, etc).
-* [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
-* [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
-* [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
-* [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
-
 -------------------
 
 ## List of Licenses
@@ -756,6 +698,58 @@ Various resources, such as books, websites and articles, for improving your skil
 
 -------------------
 
+## External links
+
+Various resources, such as books, websites and articles, for improving your skills and knowledge.
+
+## Blogs
+
+* [Code as Craft](https://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
+* [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
+* [Rackspace Developers](https://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
+* [RoseHosting Blog](https://www.rosehosting.com/blog/) - Linux tutorials for installing and configuring various software through the Linux command line. Guides and introductions to different Linux technologies and applications. Tips and tricks you can do via the Linux command line and more.
+
+## Books
+
+*Sysadmin related books.*
+
+* [Codex](http://www.starkandwayne.com/codex/) - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
+* [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
+* [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
+* UNIX and Linux System Administration Handbook (ISBN-13: 978-0131480056) - Approaches system administration from a practical perspective.
+
+## Communities / Forums
+
+*For the social people.*
+
+* [ArsTechnica OpenForum](http://arstechnica.com/civis/) – IT Forum which is attached to a large news site.
+* [Reddit](https://www.reddit.com) - Really, really large bulletin board system.
+  * [/r/Linux](https://www.reddit.com/r/linux) - News and information about Linux.
+  * [/r/LinuxQuestions](https://www.reddit.com/r/linuxquestions)
+  * [/r/SysAdmin](https://www.reddit.com/r/sysadmin/)
+* [Spiceworks Community](https://community.spiceworks.com/start) – General enterprise IT news and small articles.
+* [StackExchange Network](https://stackexchange.com/sites#technology) – Q&A communities.
+  * [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
+
+## Newsletters
+
+* [Servers for Hackers](https://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
+* [Web Operations Weekly](http://webopsweekly.com/) - A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
+
+## Repositories
+
+*Software package repositories.*
+
+* [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
+* [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
+* [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (RHEL, CentOS, etc).
+* [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
+* [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
+* [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
+* [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
+
 ## Websites
 
 *Useful sysadmin related websites.*
@@ -770,6 +764,8 @@ Various resources, such as books, websites and articles, for improving your skil
 
 * [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
 * [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
+
+------------------
 
 ## License
 
