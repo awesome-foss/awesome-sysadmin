@@ -554,7 +554,10 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ### Project Management
 
-*Web-based project management and bug tracking systems*: see https://github.com/awesome-selfhosted/awesome-selfhosted#project-management
+*Web-based project management and bug tracking systems*
+
+**Please visit [awesome-selfhosted/Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
+
 
 ### Queuing
 
