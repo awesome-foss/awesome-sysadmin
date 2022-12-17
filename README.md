@@ -371,7 +371,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 ### Single Sign-On (SSO)
 
-- [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+- [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
 ## IT Asset Management
 
