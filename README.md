@@ -359,7 +359,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
 * [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
-* [lldap](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation written in Rust and a web interface with Node.js `GPL-3.0` `Rust`.
+* [lldap](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation written in Rust and a web interface with Node.js ([Source Code](https://github.com/nitnelave/lldap)) `GPL-3.0` `Rust`/`JavaScript`.
 
 ### Identity Management - Tools and web interfaces
 
