@@ -49,6 +49,7 @@
   * [Queuing](#queuing)
   * [RDBMS](#rdbms)
   * [Remote Management](#remote-management)
+  * [Router](#router)
   * Security: [see awesome-security](https://github.com/sbilly/awesome-security)
   * [Service Discovery](#service-discovery)
   * [Software Containers](#software-containers)
@@ -586,6 +587,10 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 * [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 * [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
+
+### Router
+
+* [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities.
 
 ### Service Discovery
 
