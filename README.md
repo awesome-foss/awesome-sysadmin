@@ -590,6 +590,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 ### Router
 
+* [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. [Source Code](https://svn.dd-wrt.com/) `GPL-2.0` `C` 
 * [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. [Source Code](https://git.openwrt.org/openwrt/openwrt.git) `GPL-2.0` `C`
 * [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. [Source Code](https://github.com/opnsense) `BSD-2-Clause` `PHP`
 
