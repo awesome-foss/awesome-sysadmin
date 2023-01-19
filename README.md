@@ -377,8 +377,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 ### Identity Management - Single Sign-On (SSO)
 
+- [Kanidm](https://kanidm.github.io/kanidm/stable/) - A simple and secure identity management platform. ([Source Code](https://github.com/kanidm/)) `MPL-2.0` `Rust`
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
-- [Kanidm](https://kanidm.github.io/kanidm/stable/) - A simple and secure identity management platform. ([Source Code](https://github.com/kanidm/) `MPL-2.0` `Rust`
 
 ### IT Asset Management
 
