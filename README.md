@@ -755,6 +755,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 
+
 ### Web
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
@@ -813,6 +814,7 @@ Various resources, such as books, websites and articles, for improving your skil
 - [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
 * UNIX and Linux System Administration Handbook (ISBN-13: 978-0131480056) - Approaches system administration from a practical perspective.
 
+
 ## Communities / Forums
 
 *For the social people.*
@@ -826,10 +828,12 @@ Various resources, such as books, websites and articles, for improving your skil
 - [StackExchange Network](https://stackexchange.com/sites#technology) – Q&A communities.
   - [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
 
+
 ## Newsletters
 
 - [Servers for Hackers](https://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
 - [Web Operations Weekly](http://webopsweekly.com/) - A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
+
 
 ## Repositories
 
@@ -843,20 +847,16 @@ Various resources, such as books, websites and articles, for improving your skil
 - [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 - [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
 
+
 ## Websites
 
 *Useful sysadmin related websites.*
 
+- [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
+- [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 - [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
 - [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 - [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
-
-## Wikis
-
-*Useful Wikis for Sysadmins – not to be confused with Wiki software.*
-
-- [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
-- [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 
 ------------------
 
