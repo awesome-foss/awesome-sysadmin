@@ -290,8 +290,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   - [Virtualmin](http://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
 
 * Server
-  - [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
-  - [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
+  - [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD. ([Source Code](https://github.com/ajenti/ajenti)) `MIT` `Python/Shell`
+  - [Cockpit](http://cockpit-project.org/) - web-based graphical interface for servers. ([Source Code](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
   - [Webmin](http://www.webmin.com/) - Linux server control panel.
 
 
