@@ -89,10 +89,10 @@
 - [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, written in Java.
 - [Apache Maven](http://maven.apache.org/) - Build automation tool mainly for Java.
 - [Bazel](http://www.bazel.io/) - Google's build system.
+- [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
 - [GNU Make](http://www.gnu.org/software/make/) - The most popular automation build tool for many purposes.
 - [Gradle](http://gradle.org/) - Another build automation system.
 - [Rake](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
-- [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
 
 
 ### Backups
@@ -102,12 +102,13 @@
 *Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
 
 - [Amanda](http://www.amanda.org/) - Client-server model backup tool.
-- [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
-- [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
 - [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
+- [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
+- [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
 - [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
 - [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 - [Burp](http://burp.grke.org/) - Network backup and restore program.
+- [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 - [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 - [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
@@ -118,7 +119,6 @@
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
 - [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 - [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
-- [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 - [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
 
@@ -140,13 +140,13 @@
 
 *Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
+- [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go.
 - [CloudBot](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
 - [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
 - [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
 - [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
 - [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
 - [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
-- [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go.
 
 
 ### Client management
@@ -232,10 +232,10 @@ Configuration management database (CMDB) software.
 
 _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
-- [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
-- [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
 - [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 - [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
+- [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
+- [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool
 
 
@@ -322,9 +322,9 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Tools used to create diagrams of networks, flows, etc.*
 
+- [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
 - [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
 - [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
-- [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
 
 
 ### Distributed Filesystems
@@ -335,17 +335,17 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 - [Ceph](http://ceph.com/) - Distributed object store and file system.
 - [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
-- [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
 - [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
 - [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
 - [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
+- [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
 - [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
 - [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
 - [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
 - [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
 - [Perkeep](https://perkeep.org/) (née Camlistore) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
-- [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
 - [SheepDog](https://sheepdog.github.io/sheepdog/) - A distributed Blockdevice, Rest, QEMU and distributed Filesystem storage.
+- [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
 - [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 - [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
@@ -358,8 +358,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 - [Bind](https://www.isc.org/downloads/bind/) - The most widely used name server software.
 - [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go.
-- [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend.
+- [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.
 - [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
 - [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
@@ -408,11 +408,11 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 - [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
 - [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
+- [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
 - [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
 - [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 - [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 - [VSCodium](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
-- [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
 
 
 ### Identity Management
@@ -428,27 +428,27 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 - [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
 - [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
+- [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 - [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
 - [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 - [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 - [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
-- [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 
 
 ### Identity Management - Tools and web interfaces
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
+- [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
+- [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 - [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 - [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
-- [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites.
 - [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
+- [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites.
 - [OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
 - [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
 - [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
 - [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
-- [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
-- [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 - [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 - [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
@@ -514,8 +514,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPL-3.0` `Perl`
 - [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
-- [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 - [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
+- [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
 - [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/tribe29/checkmk)) `Python/PHP`
 - [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
@@ -535,8 +535,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 - [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
-- [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
+- [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
 - [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut ils and flask.
 - [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
@@ -567,32 +567,33 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 *Metric gathering and display software.*
 
 * Collectors only
-  - [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
   - [Collectd](http://collectd.org/) - System statistic collection daemon.
   - [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
+  - [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
   - [PGObserver](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
   - [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
   - [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
   - [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
 * Dashboards
-  - [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-  - [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
-  - [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
   - [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
   - [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
   - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
+  - [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
+  - [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+  - [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
 
 * Storage
-  - [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-  - [KairosDB](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
   - [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
+  - [KairosDB](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
+  - [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 
 * Packages
   - [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
   - [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
   - [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
   - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+
 
 ### Network Configuration Management
 
@@ -615,9 +616,9 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 *Newsletter software.*
 
 - [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
-- [phpList](https://www.phplist.com/) - Newsletter manager written in PHP.
-- [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
 - [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
+- [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
+- [phpList](https://www.phplist.com/) - Newsletter manager written in PHP.
 
 
 ### Packaging
@@ -707,12 +708,12 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Software versioning and revision control.*
 
+- [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 - [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
 - [Git](http://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed.
 - [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
 - [Mercurial](https://www.mercurial-scm.org/) - Another distributed revision control.
 - [Subversion](http://subversion.apache.org/) - Client-server revision control system.
-- [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
 
 ### Virtualization
@@ -745,6 +746,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 - [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. 
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. 
+- [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 - [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
 - [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
 - [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
@@ -753,7 +755,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
 - [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 - [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
-- [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 
 
 ### Web
