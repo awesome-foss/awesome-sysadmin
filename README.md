@@ -288,12 +288,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   - [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
   - [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
   - [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
-* DNS
-  - [Atomia DNS](http://atomiadns.com/) - DNS management system.
-  - [nsedit](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
-  - [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
-  - [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring
-  - [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 * Virtualization
   - [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
 * Server
@@ -360,7 +354,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
 
-### DNS
+### DNS - Servers
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
@@ -376,6 +370,19 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 - [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 - [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
+
+
+### DNS - Control Panels
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
+*DNS server control panels.*
+
+- [Atomia DNS](http://atomiadns.com/) - DNS management system.
+- [nsedit](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
+- [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
+- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring
+- [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 
 
 ### Domains
