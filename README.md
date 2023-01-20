@@ -288,8 +288,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   - [Sentora](http://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
   - [VestaCP](http://vestacp.com/) - Open-Source hosting control panel. ([Source Code](https://github.com/serghey-rodin/vesta)) `GPL-3.0` `PHP/Shell/Other`
   - [Virtualmin](http://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
-* Virtualization
-  - [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
+
 * Server
   - [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
   - [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
