@@ -393,7 +393,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 - [DnsControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure.
 - [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
-- [octoDNS](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers.
+- [octoDNS](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
 
 ### Editors
