@@ -285,7 +285,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * Web hosting
   - [Froxlor](https://froxlor.org/) - Lightweight server management software with Nginx and PHP-FPM support. ([Source Code](https://github.com/Froxlor/Froxlor/)) `GPL-2.0` `PHP`
   - [ISPConfig](http://www.ispconfig.org) - Manage Linux servers directly through your browser. ([Source Code](https://git.ispconfig.org/ispconfig/ispconfig3)) `BSD-3-Clause` `PHP`
-  - [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
+  - [Sentora](http://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
   - [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
   - [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
 * Virtualization
