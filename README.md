@@ -678,13 +678,13 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Operating system–level virtualization.*
 
+- [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
+- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
 - [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-  - [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
-  - [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
-  - [Portainer](https://portainer.io/) - Simple management UI for Docker.
 - [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
-  - [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
+- [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 - [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
+- [Portainer](https://portainer.io/) - Simple management UI for Docker.
 
 
 ### Troubleshooting
