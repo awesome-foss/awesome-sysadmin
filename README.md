@@ -31,6 +31,7 @@
   * [Configuration Management](#configuration-management)
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Control Panels](#control-panels)
+  * [Databases](#databases)
   * [Deployment Automation](#deployment-automation)
   * [Diagramming](#diagramming)
   * [Distributed Filesystems](#distributed-filesystems)
@@ -46,11 +47,9 @@
   * [Metric & Metric Collection](#metric--metric-collection)
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
-  * [NoSQL](#nosql)
   * [Packaging](#packaging)
   * [Project Management](#project-management)
   * [Queuing](#queuing)
-  * [RDBMS](#rdbms)
   * [Remote Management](#remote-management)
   * Security: [see awesome-security](https://github.com/sbilly/awesome-security)
   * [Service Discovery](#service-discovery)
@@ -264,6 +263,14 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
   * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
   * [Webmin](http://www.webmin.com/) - Linux server control panel.
+
+
+### Databases
+
+*Database servers.*
+
+**Please visit [dbdb.io - Database of Databases](https://dbdb.io/)**
+
 
 ### Deployment Automation
 
@@ -519,31 +526,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
 * [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
-### NoSQL
-
-*NoSQL databases.*
-
-* Column-Family
-  * [Apache HBase](http://hbase.apache.org/) - Hadoop database, a distributed, big data store.
-  * [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
-  * [Hypertable](http://hypertable.org/) - C++ based BigTable-like DBMS, communicates through Thrift and runs either as stand-alone or on distributed FS such as Hadoop.
-* Document Store
-  * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
-  * [ElasticSearch](https://www.elastic.co/) - Java based database, popular with log aggregation, and email archiving projects.
-  * [MongoDB](https://www.mongodb.org/) - Another document-oriented database system.
-  * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
-  * [RethinkDB](http://www.rethinkdb.com/) - Distributed document store database, focuses on JSON.
-  * [eXist-DB](Https://www.exist-db.org/) - Open Source XML Database
-* Graph
-  * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
-  * [Neo4j](http://neo4j.com/) - Graph database.
-* Key-Value
-  * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database.
-  * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
-  * [Riak](http://docs.basho.com/) - Another fault-tolerant key-value NoSQL database.
-
-Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
-
 ### Packaging
 
 * [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code](https://github.com/aptly-dev/aptly)) `MIT` `Go`
@@ -569,18 +551,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
 
-### RDBMS
-
-*Relational DBMS.*
-
-* [Firebird](http://www.firebirdsql.org/) - True universal database.
-* [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth.
-* [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
-  * [adminer](https://www.adminer.org/) -  Database management in a single PHP file ([Source code](https://github.com/vrana/adminer))
-* [Percona Server](https://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
-* [PostgreSQL](http://www.postgresql.org/) - Object-relational database management system (ORDBMS).
-* [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.
-* [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
 
 ### Remote Management
 
