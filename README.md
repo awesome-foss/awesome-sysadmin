@@ -4,7 +4,9 @@
   Author: n1trux
   -->
 
-# Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Sysadmin
+
+[![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Pull Request template](./.github/PULL_REQUEST_TEMPLATE.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
 
@@ -80,6 +82,8 @@
 
 ### Automation
 
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
 *Automation build.*
 
 - [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, written in Java.
@@ -90,7 +94,10 @@
 - [Rake](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
 - [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
 
+
 ### Backups
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
 
@@ -114,7 +121,10 @@
 - [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 - [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
+
 ### Build and software organization tools
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Build and software organization tools.*
 
@@ -123,7 +133,10 @@
 - [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 - [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
+
 ### ChatOps
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
@@ -135,7 +148,10 @@
 - [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
 - [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go.
 
+
 ### Client management
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 Managing software on desktop computers.
 
@@ -147,14 +163,20 @@ _See also: [IT Asset Management](#it-asset-management)_
 - [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
 - [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
 
+
 ### Cloning
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Cloning software.*
 
 - [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 - [Fog](https://www.fogproject.org/) - Another computer cloning solution.
 
+
 ### Cloud Computing
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
 - [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
@@ -169,7 +191,10 @@ _See also: [IT Asset Management](#it-asset-management)_
 - [The Foreman](http://theforeman.org/) - Complete lifecycle management tool for physical and virtual servers. FOSS.
 - [Tsuru](https://tsuru.io) - Tsuru is an extensible Platform as a Service software.
 
+
 ### Cloud Orchestration
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [BOSH](http://bosh.io/docs/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 - [Cloud Foundry](https://www.cloudfoundry.org/) - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
@@ -190,6 +215,8 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 ### Code Review
 
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
 *Web Based collaborative code review system.*
 
 - [Gerrit](https://www.gerritcodereview.com/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
@@ -198,6 +225,8 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 
 ### Configuration Management Database
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 Configuration management database (CMDB) software.
 
@@ -209,7 +238,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 - [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool
 
+
 ### Configuration Management
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Configuration management tools.*
 
@@ -220,7 +252,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 - [Salt](http://saltstack.com/) - It's written in Python.
 
+
 ### Continuous Integration & Continuous Deployment
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Continuous integration/deployment software.*
 
@@ -242,6 +277,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 
 ### Control Panels
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Web hosting and server or service control panels.*
 
@@ -267,12 +304,16 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 ### Databases
 
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
 *Database servers.*
 
 **Please visit [dbdb.io - Database of Databases](https://dbdb.io/)**
 
 
 ### Deployment Automation
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Tools and scripts to support deployments to your servers.*
 
@@ -284,7 +325,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [sup](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 - [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
+
 ### Diagramming
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Tools used to create diagrams of networks, flows, etc.*
 
@@ -292,7 +336,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
 - [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
 
+
 ### Distributed Filesystems
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Network distributed filesystems.*
 
@@ -312,7 +359,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 - [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
+
 ### DNS
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *DNS servers.*
 
@@ -327,7 +377,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 - [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
 
+
 ### Domains
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Domain management.*
 
@@ -335,7 +388,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location.
 - [octoDNS](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
 
+
 ### Editors
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Open source code editors.*
 
@@ -355,11 +411,17 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [VSCodium](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
 - [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
 
+
 ### Identity Management
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *LDAP servers and other tools to manage accounts and identities.*
 
+
 ### Identity Management - LDAP
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
 - [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
@@ -369,7 +431,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
 - [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 
+
 ### Identity Management - Tools and web interfaces
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 - [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
@@ -384,11 +449,17 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 - [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
+
 ### Identity Management - Single Sign-On (SSO)
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
+
 ### IT Asset Management
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *IT Assets Management software.*
 
@@ -399,7 +470,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Source Code](https://github.com/allegro/ralph), [Demo](https://github.com/allegro/ralph#live-demo)) `Apache-2.0` `Python/Docker`
 - [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
+
 ### Log Management
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Log management tools: collect, parse, visualize ...*
 
@@ -414,7 +488,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 - [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
+
 ### Mail Clients
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
 - [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
@@ -423,7 +500,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
 - [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
+
 ### Monitoring
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Monitoring software.*
 
@@ -469,12 +549,17 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 - [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
+
 ### Status Pages
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 **Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 
 ### Metric & Metric Collection
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Metric gathering and display software.*
 
@@ -508,6 +593,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 ### Network Configuration Management
 
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
 *Network configuration management tools.*
 
 - [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)) - `GPLv3`
@@ -517,7 +604,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 - [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
 
+
 ### Newsletters
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Newsletter software.*
 
@@ -526,7 +616,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
 - [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
+
 ### Packaging
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code](https://github.com/aptly-dev/aptly)) `MIT` `Go`
 - [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
@@ -534,7 +627,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 - [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
+
 ### Project Management
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Web-based project management and bug tracking systems*
 
@@ -542,6 +638,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 
 ### Queuing
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [ActiveMQ](https://activemq.apache.org/) - Java message broker.
 - [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
@@ -554,18 +652,26 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 ### Remote Management
 
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
 - [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 - [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 - [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 
+
 ### Service Discovery
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 - [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 - [etcd](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
 - [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
+
 ### Software Containers
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Operating system–level virtualization.*
 
@@ -577,7 +683,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
   - [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 - [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
+
 ### Troubleshooting
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Troubleshooting Tools.*
 
@@ -588,7 +697,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 - [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
+
 ### Version control
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Software versioning and revision control.*
 
@@ -599,7 +711,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Subversion](http://subversion.apache.org/) - Client-server revision control system.
 - [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
+
 ### Virtualization
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Virtualization software.*
 
@@ -618,7 +733,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 - [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
 
+
 ### VPN
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *VPN software.*
 
@@ -635,6 +753,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 
 ### Web
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Web servers.*
 
