@@ -292,7 +292,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 * Server
   - [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD. ([Source Code](https://github.com/ajenti/ajenti)) `MIT` `Python/Shell`
   - [Cockpit](http://cockpit-project.org/) - web-based graphical interface for servers. ([Source Code](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
-  - [Webmin](http://www.webmin.com/) - Linux server control panel.
+  - [Webmin](http://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
 
 
 ### Databases
