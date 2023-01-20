@@ -385,14 +385,14 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 
 
-### Domains
+### DNS - Domain Management
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Domain management.*
 
 - [DnsControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure.
-- [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location.
+- [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
 - [octoDNS](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
 
 
