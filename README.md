@@ -283,7 +283,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 *Web hosting and server or service control panels.*
 
 * Web hosting
-  - [Froxlor](https://froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
+  - [Froxlor](https://froxlor.org/) - Lightweight server management software with Nginx and PHP-FPM support. ([Source Code](https://github.com/Froxlor/Froxlor/)) `GPL-2.0` `PHP`
   - [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
   - [Sentora](http://sentora.org/) - Control panel for Linux, BSD, and Windows based on ZPanel.
   - [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
