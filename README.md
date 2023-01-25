@@ -54,6 +54,7 @@
     - [Packaging](#packaging)
     - [Project Management](#project-management)
     - [Queuing](#queuing)
+    - [Router](#router)
     - [Remote Management](#remote-management)
     - [Service Discovery](#service-discovery)
     - [Software Containers](#software-containers)
@@ -658,6 +659,12 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 - [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 
+
+### Router
+
+* [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C` 
+* [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
+* [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C` `PHP`
 
 ### Service Discovery
 
