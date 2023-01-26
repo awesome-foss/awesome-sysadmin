@@ -138,13 +138,9 @@
 
 *Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
-- [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go.
-- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
-- [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
-- [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
-- [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
-- [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
-- [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
+- [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
+- [Errbot](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
+- [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
 
 
 ### Client management
@@ -155,11 +151,8 @@ Managing software on desktop computers.
 
 _See also: [IT Asset Management](#it-asset-management)_
 
-- [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
-- [just-install](https://just-install.github.io/) – Python script for downloading and silently installing MSI files.
-- [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
-- [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
-- [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
+- [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+- [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan. ([Source Code](https://github.com/OCSInventory-NG/OCSInventory-Server)) `GPL-2.0` `Perl/PHP`
 
 
 ### Cloning
@@ -168,20 +161,16 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 *Cloning software.*
 
-- [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
-- [Fog](https://www.fogproject.org/) - Another computer cloning solution.
+- [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
+- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Sorce Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 
 ### Cloud Computing
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
-- [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
-- [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
-- [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
-- [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
-- [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
+- [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack))
+- [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler))
 - [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 - [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
 - [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
