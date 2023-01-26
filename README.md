@@ -171,7 +171,6 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 - [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack))
 - [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler))
-- [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
 - [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 - [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
 - [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
