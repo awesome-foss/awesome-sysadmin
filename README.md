@@ -139,7 +139,7 @@
 *Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
 - [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
-- [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
+- [Errbot](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
 - [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
 - [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
 - [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
