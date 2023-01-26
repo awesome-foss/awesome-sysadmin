@@ -138,7 +138,6 @@
 
 *Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
-- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
 - [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
 - [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
 - [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
