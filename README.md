@@ -161,8 +161,8 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 *Cloning software.*
 
-- [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
-- [Fog](https://www.fogproject.org/) - Another computer cloning solution.
+- [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
+- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Sorce Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 
 ### Cloud Computing
