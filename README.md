@@ -151,7 +151,7 @@ Managing software on desktop computers.
 
 _See also: [IT Asset Management](#it-asset-management)_
 
-- [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
+- [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on NuGet.
 - [just-install](https://just-install.github.io/) – Python script for downloading and silently installing MSI files.
 - [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
 - [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
