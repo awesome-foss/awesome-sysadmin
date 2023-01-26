@@ -153,7 +153,6 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 - [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on NuGet.
 - [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan. ([Source Code](https://github.com/OCSInventory-NG/OCSInventory-Server)) `GPL-2.0` `Perl/PHP`
-- [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
 
 
 ### Cloning
