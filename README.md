@@ -138,7 +138,7 @@
 
 *Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
-- [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
+- [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
 - [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
 - [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
 - [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
