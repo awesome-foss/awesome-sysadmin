@@ -498,10 +498,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Monitoring software.*
 
-- [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
 - [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPL-3.0` `Perl`
 - [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
+- [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
