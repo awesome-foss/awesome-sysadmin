@@ -508,7 +508,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/tribe29/checkmk)) `Python/PHP`
 - [EdMon](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 - [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
-- [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
 - [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
 - [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
 - [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
