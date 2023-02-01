@@ -299,7 +299,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 - [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
-- [sup](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 - [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
 
