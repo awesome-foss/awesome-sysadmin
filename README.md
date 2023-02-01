@@ -529,7 +529,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
 - [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk))
-- [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
 - [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
 - [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
 - [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
