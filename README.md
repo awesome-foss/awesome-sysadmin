@@ -530,7 +530,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
 - [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk))
 - [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse))
-- [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
 
 ### Status Pages
