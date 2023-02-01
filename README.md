@@ -528,7 +528,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
-- [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
+- [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk))
 - [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
 - [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
 - [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
