@@ -523,7 +523,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
-- [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut ils and flask.
 - [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 - [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
