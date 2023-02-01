@@ -523,9 +523,9 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
-- [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
-- [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
-- [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
+- [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
+- [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann))
+- [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
 - [Sensu](https://sensuapp.org/) - Monitoring framework.
 - [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
