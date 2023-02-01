@@ -521,8 +521,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 - [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
-- [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
-- [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
+- [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
+- [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
 - [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut ils and flask.
 - [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
