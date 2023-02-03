@@ -152,7 +152,6 @@ Managing software on desktop computers.
 _See also: [IT Asset Management](#it-asset-management)_
 
 - [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
-- [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan. ([Source Code](https://github.com/OCSInventory-NG/OCSInventory-Server)) `GPL-2.0` `Perl/PHP`
 
 
 ### Cloning
