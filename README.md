@@ -480,7 +480,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
+- [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree))
 - [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
 - [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
 - [Nylas Mail](https://www.nylas.com/nylas-mail/) - Extensible mail client.
