@@ -484,7 +484,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code](https://github.com/imapsync/imapsync))
 - [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt))
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code](https://github.com/sylpheed-mail/sylpheed))
-- [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
+- [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file))
 
 
 ### Monitoring
