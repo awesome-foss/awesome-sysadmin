@@ -219,7 +219,6 @@ Configuration management database (CMDB) software.
 
 _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
-- [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 - [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 - [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
 - [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
