@@ -107,6 +107,7 @@
 - [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 - [Burp](http://burp.grke.org/) - Network backup and restore program.
 - [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
+- [Dar](http://dar.linux.free.fr) - Robust archiving tool in the style of tar, with tons of functionality.
 - [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 - [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
