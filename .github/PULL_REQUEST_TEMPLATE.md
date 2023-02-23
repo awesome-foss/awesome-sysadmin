@@ -27,7 +27,7 @@ To ensure your PR is dealt with swiftly please check the following:
 
 Please take some time to answer the following questions as best you can:
 
-<!-- Failure to answer these questions in a useful and unbiased way will result in your submission to be rejected. -->
+<!-- Failure to answer these questions in a useful and unbiased way will result in your submission being rejected. -->
 
 - **Why is it awesome?**
 
