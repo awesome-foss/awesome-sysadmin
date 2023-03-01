@@ -585,7 +585,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *Operating system–level virtualization.*
 
-* [Buildah](https://buildah.io) - a tool that facilitates building OCI container images ([Source Code](https://github.com/containers/buildah)) `Apache-2` `Go`
 * [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
   * [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
   * [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
