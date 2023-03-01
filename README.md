@@ -138,13 +138,9 @@
 
 *Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
 
-- [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go.
-- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
-- [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
-- [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
-- [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
-- [Lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
-- [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
+- [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
+- [Errbot](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
+- [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
 
 
 ### Client management
@@ -155,11 +151,7 @@ Managing software on desktop computers.
 
 _See also: [IT Asset Management](#it-asset-management)_
 
-- [Chocolatey](https://chocolatey.org/) – Windows CLI package manager written in .NET/PS, based on [NuGet](https://www.nuget.org/).
-- [just-install](https://just-install.github.io/) – Python script for downloading and silently installing MSI files.
-- [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
-- [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
-- [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
+- [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
 
 ### Cloning
@@ -168,20 +160,16 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 *Cloning software.*
 
-- [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
-- [Fog](https://www.fogproject.org/) - Another computer cloning solution.
+- [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
+- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Sorce Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 
 ### Cloud Computing
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [AppScale](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
-- [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
-- [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
-- [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
-- [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
-- [Eucalyptus](https://www.eucalyptus.cloud/) - Private cloud software with AWS compatibility.
+- [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack))
+- [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler))
 - [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 - [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
 - [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
@@ -230,7 +218,6 @@ Configuration management database (CMDB) software.
 
 _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
-- [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 - [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 - [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
 - [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
@@ -310,8 +297,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 - [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
-- [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-- [sup](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 - [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
 
@@ -465,7 +450,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *IT Assets Management software.*
 
-- [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
+- [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code](https://github.com/glpi-project/glpi))
 - [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 - [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
 - [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
@@ -495,12 +480,11 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
-- [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
-- [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
-- [Nylas Mail](https://www.nylas.com/nylas-mail/) - Extensible mail client.
-- [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
-- [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
+- [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree))
+- [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code](https://github.com/imapsync/imapsync))
+- [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt))
+- [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code](https://github.com/sylpheed-mail/sylpheed))
+- [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file))
 
 
 ### Monitoring
@@ -509,47 +493,38 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Monitoring software.*
 
-- [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
-- [Alerta](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
-- [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPL-3.0` `Perl`
-- [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
-- [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-- [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
+- [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
+- [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
+- [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
+- [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
+- [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code](https://github.com/arachnys/cabot)) `MIT` `Python`
+- [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
 - [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/tribe29/checkmk)) `Python/PHP`
-- [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 - [EdMon](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
-- [ElastiFlow](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
-- [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
-- [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
-- [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
-- [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
-- [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support.
-- [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems.
-- [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
-- [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
-- [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
-- [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS.
-- [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code](https://github.com/netxms/netxms))
+- [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
+- [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
+- [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ([Source Code](https://github.com/Icinga/icinga2)) `GPL-2.0` `C++`
+- [LibreNMS](http://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support. ([Source Code](https://github.com/librenms/librenms)) `GPL-3.0` `PHP`
+- [Linux Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine. `MIT` `Nodejs/Go/Python/PHP`
+- [Monit](http://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems. ([Source Code](https://bitbucket.org/tildeslash/monit/src/master/)) `AGPL-3.0` `C`
+- [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool. ([Source Code](https://github.com/munin-monitoring/munin)) `GPL-2.0` `Perl/Shell`
+- [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features. ([Source Code](https://github.com/naemon/naemon-core)) `GPL-2.0` `C`
+- [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
+- [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS. ([Source Code](https://github.com/netdata/netdata)) `GPL-3.0` `C`
+- [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 - [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 - [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
-- [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
-- [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
-- [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut ils and flask.
-- [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
-- [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
-- [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
+- [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
+- [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
+- [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
+- [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann))
+- [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
-- [Sensu](https://sensuapp.org/) - Monitoring framework.
-- [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
-- [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
-- [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
-- [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
-- [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
-- [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
-- [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
-- [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
+- [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
+- [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk))
+- [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse))
 
 
 ### Status Pages
@@ -599,13 +574,12 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Network configuration management tools.*
 
-- [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)) - `GPLv3`
+- [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances. ([Source Code](https://github.com/GNS3/gns3-gui/)) `GPL-3.0` `Python`
 - [OpenWISP](https://openwisp.org/) - Open Source Network Management System for OpenWRT based routers and access points. ([Demo](https://openwisp.org/demo.html), [Source Code](https://github.com/openwisp)) `GPL-3.0` `Python` 
-- [Oxidized](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
-- [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
-- [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
-- [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
-- [trigger](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
+- [Oxidized](https://github.com/ytti/oxidized) - Network device configuration backup tool. `Apache-2.0` `Ruby`
+- [phpIPAM](http://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
+- [RANCID](http://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
+- [rConfig](http://www.rconfig.com/) - Network device configuration management tool. ([Source Code](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
 
 
 
