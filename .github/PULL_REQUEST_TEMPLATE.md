@@ -23,9 +23,30 @@ To ensure your PR is dealt with swiftly please check the following:
   Suggested titles: "Add aaa to bbb" for adding software aaa to section bbb,
   "Remove aaa from bbb" for removing, "Fix license for aaa", etc.
 
-
 --------------
 
-### Why it is awesome
+Please take some time to answer the following questions as best you can:
 
-Please replace this with a short paragraph explaning why you think this software is awesome.
+<!-- Failure to answer these questions in a useful and unbiased way will result in your submission being rejected. -->
+
+- **Why is it awesome?**
+
+Replace this text with your answer.
+
+- **Have you used it? For how long?**
+
+Replace this text with your answer.
+
+- **Is this in a personal or professional setup?**
+
+Replace this text with your answer.
+
+- **How many devices/users/services/... do you manage with it?**
+
+Replace this text with your answer.
+
+- **Biggest pros/cons compared to other solutions?**
+
+Replace this text with your answer.
+
+- **Any other comments about your use case, things you've found excellent, limitations you've encountered... ?**
