@@ -533,7 +533,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Sensu](https://sensuapp.org/) - Monitoring framework.
 - [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
 - [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
-- [Status](https://gitlab.com/dani3l0/status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
+- [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 - [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 - [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
 - [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
