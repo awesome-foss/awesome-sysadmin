@@ -667,6 +667,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 - [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/containers/podman)) `Apache-2.0` `Go`
 - [Portainer](https://portainer.io/) - Simple management UI for Docker.
+- [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 
 ### Troubleshooting
