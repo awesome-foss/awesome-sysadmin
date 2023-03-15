@@ -724,7 +724,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *VPN software.*
 
-- [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN-compatible server which starts in less than 2 seconds.
+- [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds.
 - [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. 
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. 
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
