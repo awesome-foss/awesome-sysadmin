@@ -1,0 +1,11 @@
+steps:
+  - name: check URLs
+    module: processors/url_check
+    module_options:
+      source_directories:
+        - software
+        - tags
+      source_files:
+        - licenses.yml
+      errors_are_fatal: True
+      exclude_regex: []
