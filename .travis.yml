@@ -1,7 +1,0 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --white-list bestpractical.com/rt,mogilefs,harding,archipel,linuxcontainers,spiceworks
