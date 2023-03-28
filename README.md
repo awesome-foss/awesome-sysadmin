@@ -417,7 +417,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [FreeIPA](https://www.freeipa.org/) - Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools).
 - [FreeRADIUS](https://freeradius.org/) - Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module.
 - [lldap](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
-- [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
+- [OpenLDAP](https://www.openldap.org/) - Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients).
 
 
 ### Identity Management - Tools and web interfaces
