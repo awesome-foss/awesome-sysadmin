@@ -416,6 +416,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
 - [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 - [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
+- [lldap](https://github.com/nitnelave/lldap) - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support. `GPL-3.0` `Rust`
 - [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 - [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 - [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
