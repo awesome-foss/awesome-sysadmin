@@ -467,7 +467,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system. ([Source Code](https://github.com/apache/flume)) `Apache-2.0` `Java`
 - [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
 - [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus. ([Source Code](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
-- [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
 
 ### Mail Clients
