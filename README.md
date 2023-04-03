@@ -463,16 +463,10 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Log management tools: collect, parse, visualize ...*
 
-- [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
-- [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
-- [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
-- [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
-- [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
-- [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
-- [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
-- [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-- [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
-- [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+- [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
+- [Flume](https://flume.apache.org/) - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. ([Source Code](https://github.com/apache/flume)) `Apache-2.0` `Java`
+- [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
+- [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 
 
 ### Mail Clients
