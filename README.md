@@ -464,7 +464,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 *Log management tools: collect, parse, visualize ...*
 
 - [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper. ([Source Code](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
-- [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
+- [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system. ([Source Code](https://github.com/apache/flume)) `Apache-2.0` `Java`
 - [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
 - [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 - [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
