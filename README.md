@@ -463,9 +463,9 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Log management tools: collect, parse, visualize ...*
 
-- [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper. ([Source Code](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
+- [Fluentd](https://www.fluentd.org/) - Log Collector and Shipper. ([Source Code](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
 - [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system. ([Source Code](https://github.com/apache/flume)) `Apache-2.0` `Java`
-- [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
+- [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
 - [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus. ([Source Code](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 
 
