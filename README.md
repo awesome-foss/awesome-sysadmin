@@ -463,7 +463,6 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 *Log management tools: collect, parse, visualize ...*
 
-- [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 - [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
 - [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
 - [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
