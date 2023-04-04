@@ -772,25 +772,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 ## External links
 
-Various resources, such as books, websites and articles, for improving your skills and knowledge.
-
-## Blogs
-
-- [Code as Craft](https://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
-- [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
-- [Rackspace Developers](https://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
-- [RoseHosting Blog](https://www.rosehosting.com/blog/) - Linux tutorials for installing and configuring various software through the Linux command line. Guides and introductions to different Linux technologies and applications. Tips and tricks you can do via the Linux command line and more.
-
-## Books
-
-*Sysadmin related books.*
-
-- [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
-
-
 ## Communities / Forums
-
-*For the social people.*
 
 - [ArsTechnica OpenForum](http://arstechnica.com/civis/) – IT Forum which is attached to a large news site.
 - [Reddit](https://www.reddit.com) - Really, really large bulletin board system.
@@ -800,13 +782,6 @@ Various resources, such as books, websites and articles, for improving your skil
 - [Spiceworks Community](https://community.spiceworks.com/start) – General enterprise IT news and small articles.
 - [StackExchange Network](https://stackexchange.com/sites#technology) – Q&A communities.
   - [Server Fault](https://serverfault.com/) – StackExchange community for system and network administrators.
-
-
-## Newsletters
-
-- [Servers for Hackers](https://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
-- [Web Operations Weekly](http://webopsweekly.com/) - A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
-
 
 ## Repositories
 
@@ -820,10 +795,7 @@ Various resources, such as books, websites and articles, for improving your skil
 - [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 - [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
 
-
 ## Websites
-
-*Useful sysadmin related websites.*
 
 - [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
 - [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
