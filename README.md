@@ -285,6 +285,8 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 **Please visit [dbdb.io - Database of Databases](https://dbdb.io/)**
 
+_See also: [awesome-selfhosted/Database Management](https://github.com/awesome-selfhosted/awesome-selfhosted#database-management)_
+
 
 ### Deployment Automation
 
