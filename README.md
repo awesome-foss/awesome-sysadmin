@@ -749,7 +749,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Cherokee](http://cherokee-project.com/) - Innovative, feature rich, lightning fast and easy to configure open source web server designed for the next generation of highly concurrent secured web applications. ([Source Code](https://github.com/cherokee/webserver/))
 - [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha))
 - [Lighttpd](http://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments.
-- [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server.
+- [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip))
 
 *Web Performance.*
 
