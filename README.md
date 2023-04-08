@@ -743,7 +743,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 [Web servers](https://en.wikipedia.org/wiki/Web_server) and [reverse proxies](https://en.wikipedia.org/wiki/Reverse_proxy).
 
-- [Algernon](http://algernon.roboticoverlords.org/) - Web/application server that supports Lua, live-reload, templates, Sass and HTTP/2. ([Source Code](https://github.com/xyproto/algernon))
+- [Algernon](http://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code](https://github.com/xyproto/algernon))
 - [Apache](http://httpd.apache.org/) - A robust, commercial-grade, featureful implementation of an HTTP (Web) server.
 - [Caddy](https://caddyserver.com/) - Lightweight, general-purpose web server supporting HTTP/2, automatic TLS and easy configuration. Written in Go.
 - [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
