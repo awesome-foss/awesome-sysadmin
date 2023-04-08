@@ -755,7 +755,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 - [HAProxy](http://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
 - [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy.
-- [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
+- [Varnish](https://www.varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy.
 
 -------------------
 
