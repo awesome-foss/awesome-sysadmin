@@ -750,7 +750,6 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha))
 - [Lighttpd](http://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments.
 - [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server.
-- [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
 
 *Web Performance.*
 
