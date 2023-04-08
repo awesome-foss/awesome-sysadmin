@@ -746,9 +746,9 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code](https://github.com/xyproto/algernon)) `Go`
 - [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/)) `C`
 - [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code](https://github.com/caddyserver/caddy)) `Go`
-- [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
-- [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha))
-- [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments.
+- [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. `C`
+- [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `C`
+- [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `C`
 - [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip))
 - [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy.
 - [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy.
