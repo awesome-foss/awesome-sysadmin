@@ -744,8 +744,8 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 [Web servers](https://en.wikipedia.org/wiki/Web_server) and [reverse proxies](https://en.wikipedia.org/wiki/Reverse_proxy).
 
 - [Algernon](http://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code](https://github.com/xyproto/algernon))
-- [Apache HTTP Server](http://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
-- [Caddy](https://caddyserver.com/) - Lightweight, general-purpose web server supporting HTTP/2, automatic TLS and easy configuration. Written in Go.
+- [Apache HTTP Server](http://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/))
+- [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS
 - [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
 - [Hiawatha](https://www.hiawatha-webserver.org/) - Prioritises security, simplicity and performance.
 - [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
