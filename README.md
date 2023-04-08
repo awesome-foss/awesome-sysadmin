@@ -747,7 +747,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Apache HTTP Server](http://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/viewvc/httpd/httpd/branches/2.4.x/))
 - [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code](https://github.com/caddyserver/caddy))
 - [Cherokee](http://cherokee-project.com/) - Innovative, feature rich, lightning fast and easy to configure open source web server designed for the next generation of highly concurrent secured web applications.
-- [Hiawatha](https://www.hiawatha-webserver.org/) - Prioritises security, simplicity and performance.
+- [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix.
 - [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
 - [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
 - [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
