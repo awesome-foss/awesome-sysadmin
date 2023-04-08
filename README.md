@@ -741,7 +741,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Web servers.*
+[Web servers](https://en.wikipedia.org/wiki/Web_server) and [reverse proxies](https://en.wikipedia.org/wiki/Reverse_proxy).
 
 - [Algernon](http://algernon.roboticoverlords.org/) - Web/application server that supports Lua, live-reload, templates, Sass and HTTP/2.
 - [Apache](http://httpd.apache.org/) - A robust, commercial-grade, featureful implementation of an HTTP (Web) server.
