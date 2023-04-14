@@ -659,6 +659,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
 - [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
 - [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
+- [Kasm](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/linuxserver/docker-kasm/)) `GPL-3.0`
 - [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
 - [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 - [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
