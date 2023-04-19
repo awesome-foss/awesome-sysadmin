@@ -346,7 +346,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend. ([Source Code](https://github.com/openstack/designate))
 - [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns))
 - [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree))
-- [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
+- [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns))
 - [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
 - [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 - [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
