@@ -349,7 +349,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns))
 - [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative only, high performance, simple name server. ([Source Code](https://github.com/NLnetLabs/nsd))
 - [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features. ([Source Code](https://github.com/PowerDNS/pdns))
-- [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
+- [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver.
 - [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
 
 
