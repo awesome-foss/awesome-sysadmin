@@ -344,7 +344,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Bind](https://www.isc.org/bind/) - The most widely used name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9))
 - [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go. ([Source Code](https://github.com/coredns/coredns))
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend. ([Source Code](https://github.com/openstack/designate))
-- [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
+- [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns))
 - [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.
 - [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
 - [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
