@@ -347,7 +347,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree))
 - [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns))
 - [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code](https://github.com/NLnetLabs/nsd))
-- [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features. ([Source Code](https://github.com/PowerDNS/pdns))
+- [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends.. ([Source Code](https://github.com/PowerDNS/pdns))
 - [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code](https://github.com/NLnetLabs/unbound))
 - [Yadifa](https://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain. ([Source Code](https://github.com/yadifa/yadifa))
 
