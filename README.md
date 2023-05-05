@@ -630,7 +630,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
+- [Remmina](http://www.remmina.org/) - A Feature rich remote desktop application for linux  and other unixes.
 - [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 - [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 
