@@ -605,12 +605,12 @@ _See also: [Databases](#databases), [Monitoring](#monitoring)_
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [ActiveMQ](https://activemq.apache.org/) - Java message broker.
-- [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
+- [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue.
 - [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
-- [Kafka](http://kafka.apache.org) - Extremely high performance publish/subscribe message system.
-- [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
-- [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
-- [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
+- [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system.
+- [NSQ](https://nsq.io/) - A realtime distributed messaging platform.
+- [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
+- [ZeroMQ](https://zeromq.org/) - Lightweight queuing system.
 
 
 ### Remote Management
