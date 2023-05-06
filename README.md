@@ -617,9 +617,9 @@ _See also: [Databases](#databases), [Monitoring](#monitoring)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Remmina](http://www.remmina.org/) - A Feature rich remote desktop application for linux  and other unixes.
-- [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
-- [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
+- [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina))
+- [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code](https://github.com/TigerVNC/tigervnc))
+- [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb))
 
 
 ### Router
