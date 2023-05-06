@@ -360,7 +360,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 - [Atomia DNS](http://atomiadns.com/) - DNS management system. ([Source Code](https://github.com/atomia/atomiadns/))
 - [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole))
-- [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
+- [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin))
 
 
 ### DNS - Domain Management
