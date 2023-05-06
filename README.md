@@ -358,9 +358,9 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *DNS server control panels.*
 
-- [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code](https://github.com/atomia/atomiadns/)) `Perl`
-- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `Shell/PHP`
-- [Poweradmin](https://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `PHP`
+- [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
+- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
+- [Poweradmin](https://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 
 ### DNS - Domain Management
