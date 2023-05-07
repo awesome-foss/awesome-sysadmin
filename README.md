@@ -700,7 +700,6 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Virtualization software.*
 
-- [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
 - [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
 - [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
 - [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
