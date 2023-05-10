@@ -16,6 +16,7 @@
 ### Table of contents
 
 - [Software](#software)
+    - [Access Management] (#access-management)
     - [Automation](#automation)
     - [Backups](#backups)
     - [Build and software organization tools](#build-and-software-organization-tools)
@@ -75,6 +76,12 @@
 --------------------
 
 ## Software
+
+### Access Management
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
+- [Cerbos](https://cerbos.dev/) - A self-hosted, open source user authorization layer for your applications. ([Source Code](https://github.com/cerbos/cerbos)) ([Demo](https://cerbos.dev/how-it-works)) `Apache-2.0` `Go`
 
 ### Automation
 
