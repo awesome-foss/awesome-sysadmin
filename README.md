@@ -16,7 +16,7 @@
 ### Table of contents
 
 - [Software](#software)
-    - [Access Management] (#access-management)
+    - [Access Management](#access-management)
     - [Automation](#automation)
     - [Backups](#backups)
     - [Build and software organization tools](#build-and-software-organization-tools)
@@ -82,7 +82,8 @@
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [Cerbos](https://cerbos.dev/) - A self-hosted, open source user authorization layer for your applications. ([Source Code](https://github.com/cerbos/cerbos)) ([Demo](https://cerbos.dev/how-it-works)) `Apache-2.0` `Go`
-
+- [Otterize](https://otterize.com/) - An intent-based access control (IBAC) for a Kubernetes cluster. ([Source Code](https://github.com/otterize/intents-operator)) `Apache-2.0` `Go`
+- [Teleport](https://goteleport.com/) - An open source access platform used by DevSecOps teams for SSH, Kubernetes, databases, internal web applications and Windows. ([Source Code](https://github.com/gravitational/teleport/)) `Apache-2.0` `Go`
 ### Automation
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
