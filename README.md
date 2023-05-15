@@ -664,6 +664,7 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 - [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 - [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 - [Portainer](https://portainer.io/) - Simple management UI for Docker.
+- [dyrector.io Platform](https://dyrector.io/) - Self-hosted container management platform. API & UI for Kubernetes & Docker deployments. ([Source Code](https://github.com/dyrector-io/dyrectorio)) `Apache-2.0` `Go` `Typescript`
 
 
 ### Troubleshooting
