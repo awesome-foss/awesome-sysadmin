@@ -205,7 +205,6 @@ _See also: [IT Asset Management](#it-asset-management)_
 *Web Based collaborative code review system.*
 
 - [Gerrit](https://www.gerritcodereview.com/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
-- [Phabricator](http://phabricator.org/) - Code review tool build by facebook and used by WikiMedia, FB, dropbox etc. Comes with an integrated wiki, bug tracker, VC integration and a CLI tool called arcanist.
 - [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
 
 
