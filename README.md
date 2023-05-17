@@ -202,10 +202,7 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Web Based collaborative code review system.*
-
-- [Gerrit](https://www.gerritcodereview.com/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
-- [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
+**Please visit [awesome-selfhosted/Software Development - Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
 
 
 ### Configuration Management Database
