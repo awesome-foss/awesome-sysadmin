@@ -319,6 +319,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
 - [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
 - [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
+- [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
 - [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
 - [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
 - [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `AGPL-3.0` `Go`
