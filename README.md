@@ -46,7 +46,7 @@
     - [Mail Clients](#mail-clients)
     - [Monitoring](#monitoring)
     - [Status Pages](#status-pages)
-    - [Metric & Metric Collection](#metric--metric-collection)
+    - [Metrics & Metric Collection](#metrics--metric-collection)
     - [Network Configuration Management](#network-configuration-management)
     - [Newsletters](#newsletters)
     - [Packaging](#packaging)
@@ -483,6 +483,9 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Monitoring software.*
 
+_See also: [Metrics & Metric Collection](#metrics--metric-collection)_
+
+
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
@@ -527,13 +530,13 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 **Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 
-### Metric & Metric Collection
+### Metrics & Metric Collection
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Metric gathering and display software.*
 
-_See also: [Databases](#databases)_
+_See also: [Databases](#databases), [Monitoring](#monitoring)_
 
 - [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0`
 - [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code](https://github.com/collectd/collectd)) `MIT` `C`
@@ -620,6 +623,7 @@ _See also: [Databases](#databases)_
 * [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C` 
 * [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
 * [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C` `PHP`
+
 
 ### Service Discovery
 
