@@ -532,6 +532,9 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Metric gathering and display software.*
 
+_See also: [Databases](#databases)_
+
+
 * Collectors only
   - [Collectd](https://collectd.org/) - System statistic collection daemon.
   - [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
