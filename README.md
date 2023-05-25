@@ -550,7 +550,6 @@ _See also: [Databases](#databases)_
   - [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.
   - [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
   - [Prometheus](https://prometheus.io/) - Service monitoring system and time series database.
-  - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
 
 ### Network Configuration Management
