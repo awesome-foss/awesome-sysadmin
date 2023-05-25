@@ -534,22 +534,17 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 _See also: [Databases](#databases)_
 
-* Collectors only
-  - [Collectd](https://collectd.org/) - System statistic collection daemon.
-  - [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
-  - [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
-  - [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
-  - [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
-
-* Dashboards
-  - [Facette](https://facette.io) - Time series data visualization and graphing software written in Go.
-  - [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-  - [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
-
-* Packages
-  - [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.
-  - [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
-  - [Prometheus](https://prometheus.io/) - Service monitoring system and time series database.
+- [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.
+- [Collectd](https://collectd.org/) - System statistic collection daemon.
+- [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
+- [Facette](https://facette.io) - Time series data visualization and graphing software written in Go.
+- [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+- [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
+- [Prometheus](https://prometheus.io/) - Service monitoring system and time series database.
+- [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
+- [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
+- [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
+- [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 
 
 ### Network Configuration Management
