@@ -541,7 +541,6 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 * Dashboards
   - [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-  - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
   - [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
   - [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
   - [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
