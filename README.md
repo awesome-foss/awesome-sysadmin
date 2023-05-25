@@ -534,7 +534,6 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 * Collectors only
   - [Collectd](https://collectd.org/) - System statistic collection daemon.
-  - [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
   - [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
   - [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
   - [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
