@@ -509,6 +509,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
+- [Prometheus](https://prometheus.io/) - Service monitoring system and time series database.
 - [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann))
 - [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
@@ -540,7 +541,6 @@ _See also: [Databases](#databases)_
 - [Facette](https://facette.io) - Time series data visualization and graphing software written in Go.
 - [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 - [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
-- [Prometheus](https://prometheus.io/) - Service monitoring system and time series database.
 - [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
 - [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 - [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
