@@ -538,7 +538,7 @@ _See also: [Databases](#databases)_
 - [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0`
 - [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code](https://github.com/collectd/collectd)) `MIT` `C`
 - [Diamond](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
-- [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+- [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
 - [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
 - [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
 - [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
