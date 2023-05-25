@@ -544,9 +544,6 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
   - [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
   - [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
 
-* Storage
-  - [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-
 * Packages
   - [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
   - [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
