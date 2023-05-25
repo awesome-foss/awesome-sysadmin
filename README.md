@@ -546,7 +546,6 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 * Storage
   - [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
-  - [KairosDB](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
   - [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 
 * Packages
