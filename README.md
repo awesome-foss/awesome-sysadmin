@@ -545,7 +545,6 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
   - [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
 
 * Storage
-  - [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
   - [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 
 * Packages
