@@ -344,6 +344,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns)) `GPL-3.0` `C`
 - [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
 - [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends.. ([Source Code](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
+- [Technitium DNS Server](https://technitium.com/dns/) - Open source authoritative and recursive DNS server that works out-of-the-box with no or minimal configuration and provides a user-friendly web console accessible using any modern web browser. ([Source Code](https://github.com/TechnitiumSoftware/DnsServer))  `GPL-3.0` `C#`
 - [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
 - [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
