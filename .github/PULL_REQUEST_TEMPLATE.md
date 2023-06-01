@@ -14,7 +14,7 @@ To ensure your PR is dealt with swiftly please check the following:
   `Demo` links should only be used for interactive demos, i.e. not video demonstrations.
   ``- [Name](http://homepage/) - Short description, under 250 characters, sentence case. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
 - [ ] Additions are inserted preserving alphabetical order.
-- [ ] Additions are not already listed at [awesome-selfhosted](https://github.com/awesome-foss/awesome-sysadmin)
+- [ ] Additions are not already listed at [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [ ] The `Language` tag is the main **server-side** requirement for the software. Don't include frameworks or specific dialects.
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-foss/awesome-sysadmin/issues) or [PRs](https://github.com/awesome-foss/awesome-sysadmin/pulls), including closed ones.
 - [ ] Any category you are creating has the minimum requirement of 3 items.
