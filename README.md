@@ -436,6 +436,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
+- [Defguard](https://defguard.net) - OpenID Identity Provider with OpenLDAP sync and Multi-Factor Authentication, Wireguard VPN Management, Yubikey Provisioning and more. ([Source Code](https://github.com/defguard/defguard)) `Apache-2.0` `Rust`
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
 
@@ -716,7 +717,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 *VPN software.*
-
+- [Defguard](https://defguard.net) - Wireguard VPN Management with integrated OpenID Identity Provider and Multi-Factor Authentication. ([Source Code](https://github.com/defguard/defguard)) `Apache-2.0` `Rust`
 - [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds.
 - [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. 
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. 
