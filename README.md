@@ -46,7 +46,7 @@
     - [Mail Clients](#mail-clients)
     - [Monitoring](#monitoring)
     - [Status Pages](#status-pages)
-    - [Metric & Metric Collection](#metric--metric-collection)
+    - [Metrics & Metric Collection](#metrics--metric-collection)
     - [Network Configuration Management](#network-configuration-management)
     - [Newsletters](#newsletters)
     - [Packaging](#packaging)
@@ -484,6 +484,9 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Monitoring software.*
 
+_See also: [Metrics & Metric Collection](#metrics--metric-collection)_
+
+
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
@@ -510,6 +513,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
+- [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
 - [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann))
 - [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
@@ -527,38 +531,23 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 **Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 
-### Metric & Metric Collection
+### Metrics & Metric Collection
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Metric gathering and display software.*
 
-* Collectors only
-  - [Collectd](http://collectd.org/) - System statistic collection daemon.
-  - [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
-  - [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
-  - [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
-  - [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
-  - [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+_See also: [Databases](#databases), [Monitoring](#monitoring)_
 
-* Dashboards
-  - [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
-  - [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-  - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
-  - [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
-  - [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-  - [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
-
-* Storage
-  - [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
-  - [KairosDB](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
-  - [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-
-* Packages
-  - [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
-  - [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
-  - [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-  - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+- [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0`
+- [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code](https://github.com/collectd/collectd)) `MIT` `C`
+- [Diamond](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
+- [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
+- [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
+- [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
+- [Statsd](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `Nodejs` `MIT`
+- [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
+- [Telegraf](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
 
 ### Network Configuration Management
@@ -635,6 +624,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 * [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C` 
 * [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
 * [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C` `PHP`
+
 
 ### Service Discovery
 
