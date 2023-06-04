@@ -437,7 +437,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 - [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
 - [authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols (oAuth 2.0, SAML, LDAP and Radius). ([Source Code](https://github.com/goauthentik/authentik)) `Python`
-- [KeyCloak] (https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+- [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
 
 ### IT Asset Management
