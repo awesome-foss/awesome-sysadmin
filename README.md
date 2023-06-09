@@ -781,6 +781,7 @@ _See also: [Databases](#databases), [Monitoring](#monitoring)_
 ## Websites
 
 - [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
+- [Betterstack Community Guides](https://betterstack.com/community/guides/) - Collection of in-depth technical guides and tutorials about scaling apps, observability, DevOps and more.
 - [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 - [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
 - [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
