@@ -314,22 +314,22 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Network distributed filesystems.*
 
-- [Ceph](http://ceph.com/) - Distributed object store and file system.
-- [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
-- [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
-- [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
-- [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
+- [Ceph](https://ceph.com/) - Distributed object store and file system.
+- [DRBD](https://linbit.com/drbd/) - Distributed Replicated Block Device.
+- [GlusterFS](https://www.gluster.org/) - Scale-out network-attached storage file system.
+- [Kubo](https://github.com/ipfs/kubo) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
+- [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
 - [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
-- [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
-- [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
-- [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `AGPL-3.0` `Go`
-- [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
-- [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
+- [LeoFS](https://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
+- [Lustre](https://www.lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
+- [Minio](https://min.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `AGPL-3.0` `Go`
+- [MooseFS](https://moosefs.com/) - Fault tolerant, network distributed file system.
+- [OpenAFS](https://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
 - [Perkeep](https://perkeep.org/) (née Camlistore) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
 - [SheepDog](https://sheepdog.github.io/sheepdog/) - A distributed Blockdevice, Rest, QEMU and distributed Filesystem storage.
-- [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
+- [Swift](https://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
 - [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
-- [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
+- [XtreemFS](https://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
 
 ### DNS - Servers
