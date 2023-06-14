@@ -317,7 +317,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Ceph](https://ceph.com/) - Distributed object, block, and file storage platform. ([Source Code](https://github.com/ceph/ceph))
 - [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code](https://github.com/LINBIT/drbd))
 - [GlusterFS](https://www.gluster.org/) - Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. ([Source Code](https://github.com/gluster/glusterfs))
-- [Kubo](https://github.com/ipfs/kubo) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
+- [Kubo](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
 - [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework. ([Source Code](https://github.com/apache/hadoop))
 - [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
 - [LeoFS](https://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system. ([Source Code](https://github.com/leo-project/leofs))
