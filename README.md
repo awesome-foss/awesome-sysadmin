@@ -145,7 +145,7 @@ coordinate many different backup utilities. `GPL-2.0` `Shell`
 
 Managing software on desktop computers.
 
-_See also: [IT Asset Management](#it-asset-management)_
+_Related: [IT Asset Management](#it-asset-management)_
 
 - [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
@@ -208,7 +208,7 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 Configuration management database (CMDB) software.
 
-_See also: [IT Asset Management]([Ralph](#it-asset-management))_
+_Related: [IT Asset Management](#it-asset-management)_
 
 - [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 - [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
@@ -474,7 +474,7 @@ _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](ht
 
 *Monitoring software.*
 
-_See also: [Metrics & Metric Collection](#metrics--metric-collection)_
+_Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
 
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
@@ -528,7 +528,7 @@ _See also: [Metrics & Metric Collection](#metrics--metric-collection)_
 
 *Metric gathering and display software.*
 
-_See also: [Databases](#databases), [Monitoring](#monitoring)_
+_Related: [Databases](#databases), [Monitoring](#monitoring)_
 
 - [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0`
 - [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code](https://github.com/collectd/collectd)) `MIT` `C`
