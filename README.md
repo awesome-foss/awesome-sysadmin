@@ -338,6 +338,8 @@ _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](ht
 
 _See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
 
+_Related: [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)_
+
 - [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 - [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 - [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns)) `Public Domain` `C`
@@ -356,6 +358,8 @@ _See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesom
 *DNS server control panels, web interfaces and domain management tools*
 
 _See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
+
+_Related: [DNS - Servers](#dns---servers)_
 
 - [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate))
