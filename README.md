@@ -97,26 +97,26 @@
 
 *Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
 
-- [Amanda](http://www.amanda.org/) - Client-server model backup tool.
+- [Amanda](https://www.amanda.org/) - Client-server model backup tool.
 - [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 - [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
-- [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
-- [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
+- [Bareos](https://www.bareos.org/) - A fork of Bacula backup tool.
+- [Barman](https://pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
 - [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
-- [Burp](http://burp.grke.org/) - Network backup and restore program.
+- [Burp](https://burp.grke.org/) - Network backup and restore program.
 - [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
-- [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
+- [Duplicati](https://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 - [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
 - [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://www.proxmox.com/en/downloads/category/isoimages-pbs)) `GPL-3.0` `Rust`
 - [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
-- [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
+- [Rdiff-backup](https://rdiff-backup.net/) - An easy A remote incremental backup of all your files.
 - [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
-- [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
+- [Rsnapshot](https://rsnapshot.org/) - Filesystem Snapshotting Utility.
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
-- [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
-- [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
+- [Snebu](https://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
+- [UrBackup](https://www.urbackup.org/) - Another client-server backup system.
 - [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
 
