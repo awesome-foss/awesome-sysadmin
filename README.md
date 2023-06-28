@@ -519,6 +519,7 @@ _See also: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann))
 - [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
+- [ruptime](https://github.com/alexmyczko/ruptime) - classic system status server ([Source Code](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
 - [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
