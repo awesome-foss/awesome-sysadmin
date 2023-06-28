@@ -107,7 +107,6 @@
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 - [Duplicati](https://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 - [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
-- [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
 - [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://www.proxmox.com/en/downloads/category/isoimages-pbs)) `GPL-3.0` `Rust`
 - [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
 - [Rdiff-backup](https://rdiff-backup.net/) - An easy A remote incremental backup of all your files.
