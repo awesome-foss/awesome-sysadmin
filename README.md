@@ -113,7 +113,6 @@
 - [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient. ([Source Code](https://github.com/restic/restic))
 - [Rsnapshot](https://rsnapshot.org/) - Filesystem Snapshotting Utility. ([Source Code](https://github.com/rsnapshot/rsnapshot))
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
-- [Snebu](https://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression. ([Source Code](https://github.com/derekp7/snebu/))
 - [UrBackup](https://www.urbackup.org/) - Another client-server backup system. ([Source Code](https://github.com/uroni/urbackup_backend))
 
 
