@@ -102,7 +102,7 @@
 - [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk. ([Source Code](https://github.com/backuppc/backuppc)) `GPL-3.0` `Perl`
 - [Bareos](https://www.bareos.org/) - A fork of Bacula backup tool. ([Source Code](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 - [Barman](https://pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers. ([Source Code](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
-- [BorgBackup](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption. 
+- [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code](https://github.com/borgbackup/borg))
 - [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code](https://github.com/grke/burp))
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 - [Duplicati](https://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool. ([Source Code](https://github.com/duplicati/duplicati))
