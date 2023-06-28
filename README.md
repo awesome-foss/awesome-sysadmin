@@ -585,10 +585,9 @@ _See also: [Databases](#databases), [Monitoring](#monitoring)_
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code](https://github.com/aptly-dev/aptly)) `MIT` `Go`
-- [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
-- [omnibus-ruby](https://github.com/chef/omnibus) - Full stack, cross distro packaging software (Ruby).
-- [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
-- [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
+- [fpm](https://fpm.readthedocs.io/en/latest/) - Versatile multi format package creator. ([Source Code](https://github.com/jordansissel/fpm)) `MIT` `Ruby`
+- [omnibus-ruby](https://github.com/chef/omnibus) - Easily create full-stack installers for your project across a variety of platforms. `Apache-2.0` `Ruby`
+- [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
 
 
 ### Project Management
@@ -604,22 +603,22 @@ _See also: [Databases](#databases), [Monitoring](#monitoring)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [ActiveMQ](https://activemq.apache.org/) - Java message broker.
-- [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
-- [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
-- [Kafka](http://kafka.apache.org) - Extremely high performance publish/subscribe message system.
-- [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
-- [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
-- [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
+- [ActiveMQ](https://activemq.apache.org/) - Java message broker. ([Source Code](https://github.com/apache/activemq)) `Apache-2.0` `Java`
+- [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue. ([Source Code](https://github.com/beanstalkd/beanstalkd)) `MIT` `C`
+- [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
+- [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code](https://github.com/apache/kafka)) `Apache-2.0` `Java`
+- [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
+- [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code](https://github.com/rabbitmq/rabbitmq-server)) `Erlang`
+- [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
 
 
 ### Remote Management
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Remmina](http://www.remmina.org/) - A Feature rich remote desktop application for linux  and other unixes.
-- [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
-- [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
+- [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina))
+- [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code](https://github.com/TigerVNC/tigervnc))
+- [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb))
 
 
 ### Router
