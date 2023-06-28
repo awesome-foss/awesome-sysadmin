@@ -34,8 +34,7 @@
     - [Diagramming](#diagramming)
     - [Distributed Filesystems](#distributed-filesystems)
     - [DNS - Servers](#dns---servers)
-    - [DNS - Control Panels](#dns---control-panels)
-    - [DNS - Domain Management](#dns---domain-management)
+    - [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)
     - [Editors](#editors)
     - [Identity Management](#identity-management)
     - [Identity Management - LDAP](#identity-management---ldap)
@@ -348,27 +347,19 @@ _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](ht
 - [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 
-### DNS - Control Panels
+### DNS - Control Panels & Domain Management
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*DNS server control panels.*
+*DNS server control panels, web interfaces and domain management tools*
 
 - [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
-- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet qdvertisements with a GUI for management and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
-- [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
-
-
-### DNS - Domain Management
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-*Domain management.*
-
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate))
 - [DNSControl](https://stackexchange.github.io/dnscontrol/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code](https://github.com/StackExchange/dnscontrol)) `MIT` `Go/Docker`
 - [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
 - [octoDNS](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet qdvertisements with a GUI for management and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
+- [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 
 ### Editors
