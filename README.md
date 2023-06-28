@@ -34,8 +34,7 @@
     - [Diagramming](#diagramming)
     - [Distributed Filesystems](#distributed-filesystems)
     - [DNS - Servers](#dns---servers)
-    - [DNS - Control Panels](#dns---control-panels)
-    - [DNS - Domain Management](#dns---domain-management)
+    - [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)
     - [Editors](#editors)
     - [Identity Management](#identity-management)
     - [Identity Management - LDAP](#identity-management---ldap)
@@ -146,7 +145,7 @@ coordinate many different backup utilities. `GPL-2.0` `Shell`
 
 Managing software on desktop computers.
 
-_See also: [IT Asset Management](#it-asset-management)_
+_Related: [IT Asset Management](#it-asset-management)_
 
 - [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
@@ -209,7 +208,7 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 Configuration management database (CMDB) software.
 
-_See also: [IT Asset Management]([Ralph](#it-asset-management))_
+_Related: [IT Asset Management](#it-asset-management)_
 
 - [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 - [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
@@ -337,38 +336,38 @@ _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](ht
 
 *DNS servers.*
 
+_See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
+
+_Related: [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)_
+
 - [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 - [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 - [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns)) `Public Domain` `C`
 - [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
 - [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns)) `GPL-3.0` `C`
 - [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
-- [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends.. ([Source Code](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
+- [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
 - [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
 - [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 
-### DNS - Control Panels
+### DNS - Control Panels & Domain Management
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*DNS server control panels.*
+*DNS server control panels, web interfaces and domain management tools*
+
+_See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
+
+_Related: [DNS - Servers](#dns---servers)_
 
 - [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
-- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet qdvertisements with a GUI for management and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
-- [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
-
-
-### DNS - Domain Management
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-*Domain management.*
-
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate))
 - [DNSControl](https://stackexchange.github.io/dnscontrol/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code](https://github.com/StackExchange/dnscontrol)) `MIT` `Go/Docker`
 - [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
 - [octoDNS](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet qdvertisements with a GUI for management and monitoring. ([Source Code](https://github.com/pi-hole/pi-hole)) `EUPL-1.2` `Shell/PHP`
+- [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 
 ### Editors
@@ -483,7 +482,7 @@ _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](ht
 
 *Monitoring software.*
 
-_See also: [Metrics & Metric Collection](#metrics--metric-collection)_
+_Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
 
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
@@ -537,7 +536,7 @@ _See also: [Metrics & Metric Collection](#metrics--metric-collection)_
 
 *Metric gathering and display software.*
 
-_See also: [Databases](#databases), [Monitoring](#monitoring)_
+_Related: [Databases](#databases), [Monitoring](#monitoring)_
 
 - [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0`
 - [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code](https://github.com/collectd/collectd)) `MIT` `C`
