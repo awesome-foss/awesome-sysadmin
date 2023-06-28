@@ -115,7 +115,6 @@
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
 - [Snebu](https://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression. ([Source Code](https://github.com/derekp7/snebu/))
 - [UrBackup](https://www.urbackup.org/) - Another client-server backup system. ([Source Code](https://github.com/uroni/urbackup_backend))
-- [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool. ([Source Code](https://github.com/zbackup/zbackup))
 
 
 ### Build and software organization tools
