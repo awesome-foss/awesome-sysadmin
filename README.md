@@ -102,18 +102,18 @@
 - [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk. ([Source Code](https://github.com/backuppc/backuppc)) `GPL-3.0` `Perl`
 - [Bareos](https://www.bareos.org/) - A fork of Bacula backup tool. ([Source Code](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 - [Barman](https://pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers. ([Source Code](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
-- [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code](https://github.com/borgbackup/borg))
-- [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code](https://github.com/grke/burp))
+- [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
+- [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code](https://github.com/grke/burp)) `AGPL-3.0` `C`
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
-- [Duplicati](https://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool. ([Source Code](https://github.com/duplicati/duplicati))
-- [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity))
+- [Duplicati](https://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool. ([Source Code](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
+- [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity)) `GPL-2.0` `Python`
 - [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
-- [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers. ([Source Code](https://github.com/rclone/rclone))
-- [Rdiff-backup](https://rdiff-backup.net/) - An easy A remote incremental backup of all your files. ([Source Code](https://github.com/rdiff-backup/rdiff-backup))
-- [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient. ([Source Code](https://github.com/restic/restic))
-- [Rsnapshot](https://rsnapshot.org/) - Filesystem Snapshotting Utility. ([Source Code](https://github.com/rsnapshot/rsnapshot))
-- [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
-- [UrBackup](https://www.urbackup.org/) - Another client-server backup system. ([Source Code](https://github.com/uroni/urbackup_backend))
+- [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers. ([Source Code](https://github.com/rclone/rclone)) `MIT` `Go`
+- [Rdiff-backup](https://rdiff-backup.net/) - An easy A remote incremental backup of all your files. ([Source Code](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
+- [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient. ([Source Code](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
+- [Rsnapshot](https://rsnapshot.org/) - Filesystem Snapshotting Utility. ([Source Code](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
+- [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
+- [UrBackup](https://www.urbackup.org/) - Another client-server backup system. ([Source Code](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
 
 
 ### Build and software organization tools
