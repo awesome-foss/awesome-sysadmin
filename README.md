@@ -97,25 +97,25 @@
 
 *Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
 
-- [Amanda](https://www.amanda.org/) - Client-server model backup tool.
+- [Amanda](https://www.amanda.org/) - Client-server model backup tool. ([Source Code](https://github.com/zmanda/amanda))
 - [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
-- [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
-- [Bareos](https://www.bareos.org/) - A fork of Bacula backup tool.
-- [Barman](https://pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
+- [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk. ([Source Code](https://github.com/backuppc/backuppc))
+- [Bareos](https://www.bareos.org/) - A fork of Bacula backup tool. ([Source Code](https://github.com/bareos/bareos))
+- [Barman](https://pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers. ([Source Code](https://github.com/EnterpriseDB/barman))
 - [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
-- [Burp](https://burp.grke.org/) - Network backup and restore program.
+- [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code](https://github.com/grke/burp))
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
-- [Duplicati](https://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
-- [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
+- [Duplicati](https://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool. ([Source Code](https://github.com/duplicati/duplicati))
+- [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity))
 - [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://www.proxmox.com/en/downloads/category/isoimages-pbs)) `GPL-3.0` `Rust`
-- [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
-- [Rdiff-backup](https://rdiff-backup.net/) - An easy A remote incremental backup of all your files.
-- [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
-- [Rsnapshot](https://rsnapshot.org/) - Filesystem Snapshotting Utility.
+- [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers. ([Source Code](https://github.com/rclone/rclone))
+- [Rdiff-backup](https://rdiff-backup.net/) - An easy A remote incremental backup of all your files. ([Source Code](https://github.com/rdiff-backup/rdiff-backup))
+- [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient. ([Source Code](https://github.com/restic/restic))
+- [Rsnapshot](https://rsnapshot.org/) - Filesystem Snapshotting Utility. ([Source Code](https://github.com/rsnapshot/rsnapshot))
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
-- [Snebu](https://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
-- [UrBackup](https://www.urbackup.org/) - Another client-server backup system.
-- [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
+- [Snebu](https://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression. ([Source Code](https://github.com/derekp7/snebu/))
+- [UrBackup](https://www.urbackup.org/) - Another client-server backup system. ([Source Code](https://github.com/uroni/urbackup_backend))
+- [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool. ([Source Code](https://github.com/zbackup/zbackup))
 
 
 ### Build and software organization tools
