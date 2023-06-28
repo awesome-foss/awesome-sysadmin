@@ -104,7 +104,6 @@
 - [Barman](https://pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
 - [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 - [Burp](https://burp.grke.org/) - Network backup and restore program.
-- [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 - [Duplicati](https://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 - [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
