@@ -646,6 +646,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 - [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
 - [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
 - [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
+- [dyrector.io Platform](https://dyrector.io/) - Self-hosted container management platform. API & UI for Kubernetes & Docker deployments. ([Source Code](https://github.com/dyrector-io/dyrectorio)) `Apache-2.0` `Go` `Typescript`
 - [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
 - [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 - [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
