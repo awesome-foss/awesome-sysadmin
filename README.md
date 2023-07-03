@@ -643,14 +643,14 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 
 *Operating system–level virtualization.*
 
-- [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
-- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
-- [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-- [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
-- [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
-- [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
+- [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code](https://github.com/docker/compose))
+- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code](https://github.com/moby/swarmkit))
+- [Docker](https://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications. ([Source Code](https://www.docker.com/community/open-source/))
+- [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code](https://github.com/lxc/lxc))
+- [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC. ([Source Code](https://github.com/lxc/lxd))
+- [OpenVZ](https://openvz.org) - Container-based virtualization for Linux. ([Source Code](https://src.openvz.org/projects/OVZ))
 - [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/containers/podman)) `Apache-2.0` `Go`
-- [Portainer](https://portainer.io/) - Simple management UI for Docker.
+- [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code](https://github.com/portainer/portainer))
 - [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 
