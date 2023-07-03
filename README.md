@@ -631,26 +631,27 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
-- [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
-- [etcd](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
-- [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+*[Service discovery](https://en.wikipedia.org/wiki/Service_discovery) is the process of automatically detecting devices and services on a computer network.*
+
+- [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration. ([Source Code](https://github.com/hashicorp/consul)) `MPL-2.0` `Go`
+- [etcd](https://etcd.io/) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
+- [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. ([Source Code](https://github.com/apache/zookeeper)) `Apache-2.0` `Java/C++`
 
 
 ### Software Containers
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Operating system–level virtualization.*
+*[Operating system–level](https://en.wikipedia.org/wiki/OS-level_virtualization) virtualization.*
 
-- [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
-- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
-- [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-- [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
-- [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
-- [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
+- [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code](https://github.com/docker/compose)) `Apache-2.0` `Go`
+- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
+- [Docker](https://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications. ([Source Code](https://www.docker.com/community/open-source/)) `Apache-2.0` `Go`
+- [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code](https://github.com/lxc/lxc)) `GPL-2.0` `C`
+- [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC. ([Source Code](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
+- [OpenVZ](https://openvz.org) - Container-based virtualization for Linux. ([Source Code](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
 - [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/containers/podman)) `Apache-2.0` `Go`
-- [Portainer](https://portainer.io/) - Simple management UI for Docker.
+- [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code](https://github.com/portainer/portainer)) `Zlib` `Go`
 - [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 
