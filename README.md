@@ -52,7 +52,7 @@
     - [Project Management](#project-management)
     - [Queuing](#queuing)
     - [Router](#router)
-    - [Remote Management](#remote-management)
+    - [Remote Desktop Clients](#remote-management)
     - [Service Discovery](#service-discovery)
     - [Software Containers](#software-containers)
     - [Troubleshooting](#troubleshooting)
@@ -609,7 +609,11 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 - [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
 
 
-### Remote Management
+### Remote Desktop Clients
+
+[Remote Desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) client software.
+
+_See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
