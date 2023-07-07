@@ -52,7 +52,7 @@
     - [Project Management](#project-management)
     - [Queuing](#queuing)
     - [Router](#router)
-    - [Remote Desktop Clients](#remote-management)
+    - [Remote Desktop Clients](#remote-desktop-clients)
     - [Service Discovery](#service-discovery)
     - [Software Containers](#software-containers)
     - [Troubleshooting](#troubleshooting)
