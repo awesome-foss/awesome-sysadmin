@@ -510,6 +510,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 - [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 - [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
+- [openITCOCKPIT](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code](https://github.com/it-novum/openITCOCKPIT)) `GPL-3.0/Proprietary` `PHP`
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
