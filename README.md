@@ -787,6 +787,7 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 ## Websites
 
+- [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category) - Compilation of software and tools for cloud computing.
 - [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki which has really nice written articles valid for other distros.
 - [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 - [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
