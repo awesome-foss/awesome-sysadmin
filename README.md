@@ -23,7 +23,6 @@
     - [Client management](#client-management)
     - [Cloning](#cloning)
     - [Cloud Computing](#cloud-computing)
-    - [Cloud Orchestration](#cloud-orchestration)
     - [Code Review](#code-review)
     - [Configuration Management Database](#configuration-management-database)
     - [Configuration Management](#configuration-management)
@@ -168,15 +167,9 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 _See also: [Cloud Native Software Landcscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category)_
 
+- [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code](https://github.com/CloudSlang/score))
 - [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack))
 - [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler))
-
-
-### Cloud Orchestration
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-- [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code](https://github.com/CloudSlang/score))
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 - [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([SOurce Code](https://github.com/andrewchilds/overcast))
 
