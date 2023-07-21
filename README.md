@@ -199,7 +199,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Configuration management tools.*
+[Configuration management (CM)](https://en.wikipedia.org/wiki/Configuration_management) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
 
 - [Ansible](http://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool
 - [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems.
