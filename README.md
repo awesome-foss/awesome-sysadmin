@@ -176,7 +176,6 @@ _See also: [Cloud Native Software Landcscape](https://landscape.cncf.io/card-mod
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Cloud Foundry](https://www.cloudfoundry.org/) - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
 - [Cloudify](http://getcloudify.org/) - TOSCA-based cloud orchestration software platform written in Python and YAML.
 - [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
