@@ -201,12 +201,12 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 *Configuration management tools.*
 
-- [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
-- [CFEngine](https://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
-- [Chef](https://www.chef.io/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
+- [Ansible](http://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool
+- [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems.
+- [Chef](https://www.chef.io/chef/) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes".
 - [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
-- [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
-- [Salt](http://saltstack.com/) - It's written in Python.
+- [Puppet](https://puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration.
+- [Salt](http://saltstack.com/) - Event-driven IT automation, remote task execution, and configuration management software.
 
 
 ### Continuous Integration & Continuous Deployment
