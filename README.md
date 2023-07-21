@@ -164,6 +164,10 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
+[Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
+
+_See also: [Cloud Native Software Landcscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category)_
+
 - [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack))
 - [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler))
 - [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
