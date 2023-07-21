@@ -165,7 +165,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
 
-_See also: [Cloud Native Software Landcscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category)_
+**Please visit [Cloud Native Software Landcscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category)**
 
 - [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code](https://github.com/CloudSlang/score))
 - [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack))
