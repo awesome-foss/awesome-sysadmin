@@ -176,7 +176,6 @@ _See also: [Cloud Native Software Landcscape](https://landscape.cncf.io/card-mod
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Cloudify](http://getcloudify.org/) - TOSCA-based cloud orchestration software platform written in Python and YAML.
 - [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 - [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
