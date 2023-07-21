@@ -201,12 +201,12 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 [Configuration management (CM)](https://en.wikipedia.org/wiki/Configuration_management) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
 
-- [Ansible](http://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool
-- [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems.
-- [Chef](https://www.chef.io/chef/) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes".
-- [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
-- [Puppet](https://puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration.
-- [Salt](http://saltstack.com/) - Event-driven IT automation, remote task execution, and configuration management software.
+- [Ansible](http://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code](https://github.com/ansible/ansible))
+- [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code](https://github.com/cfengine/core))
+- [Chef](https://www.chef.io/chef/) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code](https://github.com/chef/chef))
+- [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL. ([Source Code](https://github.com/palletops))
+- [Puppet](https://puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code](https://github.com/puppetlabs/puppet))
+- [Salt](http://saltstack.com/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code](https://github.com/saltstack/salt))
 
 
 ### Continuous Integration & Continuous Deployment
