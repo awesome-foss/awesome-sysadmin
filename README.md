@@ -170,7 +170,6 @@ _See also: [Cloud Native Software Landcscape](https://landscape.cncf.io/card-mod
 
 - [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack))
 - [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler))
-- [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
 - [OpenStack](https://www.openstack.org/) - Build private and public clouds.
 - [The Foreman](http://theforeman.org/) - Complete lifecycle management tool for physical and virtual servers. FOSS.
 - [Tsuru](https://tsuru.io) - Tsuru is an extensible Platform as a Service software.
