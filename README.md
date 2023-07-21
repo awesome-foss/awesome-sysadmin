@@ -176,7 +176,7 @@ _See also: [Cloud Native Software Landcscape](https://landscape.cncf.io/card-mod
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
+- [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code](https://github.com/CloudSlang/score))
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 - [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
 - [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
