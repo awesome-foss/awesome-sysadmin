@@ -302,6 +302,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 - [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
 - [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
+- [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code](https://github.com/yuzutech/kroki)) `MIT` `Java` 
 - [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
 
 
