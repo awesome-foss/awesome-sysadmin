@@ -266,6 +266,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 - [ISPConfig](http://www.ispconfig.org) - Manage Linux servers directly through your browser. ([Source Code](https://git.ispconfig.org/ispconfig/ispconfig3)) `BSD-3-Clause` `PHP`
 - [Sentora](http://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
 - [VestaCP](http://vestacp.com/) - Open-Source hosting control panel. ([Source Code](https://github.com/serghey-rodin/vesta)) `GPL-3.0` `PHP/Shell/Other`
+- [HestiaCP](https://hestiacp.com/) - Open-source web server control panel. Fork of Vesta without commercial addons and more current packaging. ([Source Code](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
 - [Virtualmin](http://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
 - [Webmin](http://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
 
