@@ -266,6 +266,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 *Tools and scripts to support deployments to your servers.*
 
 - [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
+- [Cloud 66](https://help.cloud66.com/) - Build, deploy, and manage your applications on any cloud without the headache of the “server stuff”.
 - [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
 - [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
