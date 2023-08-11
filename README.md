@@ -696,7 +696,8 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 - [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds.
 - [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. 
-- [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. 
+- [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+- [Narrowlink](https://narrowlink.com/docs/comparisons/tailscale) - Narrowlink securely connects devices and services together, even when both nodes are behind separate NAT. ([Source Code](https://github.com/narrowlink/narrowlink)) `MPL-2.0` `AGPL-3.0` `Rust`
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 - [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
 - [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
