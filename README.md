@@ -23,7 +23,6 @@
     - [Client management](#client-management)
     - [Cloning](#cloning)
     - [Cloud Computing](#cloud-computing)
-    - [Cloud Orchestration](#cloud-orchestration)
     - [Code Review](#code-review)
     - [Configuration Management Database](#configuration-management-database)
     - [Configuration Management](#configuration-management)
@@ -34,8 +33,7 @@
     - [Diagramming](#diagramming)
     - [Distributed Filesystems](#distributed-filesystems)
     - [DNS - Servers](#dns---servers)
-    - [DNS - Control Panels](#dns---control-panels)
-    - [DNS - Domain Management](#dns---domain-management)
+    - [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)
     - [Editors](#editors)
     - [Identity Management](#identity-management)
     - [Identity Management - LDAP](#identity-management---ldap)
@@ -46,14 +44,14 @@
     - [Mail Clients](#mail-clients)
     - [Monitoring](#monitoring)
     - [Status Pages](#status-pages)
-    - [Metric & Metric Collection](#metric--metric-collection)
+    - [Metrics & Metric Collection](#metrics--metric-collection)
     - [Network Configuration Management](#network-configuration-management)
     - [Newsletters](#newsletters)
     - [Packaging](#packaging)
     - [Project Management](#project-management)
     - [Queuing](#queuing)
     - [Router](#router)
-    - [Remote Management](#remote-management)
+    - [Remote Desktop Clients](#remote-desktop-clients)
     - [Service Discovery](#service-discovery)
     - [Software Containers](#software-containers)
     - [Troubleshooting](#troubleshooting)
@@ -97,26 +95,24 @@
 
 *Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
 
-- [Amanda](http://www.amanda.org/) - Client-server model backup tool.
-- [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
-- [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
-- [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
-- [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
-- [BorgBackup](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
-- [Burp](http://burp.grke.org/) - Network backup and restore program.
-- [DREBS](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
+- [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code](https://github.com/zmanda/amanda)) `MIT` `C`
+- [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and
+coordinate many different backup utilities. `GPL-2.0` `Shell`
+- [BackupPC](https://backuppc.github.io/backuppc/) - High-performance, enterprise-grade system for backing up to a server's disk.. ([Source Code](https://github.com/backuppc/backuppc)) `GPL-3.0` `Perl`
+- [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
+- [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
+- [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
+- [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code](https://github.com/grke/burp)) `AGPL-3.0` `C`
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
-- [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
-- [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
-- [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
-- [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
-- [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
-- [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
-- [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
-- [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
-- [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
-- [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
-- [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
+- [Duplicati](https://www.duplicati.com) - Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ([Source Code](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
+- [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity)) `GPL-2.0` `Python`
+- [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
+- [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code](https://github.com/rclone/rclone)) `MIT` `Go`
+- [Rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally. ([Source Code](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
+- [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
+- [Rsnapshot](https://rsnapshot.org/) - Filesystem snapshot utility based on rsync. ([Source Code](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
+- [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
+- [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
 
 
 ### Build and software organization tools
@@ -148,7 +144,7 @@
 
 Managing software on desktop computers.
 
-_See also: [IT Asset Management](#it-asset-management)_
+_Related: [IT Asset Management](#it-asset-management)_
 
 - [Chocolatey](https://chocolatey.org/) – The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 
@@ -160,53 +156,29 @@ _See also: [IT Asset Management](#it-asset-management)_
 *Cloning software.*
 
 - [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
-- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Sorce Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
+- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 
 ### Cloud Computing
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
+[Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
+
+**Please visit [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category)**
+
+- [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code](https://github.com/CloudSlang/score))
 - [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack))
 - [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler))
-- [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
-- [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
-- [Openshift](http://www.openshift.org) - PaaS product from Red Hat.
-- [OpenStack](https://www.openstack.org/) - Build private and public clouds.
-- [The Foreman](http://theforeman.org/) - Complete lifecycle management tool for physical and virtual servers. FOSS.
-- [Tsuru](https://tsuru.io) - Tsuru is an extensible Platform as a Service software.
-
-
-### Cloud Orchestration
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-- [BOSH](http://bosh.io/docs/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
-- [Cloud Foundry](https://www.cloudfoundry.org/) - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
-- [Cloudify](http://getcloudify.org/) - TOSCA-based cloud orchestration software platform written in Python and YAML.
-- [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
-- [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-- [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
-- [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
-- [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
-- [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
-- [Rundeck](http://rundeck.org/) - Simple orchestration tool.
-- [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
-- [Spruce](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis](https://github.com/starkandwayne/genesis).
-- [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python.
-- [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
+- [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([SOurce Code](https://github.com/andrewchilds/overcast))
 
 
 ### Code Review
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Web Based collaborative code review system.*
-
-- [Gerrit](https://www.gerritcodereview.com/) - Based on the Git version control, it facilitates software developers to review modifications to the source code and approve or reject those changes.
-- [Phabricator](http://phabricator.org/) - Code review tool build by facebook and used by WikiMedia, FB, dropbox etc. Comes with an integrated wiki, bug tracker, VC integration and a CLI tool called arcanist.
-- [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
+**Please visit [awesome-selfhosted/Software Development - Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
 
 
 ### Configuration Management Database
@@ -215,7 +187,7 @@ _See also: [IT Asset Management](#it-asset-management)_
 
 Configuration management database (CMDB) software.
 
-_See also: [IT Asset Management]([Ralph](#it-asset-management))_
+_Related: [IT Asset Management](#it-asset-management)_
 
 - [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
 - [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
@@ -227,14 +199,13 @@ _See also: [IT Asset Management]([Ralph](#it-asset-management))_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Configuration management tools.*
+[Configuration management (CM)](https://en.wikipedia.org/wiki/Configuration_management) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
 
-- [Ansible](http://www.ansible.com/) -  It's written in Python and manages the nodes over SSH.
-- [CFEngine](https://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
-- [Chef](https://www.chef.io/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
-- [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
-- [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
-- [Salt](http://saltstack.com/) - It's written in Python.
+- [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code](https://github.com/ansible/ansible))
+- [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code](https://github.com/cfengine/core))
+- [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code](https://github.com/chef/chef))
+- [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code](https://github.com/puppetlabs/puppet))
+- [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code](https://github.com/saltstack/salt))
 
 
 ### Continuous Integration & Continuous Deployment
@@ -309,6 +280,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 - [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
 - [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
+- [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code](https://github.com/yuzutech/kroki)) `MIT` `Java` 
 - [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
 
 
@@ -318,21 +290,23 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Network distributed filesystems.*
 
-- [Ceph](http://ceph.com/) - Distributed object store and file system.
-- [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
-- [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
-- [Go IPFS](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
-- [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
-- [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
-- [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
-- [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `AGPL-3.0` `Go`
-- [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
-- [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
-- [Perkeep](https://perkeep.org/) (née Camlistore) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
-- [SheepDog](https://sheepdog.github.io/sheepdog/) - A distributed Blockdevice, Rest, QEMU and distributed Filesystem storage.
-- [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
-- [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
-- [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
+_See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers)_
+
+- [Ceph](https://ceph.com/) - Distributed object, block, and file storage platform. ([Source Code](https://github.com/ceph/ceph)) `LGPL-3.0` `C++`
+- [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
+- [GlusterFS](https://www.gluster.org/) - Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. ([Source Code](https://github.com/gluster/glusterfs)) `GPL-2.0/LGPL-3.0` `C`
+- [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed file system that provides high-throughput access to application data. ([Source Code](https://github.com/apache/hadoop)) `Apache-2.0` `Java`
+- [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
+- [Kubo](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. `Apache-2.0/MIT` `Go`
+- [LeoFS](https://leo-project.net) - Highly available, distributed, replicated eventually consistent object/blob store. ([Source Code](https://github.com/leo-project/leofs)) `Apache-2.0` `Erlang`
+- [Lustre](https://www.lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing. ([Source Code](https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary)) `GPL-2.0` `C`
+- [Minio](https://min.io/) - High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads. ([Source Code](https://github.com/minio/minio)) `AGPL-3.0` `Go`
+- [MooseFS](https://moosefs.com/) - Fault tolerant, network distributed file system. ([Source Code](https://github.com/moosefs/moosefs)) `GPL-2.0` `C`
+- [OpenAFS](https://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support. ([Source Code](https://git.openafs.org/?p=openafs.git;a=summary)) `IPL-1.0` `C`
+- [Openstack Swift](https://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store. ([Source Code](https://opendev.org/openstack/swift)) `Apache-2.0` `Python`
+- [Perkeep](https://perkeep.org/) - A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data (previously Camlistore). ([Source Code](https://github.com/perkeep/perkeep)) `Apache-2.0` `C`
+- [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system. ([Source Code](https://github.com/tahoe-lafs/tahoe-lafs)) `GPL-2.0` `Python`
+- [XtreemFS](https://www.xtreemfs.org/) - Distributed, replicated and fault-tolerant file system for federated IT infrastructures.. ([Source Code](https://github.com/xtreemfs/xtreemfs)) `BSD-3-Clause` `Java`
 
 
 ### DNS - Servers
@@ -341,40 +315,39 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *DNS servers.*
 
-- [Bind](https://www.isc.org/downloads/bind/) - The most widely used name server software.
-- [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go.
-- [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend.
-- [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns.
-- [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - A lightweight service providing DNS, DHCP and TFTP services to small-scale networks.
-- [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server.
-- [NSD](http://www.nlnetlabs.nl/projects/nsd/) - Authoritative only, high performance, simple name server.
-- [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
-- [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
-- [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
+_See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
+
+_Related: [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)_
+
+- [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
+- [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
+- [djbdns](http://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns)) `Public Domain` `C`
+- [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
+- [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns)) `GPL-3.0` `C`
+- [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
+- [PowerDNS Authoritative Server](https://doc.powerdns.com/authoritative/) - Versatile nameserver which supports a large number of backends. ([Source Code](https://github.com/PowerDNS/pdns)) `GPL-2.0` `C++`
+- [Unbound](https://nlnetlabs.nl/projects/unbound/about/) - Validating, recursive, and caching DNS resolver. ([Source Code](https://github.com/NLnetLabs/unbound)) `BSD-3-Clause` `C`
+- [Yadifa](https://www.yadifa.eu/) - Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu. ([Source Code](https://github.com/yadifa/yadifa)) `BSD-3-Clause` `C`
 
 
-### DNS - Control Panels
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-*DNS server control panels.*
-
-- [Atomia DNS](http://atomiadns.com/) - DNS management system.
-- [nsedit](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
-- [PDNS Gui](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
-- [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring
-- [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
-
-
-### DNS - Domain Management
+### DNS - Control Panels & Domain Management
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Domain management.*
+*DNS server control panels, web interfaces and domain management tools*
 
+_See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
+
+_Related: [DNS - Servers](#dns---servers)_
+
+- [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
+- [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate))
 - [DNSControl](https://stackexchange.github.io/dnscontrol/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code](https://github.com/StackExchange/dnscontrol)) `MIT` `Go/Docker`
 - [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
+- [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
 - [octoDNS](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+- [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
+- [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
 
 ### Editors
@@ -442,6 +415,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
+- [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code](https://github.com/goauthentik/authentik)) `MIT` `Python`
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
 
@@ -489,14 +463,18 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Monitoring software.*
 
+_Related: [Metrics & Metric Collection](#metrics--metric-collection)_
+
+
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
-- [Alerta](https://alerta.io/) - Distributed, scaleable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
+- [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
 - [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 - [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code](https://github.com/arachnys/cabot)) `MIT` `Python`
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
 - [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/tribe29/checkmk)) `Python/PHP`
+- [dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 - [EdMon](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 - [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
 - [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
@@ -514,9 +492,11 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
+- [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
 - [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann))
 - [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
+- [ruptime](https://github.com/alexmyczko/ruptime) - classic system status server ([Source Code](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
 - [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
@@ -531,38 +511,23 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 **Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 
-### Metric & Metric Collection
+### Metrics & Metric Collection
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 *Metric gathering and display software.*
 
-* Collectors only
-  - [Collectd](http://collectd.org/) - System statistic collection daemon.
-  - [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
-  - [Diamond](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
-  - [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
-  - [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
-  - [Telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+_Related: [Databases](#databases), [Monitoring](#monitoring)_
 
-* Dashboards
-  - [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
-  - [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-  - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
-  - [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
-  - [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
-  - [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
-
-* Storage
-  - [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
-  - [KairosDB](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
-  - [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-
-* Packages
-  - [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
-  - [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
-  - [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-  - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+- [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0`
+- [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code](https://github.com/collectd/collectd)) `MIT` `C`
+- [Diamond](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
+- [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
+- [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
+- [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
+- [Statsd](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `Nodejs` `MIT`
+- [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
+- [Telegraf](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
 
 ### Network Configuration Management
@@ -597,10 +562,9 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 - [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code](https://github.com/aptly-dev/aptly)) `MIT` `Go`
-- [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
-- [omnibus-ruby](https://github.com/chef/omnibus) - Full stack, cross distro packaging software (Ruby).
-- [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
-- [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
+- [fpm](https://fpm.readthedocs.io/en/latest/) - Versatile multi format package creator. ([Source Code](https://github.com/jordansissel/fpm)) `MIT` `Ruby`
+- [omnibus-ruby](https://github.com/chef/omnibus) - Easily create full-stack installers for your project across a variety of platforms. `Apache-2.0` `Ruby`
+- [tito](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects. `GPL-2.0` `Python`
 
 
 ### Project Management
@@ -616,54 +580,62 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [ActiveMQ](https://activemq.apache.org/) - Java message broker.
-- [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
-- [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform.
-- [Kafka](http://kafka.apache.org) - Extremely high performance publish/subscribe message system.
-- [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
-- [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
-- [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
+- [ActiveMQ](https://activemq.apache.org/) - Java message broker. ([Source Code](https://github.com/apache/activemq)) `Apache-2.0` `Java`
+- [BeanstalkD](https://beanstalkd.github.io/) - A simple, fast work queue. ([Source Code](https://github.com/beanstalkd/beanstalkd)) `MIT` `C`
+- [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
+- [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code](https://github.com/apache/kafka)) `Apache-2.0` `Java`
+- [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
+- [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code](https://github.com/rabbitmq/rabbitmq-server)) `Erlang`
+- [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
 
 
-### Remote Management
+### Remote Desktop Clients
+
+[Remote Desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) client software.
+
+_See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
-- [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
-- [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
+- [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina))
+- [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code](https://github.com/TigerVNC/tigervnc))
+- [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb))
 
 
 ### Router
 
-* [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C` 
-* [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
-* [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C` `PHP`
+- [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C` 
+- [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
+- [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C` `PHP`
+- [pfSense CE](https://www.pfsense.org/) - Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ([Source Code](https://github.com/pfsense/pfsense)) `Apache-2.0` `Shell/PHP/Other`
+
+
 
 ### Service Discovery
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
-- [Doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
-- [etcd](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
-- [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+*[Service discovery](https://en.wikipedia.org/wiki/Service_discovery) is the process of automatically detecting devices and services on a computer network.*
+
+- [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration. ([Source Code](https://github.com/hashicorp/consul)) `MPL-2.0` `Go`
+- [etcd](https://etcd.io/) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
+- [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. ([Source Code](https://github.com/apache/zookeeper)) `Apache-2.0` `Java/C++`
 
 
 ### Software Containers
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Operating system–level virtualization.*
+*[Operating system–level](https://en.wikipedia.org/wiki/OS-level_virtualization) virtualization.*
 
-- [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications.
-- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
-- [Docker](http://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications.
-- [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features.
-- [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
-- [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
+- [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code](https://github.com/docker/compose)) `Apache-2.0` `Go`
+- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
+- [Docker](https://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications. ([Source Code](https://www.docker.com/community/open-source/)) `Apache-2.0` `Go`
+- [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code](https://github.com/lxc/lxc)) `GPL-2.0` `C`
+- [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC. ([Source Code](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
+- [OpenVZ](https://openvz.org) - Container-based virtualization for Linux. ([Source Code](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
 - [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/containers/podman)) `Apache-2.0` `Go`
-- [Portainer](https://portainer.io/) - Simple management UI for Docker.
+- [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code](https://github.com/portainer/portainer)) `Zlib` `Go`
 - [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
 
@@ -701,7 +673,6 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Virtualization software.*
 
-- [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
 - [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
 - [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
 - [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
@@ -750,7 +721,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `GPL-2.0` `C`
 - [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`
 - [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip)) `BSD-2-Clause` `C`
-- [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code](https://github.com/traefik/traefik)) `MIT` `C/Docker`
+- [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
 - [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code](https://github.com/varnishcache/varnish-cache)) `BSD-2-Clause` `C`
 
 -------------------
@@ -795,11 +766,12 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 ## Websites
 
-- [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
+- [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category) - Compilation of software and tools for cloud computing.
+- [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki which has really nice written articles valid for other distros.
 - [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 - [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
 - [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
-- [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
+- [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 6,000+ tutorials for getting the basics of certain applications/tools/systems administration topics.
 
 ------------------
 
