@@ -396,7 +396,6 @@ _Related: [DNS - Servers](#dns---servers)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-
 - [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 - [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
 - [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
@@ -571,7 +570,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 - [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. `Apache-2.0` `Python`
 - [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA. `GPL-2.0` `bash`
 - [openxpki](https://github.com/openxpki/openxpki) - A software stack based on perl and openssl to run a PKI/trust center with an enterprise-grade feature set. `Apache-2.0` `perl`
-- [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. `Apache-2.0` `go`
+- [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. `Apache-2.0` `Go`
 - [TinyPki](https://github.com/deleteonerror/tinyPKI) is a compact and secure PKI, designed for Home, Lab, and Development environments, enabling you to effortlessly create a Root Certificate Authority and generate certificates to fulfill various requirements. `MIT` `Go`
 
 ### Project Management
