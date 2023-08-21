@@ -573,7 +573,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 
 *Web-based project management and bug tracking systems*
 
-**Please visit [awesome-selfhosted/Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
+**Please visit [awesome-selfhosted/Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
 
 
 ### Queuing
