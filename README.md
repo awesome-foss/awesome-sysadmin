@@ -282,6 +282,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 - [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
 - [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code](https://github.com/yuzutech/kroki)) `MIT` `Java` 
 - [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
+- [Structurizr](https://www.structurizr.com/) - Architecture diagramming/modelling UI for developing and collaborating on diagrams-as-code aligned to the C4 model for architecture diagrams. Facilitates workflows for creating multiple software architecture diagrams from a single model.
 
 
 ### Distributed Filesystems
