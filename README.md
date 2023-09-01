@@ -355,21 +355,21 @@ _Related: [DNS - Servers](#dns---servers)_
 
 *Open source code editors.*
 
-- [Atom Community](https://github.com/atom-community/atom) - A fork of [atom](https://github.com/atom/atom) A hackable text editor from Github.
-- [Brackets](http://brackets.io/) - Code editor for web designers and front-end developers.
-- [Eclipse](http://www.eclipse.org/) - IDE written in Java with an extensible plug-in system.
-- [Geany](http://www.geany.org/) - GTK2 text editor.
-- [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
-- [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
-- [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages.
-- [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
-- [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
-- [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor
-- [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
-- [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
-- [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
-- [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
-- [VSCodium](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
+- [Atom Community](https://github.com/atom-community/atom) - A fork of [atom](https://github.com/atom/atom) A hackable text editor from Github. `MIT` `JavaScript`
+- [Brackets](http://brackets.io/) - Code editor for web designers and front-end developers. ([Source Code](https://github.com/brackets-cont/brackets)) `MIT` `JavaScript`
+- [Eclipse](http://www.eclipse.org/) - IDE written in Java with an extensible plug-in system. ([Source Code](https://git.eclipse.org/c/)) `EPL-1.0` `Java`
+- [Geany](http://www.geany.org/) - GTK2 text editor. ([Source Code](https://github.com/geany/geany)) `GPL-2.0` `C/C++`
+- [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more. ([Source Code](https://github.com/emacs-mirror/emacs)) `GPL-3.0` `C`
+- [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview. ([Source Code](https://github.com/rhiokim/haroopad)) `GLP-3.0` `JavaScript`
+- [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages. ([Demo](http://demo.icecoder.net), [Source Code](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
+- [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing. `MIT` `Nodejs`
+- [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE. ([Source Code](https://invent.kde.org/kdevelop/kdevelop)) `GFDLv1.2` `C++`
+- [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code](https://github.com/zyedidia/micro)) `MIT` `Go`
+- [Nano](http://nano-editor.org) - Easy to use, customizable text editor. ([Source Code](https://git.savannah.gnu.org/cgit/nano.git/tree/)) `GPL-3.0` `C`
+- [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows. ([Source Code](https://github.com/notepad-plus-plus/notepad-plus-plus)) `GPL-2.0` `C++`
+- [TextMate](https://macromates.com/) - A graphical text editor for OS X. ([Source Code](https://github.com/textmate/textmate/)) `GPL-3.0` `C++`
+- [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing. ([Source Code](https://github.com/vim/vim)) `Vim` `C`
+- [VSCodium](https://vscodium.com/) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions. ([Source Code](https://github.com/VSCodium/vscodium)) `MIT` `TypeScript`
 
 
 ### Identity Management
