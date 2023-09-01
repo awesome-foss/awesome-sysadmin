@@ -264,11 +264,11 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Tools and scripts to support deployments to your servers.*
 
-- [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
-- [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
-- [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
-- [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
-- [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
+- [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based). ([Source Code](https://github.com/capistrano/capistrano)) `MIT` `Ruby`
+- [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ([Source Code](https://github.com/fabric/fabric)) `BSD-2-Clause` `Python`
+- [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based). ([Source Code](https://github.com/mina-deploy/mina)) `MIT` `Ruby`
+- [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code](https://github.com/munki/munki)) `Apache-2.0` `Python`
+- [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based). `MIT` `Ruby`
 
 
 ### Diagramming
@@ -277,10 +277,10 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 *Tools used to create diagrams of networks, flows, etc.*
 
-- [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
-- [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
+- [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
+- [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. ([Source Code](https://github.com/cidrblock/drawthe.net)) `MIT` `JavaScript`
 - [Kroki](https://kroki.io) - API for generating diagrams from textual descriptions. ([Source Code](https://github.com/yuzutech/kroki)) `MIT` `Java` 
-- [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
+- [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ([Source Code](https://github.com/mermaid-js/mermaid-live-editor)) `MIT` `Nodejs/Docker`
 
 
 ### Distributed Filesystems
