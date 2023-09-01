@@ -693,18 +693,18 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 *VPN software.*
 
-- [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds.
-- [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. 
-- [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. 
-- [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
-- [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
-- [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
+- [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
+- [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
+- [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
+- [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
+- [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
+- [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
 - [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 - [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
-- [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
-- [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
-- [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
-- [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+- [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features ([Source Code](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
+- [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
+- [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN. ([Source Code](https://www.tinc-vpn.org/git/tinc)) `GPL-2.0` `C`
 - [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 
 ### Web
