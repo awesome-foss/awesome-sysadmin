@@ -395,18 +395,18 @@ _Related: [DNS - Servers](#dns---servers)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
-- [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
-- [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
-- [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
-- [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
-- [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites.
+- [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. ([Source Code](https://gitlab.com/bounca/bounca/)) `Apache-2.0` `Python`
+- [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
+- [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
+- [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
+- [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
+- [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Source Code](https://git.linux-kernel.at/oliver/ivatar/)) `AGPL-3.0` `Python`
 - [OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
 - [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
-- [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
-- [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
-- [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
-- [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
+- [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
+- [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation. ([Source Code](https://download.samba.org/pub/samba/)) `GPL-3.0` `C`
+- [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+- [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
 
 
 ### Identity Management - Single Sign-On (SSO)
