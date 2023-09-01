@@ -673,18 +673,18 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 *Virtualization software.*
 
 - [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
-- [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
-- [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
+- [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen. ([Source Code](https://github.com/ganeti/ganeti)) `BSD-2-Clause` `Python/Haskell`
+- [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure. ([Source Code](https://git.kernel.org/pub/scm/virt/kvm/kvm.git/)) `GPL-2.0/LGPL-2.0` `C`
 - [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
 - [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
-- [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
-- [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
-- [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution.
-- [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
-- [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
-- [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation.
+- [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks. ([Source Code](https://github.com/oVirt)) `Apache-2.0` `Java`
+- [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration. ([Source Code](https://github.com/hashicorp/packer)) `MPL-2.0` `Go`
+- [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution. ([Source Code](https://git.proxmox.com/)) `GPL-2.0` `Perl/Shell`
+- [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer. ([Source Code](https://gitlab.com/qemu-project/qemu)) `LGPL-2.1` `C`
+- [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments. ([Source Code](https://github.com/hashicorp/vagrant)) `BSL 1.1` `Ruby`
+- [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation. ([Source Code](https://www.virtualbox.org/browser/vbox)) `GPL-3.0/CDDL-1-0` `C++`
 - [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
-- [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
+- [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures. ([Source Code](http://xenbits.xenproject.org/gitweb/?p=xen.git;a=tree;hb=HEAD)) `GPL-2.0` `C`
 
 
 ### VPN
