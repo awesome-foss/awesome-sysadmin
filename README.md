@@ -200,11 +200,11 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 [Configuration management (CM)](https://en.wikipedia.org/wiki/Configuration_management) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
 
-- [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code](https://github.com/ansible/ansible))
-- [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code](https://github.com/cfengine/core))
-- [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code](https://github.com/chef/chef))
-- [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code](https://github.com/puppetlabs/puppet))
-- [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code](https://github.com/saltstack/salt))
+- [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code](https://github.com/ansible/ansible)) `GPL-3.0` `Python`
+- [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code](https://github.com/cfengine/core)) `GPL-3.0` `C`
+- [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code](https://github.com/chef/chef)) `Apache-2.0` `Ruby`
+- [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code](https://github.com/puppetlabs/puppet)) `Apache-2.0` `Ruby/C`
+- [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code](https://github.com/saltstack/salt)) `Apache-2.0` `Python`
 
 
 ### Continuous Integration & Continuous Deployment
