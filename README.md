@@ -585,7 +585,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 - [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code](https://github.com/apache/kafka)) `Apache-2.0` `Java`
 - [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
 - [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code](https://github.com/rabbitmq/rabbitmq-server)) `Erlang`
-- [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
+- [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-2.0` `Perl`
 
 
 ### Remote Desktop Clients
@@ -596,9 +596,9 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina))
-- [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code](https://github.com/TigerVNC/tigervnc))
-- [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb))
+- [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina)) `GPL-2.0` `C`
+- [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code](https://github.com/TigerVNC/tigervnc)) `GPL-2.0` `C++`
+- [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb)) 
 
 
 ### Router
