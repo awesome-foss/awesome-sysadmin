@@ -15,9 +15,7 @@
 
 ### Table of contents
 
-- [Awesome Sysadmin](#awesome-sysadmin)
-    - [Table of contents](#table-of-contents)
-  - [Software](#software)
+- [Software](#software)
     - [Automation](#automation)
     - [Backups](#backups)
     - [Build and software organization tools](#build-and-software-organization-tools)
@@ -28,32 +26,32 @@
     - [Code Review](#code-review)
     - [Configuration Management Database](#configuration-management-database)
     - [Configuration Management](#configuration-management)
-    - [Continuous Integration \& Continuous Deployment](#continuous-integration--continuous-deployment)
+    - [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
     - [Control Panels](#control-panels)
     - [Databases](#databases)
     - [Deployment Automation](#deployment-automation)
     - [Diagramming](#diagramming)
     - [Distributed Filesystems](#distributed-filesystems)
     - [DNS - Servers](#dns---servers)
-    - [DNS - Control Panels \& Domain Management](#dns---control-panels--domain-management)
+    - [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)
     - [Editors](#editors)
     - [Identity Management](#identity-management)
     - [Identity Management - LDAP](#identity-management---ldap)
     - [Identity Management - Tools and web interfaces](#identity-management---tools-and-web-interfaces)
-    - [Identity Management - Single Sign-On (SSO)](#identity-management---single-sign-on-sso)
+    - [Identity Management - Single Sign-On SSO](#identity-management---single-sign-on-sso)
     - [IT Asset Management](#it-asset-management)
     - [Log Management](#log-management)
     - [Mail Clients](#mail-clients)
     - [Monitoring](#monitoring)
     - [Status Pages](#status-pages)
-    - [Metrics \& Metric Collection](#metrics--metric-collection)
+    - [Metrics & Metric Collection](#metrics--metric-collection)
     - [Network Configuration Management](#network-configuration-management)
     - [Newsletters](#newsletters)
     - [Packaging](#packaging)
     - [Project Management](#project-management)
     - [Queuing](#queuing)
-    - [Remote Desktop Clients](#remote-desktop-clients)
     - [Router](#router)
+    - [Remote Desktop Clients](#remote-desktop-clients)
     - [Service Discovery](#service-discovery)
     - [Software Containers](#software-containers)
     - [Troubleshooting](#troubleshooting)
@@ -61,12 +59,15 @@
     - [Virtualization](#virtualization)
     - [VPN](#vpn)
     - [Web](#web)
-  - [List of Licenses](#list-of-licenses)
-  - [External links](#external-links)
-  - [Communities / Forums](#communities--forums)
-  - [Repositories](#repositories)
-  - [Websites](#websites)
-  - [License](#license)
+- [List of Licenses](#list-of-licenses)
+- [External links](#external-links)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Communities / Forums](#communities--forums)
+- [Newsletters](#newsletters)
+- [Repositories](#repositories)
+- [Websites](#websites)
+- [License](#license)
 
 
 --------------------
@@ -120,10 +121,10 @@ coordinate many different backup utilities. `GPL-2.0` `Shell`
 
 *Build and software organization tools.*
 
-- [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
-- [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code](https://github.com/TACC/Lmod)) `MIT` `Lua`
-- [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, inclusive of documentation.
-- [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
+- [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way.
+- [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
+- [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
+- [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 
 ### ChatOps
