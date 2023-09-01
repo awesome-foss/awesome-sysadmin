@@ -644,12 +644,12 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 *Troubleshooting Tools.*
 
-- [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
-- [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
-- [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
-- [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
-- [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
-- [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
+- [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools. ([Source Code](https://github.com/grml/)) `GPL-3.0` `Shell`
+- [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. ([Source Code](https://github.com/mitmproxy/mitmproxy)) `MIT` `Python`
+- [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping. ([Source Code](https://github.com/traviscross/mtr)) `GPL-2.0` `C`
+- [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace. `GPL-2.0` `Shell`
+- [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze. ([Source Code](https://github.com/draios/sysdig)) `Apache-2.0` `Docker/Lua/C`
+- [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer. ([Source Code](https://gitlab.com/wireshark/wireshark)) `GPL-2.0` `C`
 
 
 ### Version control
