@@ -188,10 +188,10 @@ Configuration management database (CMDB) software.
 
 _Related: [IT Asset Management](#it-asset-management)_
 
-- [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
-- [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
-- [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
-- [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool
+- [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge. ([Source Code](https://github.com/tumblr/collins)) `Apache-2.0` `Docker/Scala`
+- [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB. `AGPL-3.0` `PHP`
+- [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool. ([Source Code](https://sourceforge.net/projects/itop/files/)) `AGPL-3.0` `PHP`
+- [netbox](https://netbox.dev/) - IP address management (IPAM) and data center infrastructure management (DCIM) tool. ([Demo](https://demo.netbox.dev/), [Source Code](https://github.com/netbox-community/netbox)) `Apache-2.0` `Python`
 
 
 ### Configuration Management
