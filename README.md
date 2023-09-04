@@ -492,7 +492,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon)) `GPL-3.0` `PHP`
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo)) `GPL-2.0` `PHP`
 - [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
-- [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann))
+- [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann)) `EPL-1.0` `Java`
 - [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
 - [ruptime](https://github.com/alexmyczko/ruptime) - classic system status server ([Source Code](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
