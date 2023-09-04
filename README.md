@@ -381,7 +381,7 @@ Open-source code editors.
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-LDAP servers and other tools to manage accounts and identities.
+[Identity management](https://en.wikipedia.org/wiki/Identity_management) (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies to ensure that the right users (that are part of the ecosystem connected to or within an enterprise) have the appropriate access to technology resources.
 
 **Please visit [Identity Management - LDAP](#identity-management---ldap), [Identity Management - Tools and web interfaces](#identity-management---tools-and-web-interfaces), [Identity Management - Single Sign-On SSO](#identity-management---single-sign-on-sso)**
 
