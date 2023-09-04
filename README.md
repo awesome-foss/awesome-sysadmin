@@ -511,6 +511,8 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
+[Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available.
+
 **Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 
