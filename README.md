@@ -749,6 +749,7 @@ VPN software.
 - `GFDL-1.2` - [GNU Free Documentation License 1.2](https://spdx.org/licenses/GFDL-1.2.html)
 - `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 - `GPL-3.0` - [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- `IPL-1.0` - [IBM Public License v1.0](https://spdx.org/licenses/IPL-1.0.html)
 - `ISC` - [ISC License](https://spdx.org/licenses/ISC.html)
 - `LGPL-2.0` - [GNU Lesser General Public License v2](https://spdx.org/licenses/LGPL-2.0.html)
 - `LGPL-2.1` - [GNU Lesser General Public License v2.1](https://spdx.org/licenses/LGPL-2.1.html)
@@ -756,6 +757,7 @@ VPN software.
 - `MIT` - [MIT License](https://opensource.org/licenses/MIT)
 - `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
 - `NLPL` - [No Limit Public License](https://spdx.org/licenses/NLPL.html)
+- `OLDAP-2.8` - [Open LDAP Public License v2.8](https://spdx.org/licenses/OLDAP-2.8.html)
 - `QPL-1.0` - [Q Public License 1.0](https://spdx.org/licenses/QPL-1.0.html)
 - `Vim` - [Vim License](https://spdx.org/licenses/Vim.html)
 
