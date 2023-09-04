@@ -22,8 +22,6 @@
     - [Backups](#backups)
     - [Build and software organization tools](#build-and-software-organization-tools)
     - [ChatOps](#chatops)
-    - [Client management](#client-management)
-    - [Cloning](#cloning)
     - [Cloud Computing](#cloud-computing)
     - [Code Review](#code-review)
     - [Configuration Management Database](#configuration-management-database)
@@ -44,11 +42,11 @@
     - [IT Asset Management](#it-asset-management)
     - [Log Management](#log-management)
     - [Mail Clients](#mail-clients)
+    - [Miscellaneous](#miscellaneous)
     - [Monitoring](#monitoring)
     - [Status Pages](#status-pages)
     - [Metrics \& Metric Collection](#metrics--metric-collection)
     - [Network Configuration Management](#network-configuration-management)
-    - [Newsletters](#newsletters)
     - [Packaging](#packaging)
     - [Project Management](#project-management)
     - [Queuing](#queuing)
@@ -137,27 +135,6 @@ _See also: [/r/chatops](https://old.reddit.com/r/chatops)*
 - [Eggdrop](https://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
 - [Errbot](https://errbot.io/) - Plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
 - [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
-
-
-### Client management
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-Managing software on desktop computers.
-
-_Related: [IT Asset Management](#it-asset-management)_
-
-- [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
-
-
-### Cloning
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-[Disk cloning](https://en.wikipedia.org/wiki/Disk_cloning) software.
-
-- [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0` `Perl/Shell/Other`
-- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 
 ### Cloud Computing
@@ -468,6 +445,18 @@ An [email client](https://en.wikipedia.org/wiki/Email_client), email reader or, 
 - [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file)) `MPL-2.0` `C/C++`
 
 
+### Miscellaneous
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
+Software that does not fit in another section.
+
+- [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+- [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0` `Perl/Shell/Other`
+- [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
+- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
+- [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
+
 ### Monitoring
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
@@ -552,17 +541,6 @@ Network configuration management tools.
 - [phpIPAM](https://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
 - [RANCID](https://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
 - [rConfig](https://www.rconfig.com/) - Network device configuration management tool. ([Source Code](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
-
-
-
-### Newsletters
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-Newsletter software.
-
-- [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
-- [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 
 ### Packaging
