@@ -468,11 +468,11 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
-- [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
+- [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange. ([Source Code](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 - [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code](https://github.com/arachnys/cabot)) `MIT` `Python`
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
-- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
-- [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/tribe29/checkmk)) `Python/PHP`
+- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
+- [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 - [dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 - [EdMon](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 - [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
