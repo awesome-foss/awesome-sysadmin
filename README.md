@@ -13,7 +13,7 @@
 
 --------------------
 
-### Table of contents
+## Table of contents
 
 - [Software](#software)
     - [Automation](#automation)
