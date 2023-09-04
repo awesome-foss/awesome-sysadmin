@@ -495,7 +495,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann)) `EPL-1.0` `Java`
 - [rtop](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop)) `MIT` `Go`
 - [ruptime](https://github.com/alexmyczko/ruptime) - Classic system status server. ([Source Code](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
-- [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
+- [Scrutiny](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
 - [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
 - [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk))
