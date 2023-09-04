@@ -78,7 +78,7 @@
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Automation build.*
+Build automation.
 
 - [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, a library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other. ([Source Code](https://github.com/apache/ant)) `Apache-2.0` `Java`
 - [Apache Maven](http://maven.apache.org/) - Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. ([Source Code](https://github.com/apache/maven)) `Apache-2.0` `Java`
@@ -93,7 +93,9 @@
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Backup software.* Also see [Restic's list of Linux backup software](https://github.com/restic/others).
+[Backup](https://en.wikipedia.org/wiki/Backup) software.
+
+_See also [Restic's list of Linux backup software](https://github.com/restic/others)_
 
 - [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code](https://github.com/zmanda/amanda)) `MIT` `C`
 - [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and
@@ -119,7 +121,7 @@ coordinate many different backup utilities. `GPL-2.0` `Shell`
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Build and software organization tools.*
+Build and software organization tools.
 
 - [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
 - [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code](https://github.com/TACC/Lmod)) `MIT` `Lua`
@@ -131,7 +133,9 @@ coordinate many different backup utilities. `GPL-2.0` `Shell`
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Conversation-driven development and management. See https://www.reddit.com/r/chatops for more information.*
+Conversation-driven development and management.
+
+_See also: [/r/chatops](https://old.reddit.com/r/chatops)*
 
 - [Eggdrop](http://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
 - [Errbot](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
@@ -153,7 +157,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Cloning software.*
+[Disk cloning](https://en.wikipedia.org/wiki/Disk_cloning) software.
 
 - [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
 - [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
@@ -212,7 +216,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Continuous integration/deployment software.*
+[Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)/[deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software.
 
 - [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 - [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
@@ -236,7 +240,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Web hosting and server or service control panels.*
+Web hosting and server or service control panels.
 
 - [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD. ([Source Code](https://github.com/ajenti/ajenti)) `MIT` `Python/Shell`
 - [Cockpit](http://cockpit-project.org/) - web-based graphical interface for servers. ([Source Code](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
@@ -252,7 +256,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Database servers.*
+Database servers.
 
 **Please visit [dbdb.io - Database of Databases](https://dbdb.io/)**
 
@@ -263,7 +267,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Tools and scripts to support deployments to your servers.*
+Tools and scripts to support deployments to your servers.
 
 - [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based). ([Source Code](https://github.com/capistrano/capistrano)) `MIT` `Ruby`
 - [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ([Source Code](https://github.com/fabric/fabric)) `BSD-2-Clause` `Python`
@@ -276,7 +280,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Tools used to create diagrams of networks, flows, etc.*
+Tools used to create diagrams of networks, flows, etc.
 
 - [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
 - [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams. ([Source Code](https://github.com/cidrblock/drawthe.net)) `MIT` `JavaScript`
@@ -288,7 +292,7 @@ _See also: [awesome-selfhosted/Database Management](https://github.com/awesome-s
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Network distributed filesystems.*
+Network distributed filesystems.
 
 _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers)_
 
@@ -313,7 +317,7 @@ _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](ht
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*DNS servers.*
+[DNS](https://en.wikipedia.org/wiki/Name_server) servers.
 
 _See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
 
@@ -334,7 +338,7 @@ _Related: [DNS - Control Panels & Domain Management](#dns---control-panels--doma
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*DNS server control panels, web interfaces and domain management tools*
+DNS server control panels, web interfaces and domain management tools.
 
 _See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
 
@@ -354,7 +358,7 @@ _Related: [DNS - Servers](#dns---servers)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Open source code editors.*
+Open-source code editors.
 
 - [Atom Community](https://github.com/atom-community/atom) - A fork of [atom](https://github.com/atom/atom) A hackable text editor from Github. `MIT` `JavaScript`
 - [Brackets](http://brackets.io/) - Code editor for web designers and front-end developers. ([Source Code](https://github.com/brackets-cont/brackets)) `MIT` `JavaScript`
@@ -377,7 +381,7 @@ _Related: [DNS - Servers](#dns---servers)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*LDAP servers and other tools to manage accounts and identities.*
+LDAP servers and other tools to manage accounts and identities.
 
 
 ### Identity Management - LDAP
@@ -423,7 +427,7 @@ _Related: [DNS - Servers](#dns---servers)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*IT Assets Management software.*
+IT [asset management](https://en.wikipedia.org/wiki/Asset_management) software.
 
 - [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code](https://github.com/glpi-project/glpi))
 - [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
@@ -437,7 +441,7 @@ _Related: [DNS - Servers](#dns---servers)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Log management tools: collect, parse, visualize ...*
+Log management tools: collect, parse, visualize...
 
 - [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
 - [Flume](https://flume.apache.org/) - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. ([Source Code](https://github.com/apache/flume)) `Apache-2.0` `Java`
@@ -461,10 +465,9 @@ _Related: [DNS - Servers](#dns---servers)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Monitoring software.*
+Monitoring software.
 
 _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
-
 
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
@@ -515,7 +518,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Metric gathering and display software.*
+Metric gathering and display software.
 
 _Related: [Databases](#databases), [Monitoring](#monitoring)_
 
@@ -534,7 +537,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Network configuration management tools.*
+Network configuration management tools.
 
 - [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances. ([Source Code](https://github.com/GNS3/gns3-gui/)) `GPL-3.0` `Python`
 - [OpenWISP](https://openwisp.org/) - Open Source Network Management System for OpenWRT based routers and access points. ([Demo](https://openwisp.org/demo.html), [Source Code](https://github.com/openwisp)) `GPL-3.0` `Python` 
@@ -549,7 +552,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Newsletter software.*
+Newsletter software.
 
 - [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
 - [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
@@ -571,7 +574,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Web-based project management and bug tracking systems*
+Web-based project management and bug tracking systems.
 
 **Please visit [awesome-selfhosted/Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
 
@@ -610,12 +613,11 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 - [pfSense CE](https://www.pfsense.org/) - Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ([Source Code](https://github.com/pfsense/pfsense)) `Apache-2.0` `Shell/PHP/Other`
 
 
-
 ### Service Discovery
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*[Service discovery](https://en.wikipedia.org/wiki/Service_discovery) is the process of automatically detecting devices and services on a computer network.*
+[Service discovery](https://en.wikipedia.org/wiki/Service_discovery) is the process of automatically detecting devices and services on a computer network.
 
 - [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration. ([Source Code](https://github.com/hashicorp/consul)) `MPL-2.0` `Go`
 - [etcd](https://etcd.io/) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
@@ -626,7 +628,7 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*[Operating system–level](https://en.wikipedia.org/wiki/OS-level_virtualization) virtualization.*
+[Operating system–level](https://en.wikipedia.org/wiki/OS-level_virtualization) virtualization.
 
 - [Docker Compose](https://docs.docker.com/compose/) - Define and run multi-container Docker applications. ([Source Code](https://github.com/docker/compose)) `Apache-2.0` `Go`
 - [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
@@ -643,7 +645,7 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Troubleshooting Tools.*
+Troubleshooting tools.
 
 - [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools. ([Source Code](https://github.com/grml/)) `GPL-3.0` `Shell`
 - [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. ([Source Code](https://github.com/mitmproxy/mitmproxy)) `MIT` `Python`
@@ -657,7 +659,7 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Software versioning and revision control.*
+Software versioning and revision control.
 
 - [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 - [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
@@ -671,7 +673,7 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*Virtualization software.*
+Virtualization software.
 
 - [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
 - [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen. ([Source Code](https://github.com/ganeti/ganeti)) `BSD-2-Clause` `Python/Haskell`
@@ -692,7 +694,7 @@ _See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhos
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-*VPN software.*
+VPN software.
 
 - [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 - [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
