@@ -550,7 +550,6 @@ Network configuration management tools.
 Newsletter software.
 
 - [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
-- [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
 - [phpList](https://www.phplist.com/) - Newsletter manager written in PHP.
 
 
