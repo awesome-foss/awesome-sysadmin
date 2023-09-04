@@ -760,6 +760,7 @@ VPN software.
 - `OLDAP-2.8` - [Open LDAP Public License v2.8](https://spdx.org/licenses/OLDAP-2.8.html)
 - `QPL-1.0` - [Q Public License 1.0](https://spdx.org/licenses/QPL-1.0.html)
 - `Vim` - [Vim License](https://spdx.org/licenses/Vim.html)
+- `Zlib` - [zlib License](https://spdx.org/licenses/Zlib.html)
 
 -------------------
 
