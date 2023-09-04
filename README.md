@@ -84,7 +84,7 @@ Build automation.
 - [Bazel](https://www.bazel.io/) - A fast, scalable, multi-language and extensible build system. Used by Google. ([Source Code](https://github.com/bazelbuild/bazel/)) `Apache-2.0` `Java`
 - [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 - [GNU Make](https://www.gnu.org/software/make/) - The most popular automation build tool for many purposes, make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. ([Source Code](https://git.savannah.gnu.org/cgit/make.git)) `GPL-3.0` `C`
-- [Gradle](https://gradle.org/) - Another build automation system. ([Source Code](https://github.com/gradle/gradle)) `Groovy/Java` `Apache-2.0`
+- [Gradle](https://gradle.org/) - Another build automation system. ([Source Code](https://github.com/gradle/gradle)) `Apache-2.0` `Groovy/Java`
 - [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code](https://github.com/ruby/rake)) `MIT` `Ruby`
 
 
