@@ -667,7 +667,6 @@ Software versioning and revision control.
 
 Virtualization software.
 
-- [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
 - [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen. ([Source Code](https://github.com/ganeti/ganeti)) `BSD-2-Clause` `Python/Haskell`
 - [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure. ([Source Code](https://git.kernel.org/pub/scm/virt/kvm/kvm.git/)) `GPL-2.0/LGPL-2.0` `C`
 - [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
