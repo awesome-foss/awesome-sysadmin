@@ -734,7 +734,7 @@ VPN software.
 - `ISC` - [ISC License](https://spdx.org/licenses/ISC.html)
 - `LGPL-2.0` - [GNU Lesser General Public License v2](https://spdx.org/licenses/LGPL-2.0.html)
 - `LGPL-2.1` - [GNU Lesser General Public License v2.1](https://spdx.org/licenses/LGPL-2.1.html)
-- `LGPG-3.0` - [GNU Lesser General Public License v3](https://spdx.org/licenses/LGPL-3.0.html)
+- `LGPL-3.0` - [GNU Lesser General Public License v3](https://spdx.org/licenses/LGPL-3.0.html)
 - `MIT` - [MIT License](https://spdx.org/licenses/MIT.html)
 - `MPL-2.0` - [Mozilla Public License](https://spdx.org/licenses/MPL-2.0.html)
 - `NLPL` - [No Limit Public License](https://spdx.org/licenses/NLPL.html)
