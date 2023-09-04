@@ -383,6 +383,8 @@ Open-source code editors.
 
 LDAP servers and other tools to manage accounts and identities.
 
+**Please visit [Identity Management - LDAP](#identity-management---ldap), [Identity Management - Tools and web interfaces](#identity-management---tools-and-web-interfaces), [Identity Management - Single Sign-On SSO](#identity-management---single-sign-on-sso)**
+
 
 ### Identity Management - LDAP
 
