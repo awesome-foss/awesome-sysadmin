@@ -581,7 +581,7 @@ Web-based project management and bug tracking systems.
 - [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
 - [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code](https://github.com/apache/kafka)) `Apache-2.0` `Java`
 - [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
-- [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code](https://github.com/rabbitmq/rabbitmq-server)) `Erlang`
+- [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code](https://github.com/rabbitmq/rabbitmq-server)) `MPL-2.0/Apache-2.0` `Erlang`
 - [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
 
 
