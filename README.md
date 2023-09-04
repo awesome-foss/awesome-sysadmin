@@ -98,8 +98,7 @@ Build automation.
 _See also [Restic's list of Linux backup software](https://github.com/restic/others)_
 
 - [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code](https://github.com/zmanda/amanda)) `MIT` `C`
-- [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and
-coordinate many different backup utilities. `GPL-2.0` `Shell`
+- [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. `GPL-2.0` `Shell`
 - [BackupPC](https://backuppc.github.io/backuppc/) - High-performance, enterprise-grade system for backing up to a server's disk.. ([Source Code](https://github.com/backuppc/backuppc)) `GPL-3.0` `Perl`
 - [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 - [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
@@ -125,7 +124,6 @@ Build and software organization tools.
 
 - [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
 - [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code](https://github.com/TACC/Lmod)) `MIT` `Lua`
-- [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 - [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 
@@ -345,7 +343,7 @@ _See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesom
 _Related: [DNS - Servers](#dns---servers)_
 
 - [Atomia DNS](https://atomiadns.com/) - DNS management system. ([Source Code](https://github.com/atomia/atomiadns/)) `ISC` `Perl`
-- [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate))
+- [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate)) `Apache-2.0` `Python`
 - [DNSControl](https://stackexchange.github.io/dnscontrol/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code](https://github.com/StackExchange/dnscontrol)) `MIT` `Go/Docker`
 - [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod.git)) `GPL-3.0` `PHP`
 - [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
@@ -406,8 +404,6 @@ LDAP servers and other tools to manage accounts and identities.
 - [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
 - [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
 - [Libravatar](https://www.libravatar.org/) - Libravatar is a service which delivers your avatar (profile picture) to other websites. ([Source Code](https://git.linux-kernel.at/oliver/ivatar/)) `AGPL-3.0` `Python`
-- [OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
-- [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
 - [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 - [Samba](https://www.samba.org/) - Active Directory and CIFS protocol implementation. ([Source Code](https://download.samba.org/pub/samba/)) `GPL-3.0` `C`
 - [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
@@ -429,7 +425,7 @@ LDAP servers and other tools to manage accounts and identities.
 
 IT [asset management](https://en.wikipedia.org/wiki/Asset_management) software.
 
-- [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code](https://github.com/glpi-project/glpi))
+- [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
 - [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 - [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
 - [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
@@ -454,11 +450,11 @@ Log management tools: collect, parse, visualize...
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
-- [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree))
-- [ImapSync](http://imapsync.lamiral.info/) - Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code](https://github.com/imapsync/imapsync))
-- [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt))
-- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code](https://github.com/sylpheed-mail/sylpheed))
-- [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file))
+- [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree)) `GPL-3.0` `C`
+- [ImapSync](http://imapsync.lamiral.info/) - Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code](https://github.com/imapsync/imapsync)) `NLPL` `Perl`
+- [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt)) `GPL-2.0` `C`
+- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code](https://github.com/sylpheed-mail/sylpheed)) `GPL-2.0` `C`
+- [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file)) `MPL-2.0` `C/C++`
 
 
 ### Monitoring
@@ -472,11 +468,11 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
-- [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
+- [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange. ([Source Code](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 - [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty. ([Source Code](https://github.com/arachnys/cabot)) `MIT` `Python`
 - [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
-- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
-- [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/tribe29/checkmk)) `Python/PHP`
+- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. ([Source Code](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
+- [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 - [dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 - [EdMon](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 - [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
@@ -490,21 +486,20 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
 - [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS. ([Source Code](https://github.com/netdata/netdata)) `GPL-3.0` `C`
 - [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
-- [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
+- [Observium Community Edition](http://www.observium.org/) - Network monitoring and management platform that provides real-time insight into network health and performance. `QPL-1.0` `PHP`
 - [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
-- [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
-- [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon))
-- [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo))
+- [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. ([Source Code](https://github.com/performancecopilot/pcp)) `LGPL-2.1/GPL-2.0` `C`
+- [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon)) `GPL-3.0` `PHP`
+- [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo)) `GPL-2.0` `PHP`
 - [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
-- [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux. ([Source Code](https://gitlab.com/k3oni/pydash))
-- [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann))
-- [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
-- [ruptime](https://github.com/alexmyczko/ruptime) - classic system status server ([Source Code](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
-- [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
-- [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
+- [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann)) `EPL-1.0` `Java`
+- [rtop](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop)) `MIT` `Go`
+- [ruptime](https://github.com/alexmyczko/ruptime) - Classic system status server. ([Source Code](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
+- [Scrutiny](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
+- [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go)) `MIT` `Go`
 - [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status-ksk5.onrender.com/)) `MIT` `Python`
-- [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk))
-- [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse))
+- [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk)) `GPL-1.0` `Perl`
+- [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse)) `GPL-2.0` `C`
 
 
 ### Status Pages
@@ -522,7 +517,7 @@ Metric gathering and display software.
 
 _Related: [Databases](#databases), [Monitoring](#monitoring)_
 
-- [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0`
+- [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0` `Go`
 - [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code](https://github.com/collectd/collectd)) `MIT` `C`
 - [Diamond](https://github.com/python-diamond/Diamond) - Daemon that collects system metrics and publishes them to Graphite (and others). `MIT` `Python`
 - [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
@@ -555,9 +550,7 @@ Network configuration management tools.
 Newsletter software.
 
 - [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
-- [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
-- [LibreMailer](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
-- [phpList](https://www.phplist.com/) - Newsletter manager written in PHP.
+- [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 
 ### Packaging
@@ -588,7 +581,7 @@ Web-based project management and bug tracking systems.
 - [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
 - [Kafka](https://kafka.apache.org) - Extremely high performance publish/subscribe message system. ([Source Code](https://github.com/apache/kafka)) `Apache-2.0` `Java`
 - [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
-- [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code](https://github.com/rabbitmq/rabbitmq-server)) `Erlang`
+- [RabbitMQ](https://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system. ([Source Code](https://github.com/rabbitmq/rabbitmq-server)) `MPL-2.0/Apache-2.0` `Erlang`
 - [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
 
 
@@ -661,12 +654,11 @@ Troubleshooting tools.
 
 Software versioning and revision control.
 
-- [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
-- [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
-- [Git](http://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed.
-- [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
-- [Mercurial](https://www.mercurial-scm.org/) - Another distributed revision control.
-- [Subversion](http://subversion.apache.org/) - Client-server revision control system.
+- [Darcs](https://darcs.net/) - Cross-platform version control system, like git, mercurial or svn but with a very different approach: focus on changes rather than snapshots. ([Source Code](https://darcs.net/releases/)) `GPL-2.0` `Haskell`
+- [Fossil](https://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking. ([Source Code](https://www.fossil-scm.org/home/dir?ci=trunk)) `BSD-2-Clause` `C`
+- [Git](https://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed. ([Source Code](https://github.com/git/git)) `GPL-2.0` `C`
+- [Mercurial](https://www.mercurial-scm.org/) - Distributed source control management tool. ([Source Code](https://repo.mercurial-scm.org/hg/file/tip)) `GPL-2.0` `Python/C/Rust`
+- [Subversion](https://subversion.apache.org/) - Client-server revision control system.([Source Code](https://svn.apache.org/repos/asf/subversion/trunk/)) `Apache-2.0` `C`
 
 
 ### Virtualization
@@ -675,18 +667,16 @@ Software versioning and revision control.
 
 Virtualization software.
 
-- [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
 - [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen. ([Source Code](https://github.com/ganeti/ganeti)) `BSD-2-Clause` `Python/Haskell`
 - [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure. ([Source Code](https://git.kernel.org/pub/scm/virt/kvm/kvm.git/)) `GPL-2.0/LGPL-2.0` `C`
-- [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
-- [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
+- [OpenNebula](http://opennebula.org/) - Build and manage enterprise clouds for virtualized services, containerized applications and serverless computing. ([Source Code](https://github.com/OpenNebula/one)) `Apache-2.0` `C++`
 - [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks. ([Source Code](https://github.com/oVirt)) `Apache-2.0` `Java`
 - [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration. ([Source Code](https://github.com/hashicorp/packer)) `MPL-2.0` `Go`
 - [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution. ([Source Code](https://git.proxmox.com/)) `GPL-2.0` `Perl/Shell`
 - [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer. ([Source Code](https://gitlab.com/qemu-project/qemu)) `LGPL-2.1` `C`
 - [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments. ([Source Code](https://github.com/hashicorp/vagrant)) `BUSL-1.1` `Ruby`
 - [VirtualBox](https://www.virtualbox.org/) - Virtualization product from Oracle Corporation. ([Source Code](https://www.virtualbox.org/browser/vbox)) `GPL-3.0/CDDL-1.0` `C++`
-- [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
+- [XCP-ng](https://www.xcp-ng.org/) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). ([Source Code](https://github.com/xcp-ng)) `GPL-2.0` `C`
 - [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures. ([Source Code](http://xenbits.xenproject.org/gitweb/?p=xen.git;a=tree;hb=HEAD)) `GPL-2.0` `C`
 
 
@@ -700,15 +690,14 @@ VPN software.
 - [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
-- [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
+- [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
 - [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
 - [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code](https://github.com/pivpn/pivpn)) `MIT` `Shell`
-- [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
 - [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features ([Source Code](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
 - [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
 - [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN. ([Source Code](https://www.tinc-vpn.org/git/tinc)) `GPL-2.0` `C`
-- [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
+- [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. ([Source Code](https://www.wireguard.com/repositories/)) `GPL-2.0` `C`
 
 ### Web
 
@@ -744,6 +733,8 @@ VPN software.
 - `LGPL-2.1` - [GNU Lesser General Public License v2.1 only](https://spdx.org/licenses/LGPL-2.1.html)
 - `MIT` - [MIT License](https://opensource.org/licenses/MIT)
 - `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+- `NLPL` - [No Limit Public License](https://spdx.org/licenses/NLPL.html)
+- `QPL-1.0` - [Q Public License 1.0](https://spdx.org/licenses/QPL-1.0.html)
 - `Vim` - [Vim License](https://spdx.org/licenses/Vim.html)
 
 -------------------
