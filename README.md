@@ -697,7 +697,7 @@ VPN software.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
 - [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
 - [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN. ([Source Code](https://www.tinc-vpn.org/git/tinc)) `GPL-2.0` `C`
-- [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
+- [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. ([Source Code](https://www.wireguard.com/repositories/)) `GPL-2.0` `C`
 
 ### Web
 
