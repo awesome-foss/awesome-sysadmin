@@ -180,6 +180,8 @@ _Related: [IT Asset Management](#it-asset-management)_
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
+[Code review](https://en.wikipedia.org/wiki/Code_review) is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code.
+
 **Please visit [awesome-selfhosted/Software Development - Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
 
 
