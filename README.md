@@ -493,7 +493,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo)) `GPL-2.0` `PHP`
 - [Prometheus](https://prometheus.io/) - Service monitoring system and time series database. ([Source Code](https://github.com/prometheus/prometheus)) `Apache-2.0` `Go`
 - [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis. ([Source Code](https://github.com/riemann/riemann)) `EPL-1.0` `Java`
-- [rtop](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop))
+- [rtop](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on SSH. ([Source Code](https://github.com/rapidloop/rtop)) `MIT` `Go`
 - [ruptime](https://github.com/alexmyczko/ruptime) - classic system status server ([Source Code](https://github.com/alexmyczko/ruptime)) `AGPL-3.0` `Shell`
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds 
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go))
