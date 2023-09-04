@@ -20,8 +20,6 @@
     - [Backups](#backups)
     - [Build and software organization tools](#build-and-software-organization-tools)
     - [ChatOps](#chatops)
-    - [Client management](#client-management)
-    - [Cloning](#cloning)
     - [Cloud Computing](#cloud-computing)
     - [Code Review](#code-review)
     - [Configuration Management Database](#configuration-management-database)
@@ -42,11 +40,11 @@
     - [IT Asset Management](#it-asset-management)
     - [Log Management](#log-management)
     - [Mail Clients](#mail-clients)
+    - [Miscellaneous](#miscellaneous)
     - [Monitoring](#monitoring)
     - [Status Pages](#status-pages)
     - [Metrics & Metric Collection](#metrics--metric-collection)
     - [Network Configuration Management](#network-configuration-management)
-    - [Newsletters](#newsletters)
     - [Packaging](#packaging)
     - [Project Management](#project-management)
     - [Queuing](#queuing)
@@ -85,7 +83,7 @@ Build automation.
 - [Bazel](https://www.bazel.io/) - A fast, scalable, multi-language and extensible build system. Used by Google. ([Source Code](https://github.com/bazelbuild/bazel/)) `Apache-2.0` `Java`
 - [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable. ([Source Code](https://github.com/puppetlabs/bolt)) `Apache-2.0` `Ruby`
 - [GNU Make](https://www.gnu.org/software/make/) - The most popular automation build tool for many purposes, make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. ([Source Code](https://git.savannah.gnu.org/cgit/make.git)) `GPL-3.0` `C`
-- [Gradle](https://gradle.org/) - Another build automation system. ([Source Code](https://github.com/gradle/gradle)) `Groovy/Java` `Apache-2.0`
+- [Gradle](https://gradle.org/) - Another build automation system. ([Source Code](https://github.com/gradle/gradle)) `Apache-2.0` `Groovy/Java`
 - [Rake](https://ruby.github.io/rake/) - Build automation tool similar to Make, written in and extensible in Ruby. ([Source Code](https://github.com/ruby/rake)) `MIT` `Ruby`
 
 
@@ -136,29 +134,8 @@ Conversation-driven development and management.
 _See also: [/r/chatops](https://old.reddit.com/r/chatops)*
 
 - [Eggdrop](https://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
-- [Errbot](https://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
+- [Errbot](https://errbot.io/) - Plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
 - [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
-
-
-### Client management
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-Managing software on desktop computers.
-
-_Related: [IT Asset Management](#it-asset-management)_
-
-- [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
-
-
-### Cloning
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-[Disk cloning](https://en.wikipedia.org/wiki/Disk_cloning) software.
-
-- [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0/Other` `Perl/Shell/Other`
-- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 
 
 ### Cloud Computing
@@ -243,7 +220,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 Web hosting and server or service control panels.
 
 - [Ajenti](https://ajenti.org/) - Control panel for Linux and BSD. ([Source Code](https://github.com/ajenti/ajenti)) `MIT` `Python/Shell`
-- [Cockpit](https://cockpit-project.org/) - web-based graphical interface for servers. ([Source Code](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
+- [Cockpit](https://cockpit-project.org/) - Web-based graphical interface for servers. ([Source Code](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
 - [Froxlor](https://froxlor.org/) - Lightweight server management software with Nginx and PHP-FPM support. ([Source Code](https://github.com/Froxlor/Froxlor/)) `GPL-2.0` `PHP`
 - [ISPConfig](https://www.ispconfig.org) - Manage Linux servers directly through your browser. ([Source Code](https://git.ispconfig.org/ispconfig/ispconfig3)) `BSD-3-Clause` `PHP`
 - [Sentora](https://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
@@ -325,7 +302,7 @@ _Related: [DNS - Control Panels & Domain Management](#dns---control-panels--doma
 
 - [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 - [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
-- [djbdns](https://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns)) `Public Domain` `C`
+- [djbdns](https://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns)) `CC0-1.0` `C`
 - [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
 - [Knot](https://www.knot-dns.cz/) - High performance authoritative-only DNS server. ([Source Code](https://gitlab.nic.cz/knot/knot-dns)) `GPL-3.0` `C`
 - [NSD](https://www.nlnetlabs.nl/projects/nsd/about/) - Authoritative DNS name server developed speed, reliability, stability and security. ([Source Code](https://github.com/NLnetLabs/nsd)) `BSD-3-Clause` `C`
@@ -365,7 +342,7 @@ Open-source code editors.
 - [Eclipse](https://www.eclipse.org/) - IDE written in Java with an extensible plug-in system. ([Source Code](https://git.eclipse.org/c/)) `EPL-1.0` `Java`
 - [Geany](https://www.geany.org/) - GTK2 text editor. ([Source Code](https://github.com/geany/geany)) `GPL-2.0` `C/C++`
 - [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more. ([Source Code](https://github.com/emacs-mirror/emacs)) `GPL-3.0` `C`
-- [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview. ([Source Code](https://github.com/rhiokim/haroopad)) `GLP-3.0` `JavaScript`
+- [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview. ([Source Code](https://github.com/rhiokim/haroopad)) `GPL-3.0` `JavaScript`
 - [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages. ([Demo](http://demo.icecoder.net), [Source Code](https://github.com/icecoder/ICEcoder)) `MIT` `PHP`
 - [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing. `MIT` `Nodejs`
 - [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE. ([Source Code](https://invent.kde.org/kdevelop/kdevelop)) `GFDL-1.2` `C++`
@@ -407,7 +384,7 @@ Open-source code editors.
 Miscellaneous utilities and web interfaces for identity management systems.
 
 - [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates. ([Source Code](https://gitlab.com/bounca/bounca/)) `Apache-2.0` `Python`
-- [easy-rsa](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
+- [easy-rsa](https://github.com/OpenVPN/easy-rsa) - Bash script to build and manage a PKI CA. `GPL-2.0` `Shell`
 - [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP. ([Source Code](https://github.com/fusiondirectory/fusiondirectory)) `GPL-2.0` `PHP`
 - [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol). ([Source Code](https://github.com/aaronpk/IndieAuth.com)) `Apache-2.0` `Ruby`
 - [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory. ([Source Code](https://github.com/LDAPAccountManager/lam/)) `GPL-3.0` `PHP`
@@ -450,7 +427,7 @@ IT [asset management](https://en.wikipedia.org/wiki/Asset_management) software.
 Log management tools: collect, parse, visualize...
 
 - [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer. ([Source Code](https://github.com/fluent/fluentd)) `Apache-2.0` `Ruby`
-- [Flume](https://flume.apache.org/) - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. ([Source Code](https://github.com/apache/flume)) `Apache-2.0` `Java`
+- [Flume](https://flume.apache.org/) - Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. ([Source Code](https://github.com/apache/flume)) `Apache-2.0` `Java`
 - [GoAccess](https://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code](https://github.com/allinurl/goaccess)) `MIT` `C`
 - [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 - [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
@@ -467,6 +444,19 @@ An [email client](https://en.wikipedia.org/wiki/Email_client), email reader or, 
 - [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt)) `GPL-2.0` `C`
 - [Sylpheed](https://sylpheed.sraoss.jp/en/) - Still developed predecessor to Claws Mail, lightweight mail client. ([Source Code](https://github.com/sylpheed-mail/sylpheed)) `GPL-2.0` `C`
 - [Thunderbird](https://www.thunderbird.net/) - Free email application that's easy to set up and customize. ([Source Code](https://hg.mozilla.org/comm-central/file)) `MPL-2.0` `C/C++`
+
+
+### Miscellaneous
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
+Software that does not fit in another section.
+
+- [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
+- [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0` `Perl/Shell/Other`
+- [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
+- [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
+- [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 
 ### Monitoring
@@ -536,7 +526,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 - [Grafana](https://grafana.com/) - A Graphite & InfluxDB Dashboard and Graph Editor. ([Source Code](https://github.com/grafana/grafana)) `AGPL-3.0` `Go`
 - [Graphite](https://graphite.readthedocs.org/en/latest/) - Scalable graphing server. ([Source Code](https://github.com/graphite-project/graphite-web)) `Apache-2.0` `Python`
 - [RRDtool](https://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data. ([Source Code](https://github.com/oetiker/rrdtool-1.x)) `GPL-2.0` `C`
-- [Statsd](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `Nodejs` `MIT`
+- [Statsd](https://github.com/etsy/statsd/) - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services. `MIT` `Nodejs`
 - [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
 - [Telegraf](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 
@@ -553,17 +543,6 @@ Network configuration management tools.
 - [phpIPAM](https://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
 - [RANCID](https://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
 - [rConfig](https://www.rconfig.com/) - Network device configuration management tool. ([Source Code](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
-
-
-
-### Newsletters
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-Newsletter software.
-
-- [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
-- [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 
 ### Packaging
@@ -623,7 +602,7 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 
 - [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C` 
 - [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
-- [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C` `PHP`
+- [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C/PHP`
 - [pfSense CE](https://www.pfsense.org/) - Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ([Source Code](https://github.com/pfsense/pfsense)) `Apache-2.0` `Shell/PHP/Other`
 
 
@@ -634,7 +613,7 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 [Service discovery](https://en.wikipedia.org/wiki/Service_discovery) is the process of automatically detecting devices and services on a computer network.
 
 - [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration. ([Source Code](https://github.com/hashicorp/consul)) `MPL-2.0` `Go`
-- [etcd](https://etcd.io/) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
+- [etcd](https://etcd.io/) - Distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ([Source Code](https://github.com/coreos/etcd)) `Apache-2.0` `Go`
 - [ZooKeeper](https://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. ([Source Code](https://github.com/apache/zookeeper)) `Apache-2.0` `Java/C++`
 
 
@@ -648,7 +627,7 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 - [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines. ([Source Code](https://github.com/moby/swarmkit)) `Apache-2.0` `Go`
 - [Docker](https://www.docker.com/) - Platform for developers and sysadmins to build, ship, and run distributed applications. ([Source Code](https://www.docker.com/community/open-source/)) `Apache-2.0` `Go`
 - [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code](https://github.com/lxc/lxc)) `GPL-2.0` `C`
-- [LXD](https://linuxcontainers.org/lxd/) - a container "hypervisor" and a better UX for LXC. ([Source Code](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
+- [LXD](https://linuxcontainers.org/lxd/) - Container "hypervisor" and a better UX for LXC. ([Source Code](https://github.com/lxc/lxd)) `Apache-2.0` `Go`
 - [OpenVZ](https://openvz.org) - Container-based virtualization for Linux. ([Source Code](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
 - [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/containers/podman)) `Apache-2.0` `Go`
 - [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code](https://github.com/portainer/portainer)) `Zlib` `Go`
@@ -661,7 +640,7 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 
 Troubleshooting tools.
 
-- [grml](https://grml.org) - bootable Debian Live CD with powerful CLI tools. ([Source Code](https://github.com/grml/)) `GPL-3.0` `Shell`
+- [grml](https://grml.org) - Bootable Debian Live CD with powerful CLI tools. ([Source Code](https://github.com/grml/)) `GPL-3.0` `Shell`
 - [mitmproxy](https://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. ([Source Code](https://github.com/mitmproxy/mitmproxy)) `MIT` `Python`
 - [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping. ([Source Code](https://github.com/traviscross/mtr)) `GPL-2.0` `C`
 - [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace. `GPL-2.0` `Shell`
@@ -740,23 +719,30 @@ VPN software.
 
 ## List of Licenses
 
-- `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
-- `Apache-2.0` - [Apache, Version 2.0](https://www.apache.org/licenses/)
-- `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://opensource.org/licenses/BSD-2-Clause)
-- `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause)
+- `AGPL-3.0` - [GNU Affero General Public License 3.0](https://spdx.org/licenses/AGPL-3.0.html)
+- `Apache-2.0` - [Apache, Version 2.0](https://spdx.org/licenses/Apache-2.0.html)
+- `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://spdx.org/licenses/BSD-2-Clause.html)
+- `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://spdx.org/licenses/BSD-3-Clause.html)
 - `BUSL-1.1` - [Business Source License 1.1](https://spdx.org/licenses/BUSL-1.1.html)
+- `CC0-1.0` - [Public Domain/Creative Common Zero 1.0](https://spdx.org/licenses/CC0-1.0.html)
 - `CDDL-1.0` - [Common Development and Distribution License 1.0](https://spdx.org/licenses/CDDL-1.0.html)
 - `EPL-1.0` - [Eclipse Public License 1.0](https://spdx.org/licenses/EPL-1.0.html)
 - `GFDL-1.2` - [GNU Free Documentation License 1.2](https://spdx.org/licenses/GFDL-1.2.html)
-- `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-- `GPL-3.0` - [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
-- `LGPL-2.0` - [GNU Library General Public License v2 only](https://spdx.org/licenses/LGPL-2.0.html)
-- `LGPL-2.1` - [GNU Lesser General Public License v2.1 only](https://spdx.org/licenses/LGPL-2.1.html)
-- `MIT` - [MIT License](https://opensource.org/licenses/MIT)
-- `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+- `GPL-1.0` - [GNU General Public License 1.0](https://spdx.org/licenses/GPL-1.0.html)
+- `GPL-2.0` - [GNU General Public License 2.0](https://spdx.org/licenses/GPL-2.0.html)
+- `GPL-3.0` - [GNU General Public License 3.0](https://spdx.org/licenses/GPL-3.0.html)
+- `IPL-1.0` - [IBM Public License v1.0](https://spdx.org/licenses/IPL-1.0.html)
+- `ISC` - [ISC License](https://spdx.org/licenses/ISC.html)
+- `LGPL-2.0` - [GNU Lesser General Public License v2](https://spdx.org/licenses/LGPL-2.0.html)
+- `LGPL-2.1` - [GNU Lesser General Public License v2.1](https://spdx.org/licenses/LGPL-2.1.html)
+- `LGPL-3.0` - [GNU Lesser General Public License v3](https://spdx.org/licenses/LGPL-3.0.html)
+- `MIT` - [MIT License](https://spdx.org/licenses/MIT.html)
+- `MPL-2.0` - [Mozilla Public License](https://spdx.org/licenses/MPL-2.0.html)
 - `NLPL` - [No Limit Public License](https://spdx.org/licenses/NLPL.html)
+- `OLDAP-2.8` - [Open LDAP Public License v2.8](https://spdx.org/licenses/OLDAP-2.8.html)
 - `QPL-1.0` - [Q Public License 1.0](https://spdx.org/licenses/QPL-1.0.html)
 - `Vim` - [Vim License](https://spdx.org/licenses/Vim.html)
+- `Zlib` - [zlib License](https://spdx.org/licenses/Zlib.html)
 
 -------------------
 
