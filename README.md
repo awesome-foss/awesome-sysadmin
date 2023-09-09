@@ -417,7 +417,7 @@ _Related: [DNS - Servers](#dns---servers)_
 - [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
 - [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code](https://github.com/goauthentik/authentik)) `MIT` `Python`
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
-- [SuperTokens](https://supertokens.com) - Open Core Identity, Access and Session Management. ([Source Code](https://github.com/supertokens/supertokens-core)) `Apache-2.0` `Java`, `NodeJS`, `Python`, `Golang`
+- [SuperTokens](https://supertokens.com) - Add secure login and session management to your apps. ([Demo](https://thirdpartyemailpassword.demo.supertokens.com/auth/?redirectToPath=), [Source Code](https://github.com/supertokens/supertokens-core)) `Apache-2.0` `Java`
 
 
 ### IT Asset Management
