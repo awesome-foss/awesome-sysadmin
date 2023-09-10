@@ -272,7 +272,7 @@ Network distributed filesystems.
 
 _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers)_
 
-- [Ceph](https://ceph.com/) - Distributed object, block, and file storage platform. ([Source Code](https://github.com/ceph/ceph)) `LGPL-3.0` `C++`
+- [Ceph](https://ceph.com/en/) - Distributed object, block, and file storage platform. ([Source Code](https://github.com/ceph/ceph)) `LGPL-3.0` `C++`
 - [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
 - [GlusterFS](https://www.gluster.org/) - Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. ([Source Code](https://github.com/gluster/glusterfs)) `GPL-2.0/LGPL-3.0` `C`
 - [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed file system that provides high-throughput access to application data. ([Source Code](https://github.com/apache/hadoop)) `Apache-2.0` `Java`
