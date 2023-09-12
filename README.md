@@ -121,7 +121,8 @@ _See also [Restic's list of Linux backup software](https://github.com/restic/oth
 Build and software organization tools.
 
 - [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
-- [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code](https://github.com/TACC/Lmod)) `MIT` `Lua`
+- [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code](https://github.com/cea-hpc/modules)) `GPL-2.0` `Tcl`
+- [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code](https://github.com/TACC/Lmod)) `MIT` `Lua`
 - [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 
