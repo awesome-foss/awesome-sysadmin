@@ -5,4 +5,3 @@ steps:
       source_directory: ./
       licenses_files:
         - licenses.yml
-        - licenses-nonfree.yml

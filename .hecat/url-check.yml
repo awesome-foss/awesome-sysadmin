@@ -8,4 +8,5 @@ steps:
       source_files:
         - licenses.yml
       errors_are_fatal: True
-      exclude_regex: []
+      exclude_regex:
+        - '^https://community.openvpn.net$' # DDoS protection page, always returns 403
