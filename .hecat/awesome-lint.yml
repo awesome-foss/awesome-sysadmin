@@ -1,7 +1,0 @@
-steps:
-  - name: check data against awesome-sysadmin guidelines
-    module: processors/awesome_lint
-    module_options:
-      source_directory: ./
-      licenses_files:
-        - licenses.yml
