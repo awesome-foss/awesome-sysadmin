@@ -431,6 +431,7 @@ Log management tools: collect, parse, visualize...
 
 An [email client](https://en.wikipedia.org/wiki/Email_client), email reader or, more formally, message user agent (MUA) or mail user agent is a computer program used to access and manage a user's email. 
 
+- [aerc](https://aerc-mail.org/) - Terminal MUA with a focus on plaintext and features for developers. ([Source Code](https://git.sr.ht/~rjarry/aerc)) `MIT` `Go`
 - [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+. ([Source Code](https://git.claws-mail.org/?p=claws.git;a=tree)) `GPL-3.0` `C`
 - [ImapSync](http://imapsync.lamiral.info/) - Simple IMAP migration tool for copying mailboxes to other servers. ([Source Code](https://github.com/imapsync/imapsync)) `NLPL` `Perl`
 - [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client. ([Source Code](https://gitlab.com/muttmua/mutt)) `GPL-2.0` `C`
