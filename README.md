@@ -145,7 +145,7 @@ _See also: [/r/chatops](https://old.reddit.com/r/chatops)*
 
 [Code review](https://en.wikipedia.org/wiki/Code_review) is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code.
 
-**Please visit [awesome-selfhosted/Software Development - Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
+**Please visit [awesome-selfhosted/Software Development - Project Management](https://awesome-selfhosted.net/tags/software-development---project-management.html)**
 
 
 
@@ -222,7 +222,7 @@ Database servers.
 
 **Please visit [dbdb.io - Database of Databases](https://dbdb.io/)**
 
-_See also: [awesome-selfhosted/Database Management](https://github.com/awesome-selfhosted/awesome-selfhosted#database-management)_
+_See also: [awesome-selfhosted/Database Management](https://awesome-selfhosted.net/tags/database-management.html)_
 
 
 
@@ -262,7 +262,7 @@ Tools used to create diagrams of networks, flows, etc.
 
 Network distributed filesystems.
 
-_See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers)_
+_See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](https://awesome-selfhosted.net/tags/file-transfer---object-storage--file-servers.html)_
 
 - [Ceph](https://ceph.com/en/) - Distributed object, block, and file storage platform. ([Source Code](https://github.com/ceph/ceph)) `LGPL-3.0` `C++`
 - [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
@@ -289,7 +289,7 @@ DNS server control panels, web interfaces and domain management tools.
 
 _Related: [DNS - Servers](#dns---servers)_
 
-_See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
+_See also: [awesome-selfhosted/DNS](https://awesome-selfhosted.net/tags/dns.html)_
 
 - [Atomia DNS](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate)) `Apache-2.0` `Python`
@@ -309,7 +309,7 @@ _See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesom
 
 _Related: [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)_
 
-_See also: [awesome-selfhosted/DNS](https://github.com/awesome-selfhosted/awesome-selfhosted#dns)_
+_See also: [awesome-selfhosted/DNS](https://awesome-selfhosted.net/tags/dns.html)_
 
 - [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
 - [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
@@ -547,7 +547,7 @@ A [package manager](https://en.wikipedia.org/wiki/Package_manager) or package-ma
 
 Web-based project management and bug tracking systems.
 
-**Please visit [awesome-selfhosted/Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted#software-development---project-management)**
+**Please visit [awesome-selfhosted/Project Management](https://awesome-selfhosted.net/tags/software-development---project-management.html)**
 
 
 
@@ -572,7 +572,7 @@ Web-based project management and bug tracking systems.
 
 [Remote Desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) client software.
 
-_See also: [awesome-selfhosted/Remote Access](https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access)_
+_See also: [awesome-selfhosted/Remote Access](https://awesome-selfhosted.net/tags/remote-access.html)_
 
 - [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina)) `GPL-2.0` `C`
 - [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code](https://github.com/TigerVNC/tigervnc)) `GPL-2.0` `C++`
@@ -625,7 +625,7 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 
 [Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available.
 
-**Please visit [awesome-selfhosted/Status / Uptime Pages](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+**Please visit [awesome-selfhosted/Status / Uptime Pages](https://awesome-selfhosted.net/tags/status--uptime-pages.html)**
 
 
 
