@@ -708,6 +708,7 @@ VPN software.
 - [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix. ([Source Code](https://gitlab.com/hsleisink/hiawatha)) `GPL-2.0` `C`
 - [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C`
 - [Nginx](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://hg.nginx.org/nginx/file/tip)) `BSD-2-Clause` `C`
+- [Static Web Server](https://static-web-server.net/) - A cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
 - [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
 - [Varnish](https://varnish-cache.org/) - Web application accelerator/caching HTTP reverse proxy. ([Source Code](https://github.com/varnishcache/varnish-cache)) `BSD-2-Clause` `C`
 
