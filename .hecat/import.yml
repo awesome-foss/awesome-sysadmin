@@ -1,6 +1,0 @@
-steps:
-  - name: import awesome-sysadmin README.md to YAML
-    module: importers/markdown_awesome
-    module_options:
-      source_file: ./README.md
-      output_directory: ./
