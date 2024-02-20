@@ -135,7 +135,7 @@ _See also: [/r/chatops](https://old.reddit.com/r/chatops)*
 
 [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
 
-**Please visit [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category)**
+**Please visit [Cloud Native Software Landscape](https://landscape.cncf.io/?group=projects-and-products&view-mode=card)**
 
 
 
@@ -774,7 +774,7 @@ VPN software.
 
 ## Websites
 
-- [Cloud Native Software Landscape](https://landscape.cncf.io/card-mode?license=open-source&grouping=category) - Compilation of software and tools for cloud computing.
+- [Cloud Native Software Landscape](https://landscape.cncf.io/?group=projects-and-products&view-mode=card) - Compilation of software and tools for cloud computing.
 - [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki which has really nice written articles valid for other distros.
 - [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 - [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
