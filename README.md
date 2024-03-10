@@ -685,6 +685,7 @@ VPN software.
 - [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
+- [NetBird](https://netbird.io) - NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home. ([Source Code](https://github.com/netbirdio/netbird)) `BSD-3-Clause` `Go`
 - [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
 - [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
 - [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code](https://github.com/pivpn/pivpn)) `MIT` `Shell`
