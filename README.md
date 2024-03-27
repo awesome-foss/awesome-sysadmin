@@ -681,6 +681,7 @@ Virtualization software.
 
 VPN software.
 
+- [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 - [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 - [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
@@ -693,7 +694,6 @@ VPN software.
 - [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
 - [tinc](https://www.tinc-vpn.org/) - Distributed p2p VPN. ([Source Code](https://www.tinc-vpn.org/git/tinc)) `GPL-2.0` `C`
 - [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. ([Source Code](https://www.wireguard.com/repositories/)) `GPL-2.0` `C`
-- [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 
 
 ### Web
