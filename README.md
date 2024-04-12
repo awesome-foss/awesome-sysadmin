@@ -689,7 +689,6 @@ VPN software.
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
 - [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
 - [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange. ([Source Code](https://github.com/OpenVPN/openvpn)) `GPL-2.0` `C`
-- [PiVPN](https://www.pivpn.io/) - The simplest way to setup and manage a VPN, designed for Raspberry Pi. ([Source Code](https://github.com/pivpn/pivpn)) `MIT` `Shell`
 - [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features. ([Source Code](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
 - [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
