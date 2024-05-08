@@ -243,6 +243,7 @@ Tools and scripts to support deployments to your servers.
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code](https://github.com/munki/munki)) `Apache-2.0` `Python`
 - [Overcast](https://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([Source Code](https://github.com/andrewchilds/overcast)) `MIT` `Nodejs`
 - [Vlad the Deployer](https://github.com/seattlerb/vlad) - Deployment automation (rake based). `MIT` `Ruby`
+- [VitoDeploy](https://vitodeploy.com/) - Free and Self-Hosted Server Management Tool. ([Source Code](https://github.com/vitodeploy/vito)) `AGPL-3.0` `PHP`
 
 
 ### Diagramming
