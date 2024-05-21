@@ -240,7 +240,6 @@ Tools and scripts to support deployments to your servers.
 - [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler)) `GPL-2.0` `Python`
 - [Fabric](https://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ([Source Code](https://github.com/fabric/fabric)) `BSD-2-Clause` `Python`
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
-- [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based). ([Source Code](https://github.com/mina-deploy/mina)) `MIT` `Ruby`
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code](https://github.com/munki/munki)) `Apache-2.0` `Python`
 - [Overcast](https://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([Source Code](https://github.com/andrewchilds/overcast)) `MIT` `Nodejs`
 
