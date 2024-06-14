@@ -214,6 +214,7 @@ Web hosting and server or service control panels.
 - [Sentora](https://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
 - [Virtualmin](https://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
 - [Webmin](https://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
+- [1Panel](https://1panel.cn) - 🔥 🔥 🔥 Modern, open source Linux server operation and maintenance management panel. ([Source Code](https://github.com/1Panel-dev/1Panel)) `MIT` `Go`
 
 
 ### Databases
