@@ -477,6 +477,7 @@ Monitoring software.
 
 _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
+- [Merlinn](https://merlinn.co/) - AI Slackbot that helps troubleshooting production incidents by connecting to multiple o11y tools, collaboration systems and more. ([Source Code](https://github.com/merlinn-co/merlinn)) `Apache-2.0` `Docker/Node.js`
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
