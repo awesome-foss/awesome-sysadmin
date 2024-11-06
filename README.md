@@ -212,7 +212,7 @@ Web hosting and server or service control panels.
 - [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). ([Demo](https://demo.hestiacp.com:8083/login/), [Source Code](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
 - [ISPConfig](https://www.ispconfig.org) - Manage Linux servers directly through your browser. ([Source Code](https://git.ispconfig.org/ispconfig/ispconfig3)) `BSD-3-Clause` `PHP`
 - [Sentora](https://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
-- [Squirrel Servers Manager](https://squirrelserversmanager.io) - A user-friendly, UI/UX focused server & configuration management tool. ([Source Code](https://github.com/SquirrelCorporation/SquirrelServersManager)) `AGPL-3.0` `Docker/Nodejs`
+- [Squirrel Servers Manager](https://squirrelserversmanager.io) - A user-friendly, UI/UX focused server & configuration management tool. ([Demo](https://demo.squirrelserversmanager.io/), ([Source Code](https://github.com/SquirrelCorporation/SquirrelServersManager)) `AGPL-3.0` `Docker/Nodejs`
 - [Virtualmin](https://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
 - [Webmin](https://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
 
