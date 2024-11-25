@@ -539,6 +539,7 @@ Network configuration management tools.
 - [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
 - [Coolify](https://coolify.io/) - An open-source & self-hostable Platform as a Service (PaaS) Heroku / Netlify / Vercel alternative (and even more). ([Source Code](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
 - [Dokploy](https://dokploy.com/) - Is a free, self-hostable Platform as a Service (PaaS) Heroku / Netlify / Vercel alternative (and even more) that simplifies the deployment and management of applications and databases. ([Source Code](https://github.com/dokploy/dokploy)) `Apache-2.0` `Docker`
+- [Websoft9](https://www.websoft9.com/) - Websoft9 is web-based PaaS/Linux Panel for running 200+ hot open source application on your own server. (used Portainer and Nginx) ([Source Code](https://github.com/Websoft9/websoft9)) `LGPL-3.0` `Portainer`
 - [Dokku](https://dokku.com/) - An open-source PaaS (alternative to Heroku). ([Source Code](https://github.com/dokku/dokku)) `MIT` `Docker/Shell/Go/deb`
 - [fx](https://github.com/metrue/fx) - A tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
 - [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
