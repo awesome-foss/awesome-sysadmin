@@ -479,7 +479,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
-- [beszel](https://github.com/henrygd/beszel) - Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. `MIT` `Go`
+- [Beszel](https://github.com/henrygd/beszel) - Beszel is a lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. `MIT` `Go`
 - [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
 - [Bosun](https://bosun.org/) - Monitoring and alerting system by Stack Exchange. ([Source Code](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 - [Cacti](https://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
