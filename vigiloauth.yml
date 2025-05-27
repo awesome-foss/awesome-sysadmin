@@ -1,0 +1,13 @@
+name: "VigiloAuth"
+website_url: "https://github.com/vigiloauth/vigilo"
+source_code_url: "https://github.com/vigiloauth/vigilo"
+description: "Lightweight, fully customizable OAuth 2.0 & OIDC auth server and identity provider written in GoLang that can be deployed as a Docker container."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Federated Identity & Authentication
+  - Identity Management
+depends_3rdparty: false
