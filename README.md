@@ -537,6 +537,7 @@ Network configuration management tools.
 - [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
 - [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Source Code](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
 - [Dokku](https://dokku.com/) - An open-source PaaS (alternative to Heroku). ([Source Code](https://github.com/dokku/dokku)) `MIT` `Docker/Shell/Go/deb`
+- [Dokploy](https://dokploy.com/) - A stable, easy-to-use deployment solution designed to simplify the application management process. ([Source Code](https://github.com/Dokploy/dokploy)) `Apache-2.0` `Docker`
 - [fx](https://github.com/metrue/fx) - A tool to help you do Function as a Service with painless on your own servers. `MIT` `Go`
 - [Kubero](https://www.kubero.dev/) - A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. ([Demo](https://demo.kubero.dev/), [Source Code](https://github.com/kubero-dev/kubero)) `GPL-3.0` `K8S/Nodejs/Go`
 - [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
