@@ -466,6 +466,8 @@ Software that does not fit in another section.
 - [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
 - [Fog](https://www.fogproject.org/) - Cloning/imaging solution/rescue suite. ([Source Code](https://github.com/FOGProject/fogproject)) `GPL-3.0` `PHP/Shell`
 - [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
+- [UltimateLinuxScript](https://github.com/baxr6/UltimateLinuxScript) - All-in-one Linux system management script for Ubuntu 24.04, featuring backups (full/incremental/rsync), restore, package install, GNOME tweaks, and a whiptail-based menu UI.
+
 
 
 ### Monitoring
