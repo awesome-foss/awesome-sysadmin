@@ -603,6 +603,7 @@ _See also: [awesome-selfhosted/Remote Access](https://awesome-selfhosted.net/tag
 Software for management of [router](https://en.wikipedia.org/wiki/Router_(computing)) hardware.
 
 - [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C`
+- [IPFire](https://www.ipfire.org/) - Free network firewall distribution, based on the Linux operating system with easy-to-use web management console. ([Source Code](https://github.com/ipfire)) `GPL-2.0` `Shell/PHP/Other`
 - [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
 - [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C/PHP`
 - [pfSense CE](https://www.pfsense.org/) - Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ([Source Code](https://github.com/pfsense/pfsense)) `Apache-2.0` `Shell/PHP/Other`
