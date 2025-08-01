@@ -215,6 +215,7 @@ Web hosting and server or service control panels.
 - [Sentora](https://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
 - [Virtualmin](https://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
 - [Webmin](https://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
+- [OpenResty Manager](https://om.uusec.com) - The most simple, powerful and beautiful host management panel, open source alternative to OpenResty Edge. ([Source Code]([https://github.com/webmin/webmin](https://github.com/Safe3/openresty-manager))) `GPL-3.0` `Go`
 
 
 ### Databases
