@@ -212,10 +212,11 @@ Web hosting and server or service control panels.
 - [Froxlor](https://froxlor.org/) - Lightweight server management software with Nginx and PHP-FPM support. ([Source Code](https://github.com/Froxlor/Froxlor/)) `GPL-2.0` `PHP`
 - [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). ([Demo](https://demo.hestiacp.com:8083/login/), [Source Code](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
 - [ISPConfig](https://www.ispconfig.org) - Manage Linux servers directly through your browser. ([Source Code](https://git.ispconfig.org/ispconfig/ispconfig3)) `BSD-3-Clause` `PHP`
+- [OpenResty Manager](https://om.uusec.com) - The most simple, powerful and beautiful host management panel, open source alternative to OpenResty Edge. ([Source Code](https://github.com/Safe3/openresty-manager)) `GPL-3.0` `Go`
 - [Sentora](https://sentora.org/) - Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel). ([Source Code](https://github.com/sentora/sentora-core)) `GPL-3.0` `PHP`
 - [Virtualmin](https://www.virtualmin.com/) - Powerful and flexible web hosting control panel for Linux and BSD systems. ([Source Code](https://github.com/virtualmin)) `GPL-3.0` `Shell/Perl/Other`
 - [Webmin](https://www.webmin.com/) - Web-based interface for system administration for Unix. ([Source Code](https://github.com/webmin/webmin)) `BSD-3-Clause` `Perl`
-- [OpenResty Manager](https://om.uusec.com) - The most simple, powerful and beautiful host management panel, open source alternative to OpenResty Edge. ([Source Code]([https://github.com/webmin/webmin](https://github.com/Safe3/openresty-manager))) `GPL-3.0` `Go`
+
 
 
 ### Databases
