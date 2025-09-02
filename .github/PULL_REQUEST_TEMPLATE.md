@@ -5,7 +5,7 @@ Thank you for taking the time to work on a PR for Awesome-Sysadmin!
 To ensure your PR is dealt with swiftly please check the following:
 
 - [ ] Your additions are [Free software](https://en.wikipedia.org/wiki/Free_software)
-- [ ] Software your are submitting is not your own, unless you have a healthy ecosystem with a few contributors (which aren't your sock puppet accounts).
+- [ ] Software you are submitting is not your own, unless you have a healthy ecosystem with a few contributors (which aren't your sock puppet accounts).
 - [ ] Submit one item per pull request. This eases reviewing and speeds up inclusion.
 - [ ] Format your submission as follows, where `Demo` and `Clients` are optional.
   Do not add a duplicate `Source code` link if it is the same as the main link.
