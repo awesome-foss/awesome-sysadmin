@@ -377,6 +377,7 @@ Open-source code editors.
 - [Authelia](https://www.authelia.com/) - The Single Sign-On Multi-Factor portal for web apps. ([Source Code](https://github.com/authelia/authelia)) `Apache-2.0` `Go`
 - [Authentik](https://goauthentik.io/) - Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ([Source Code](https://github.com/goauthentik/authentik)) `MIT` `Python`
 - [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+- [Pocket ID](https://pocket-id.org/) - Simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. ([Source Code](https://github.com/pocket-id/pocket-id)) `BSD-2-Clause` `Go`
 
 
 ### Identity Management - Tools and web interfaces
