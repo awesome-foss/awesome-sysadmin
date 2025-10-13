@@ -583,7 +583,8 @@ _See also: [Cloud Native Landscape - Streaming & Messaging](https://landscape.cn
 - [Gearman](http://gearman.org/) - Fast multi-language queuing/job processing platform. ([Source Code](https://github.com/gearman/gearmand)) `BSD-3-Clause` `C++`
 - [NSQ](https://nsq.io/) - A realtime distributed messaging platform. ([Source Code](https://github.com/nsqio/nsq)) `MPL-2.0` `Go`
 - [ZeroMQ](https://zeromq.org/) - Lightweight queuing system. ([Source Code](https://github.com/zeromq)) `GPL-3.0` `C++`
-
+- [RabbitMQ](https://www.rabbitmq.com/) - Advanced queuing system. ([Source Code](https://github.com/rabbitmq/rabbitmq-server)) `MPL 2.0` `Apache Software License 2.0` `Erlang`
+- [LavinMQ](https://lavinmq.com/) - Advanced, Lightweight and fast queuing system. ([Source Code](https://github.com/cloudamqp/lavinmq)) `Apache Software License 2.0` `Crystal`
 
 ### Remote Desktop Clients
 
