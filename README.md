@@ -95,6 +95,8 @@ _See also: [Restic's list of Linux backup software](https://github.com/restic/ot
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
 - [Duplicati](https://www.duplicati.com) - Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ([Source Code](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
 - [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity)) `GPL-2.0` `Python`
+- [Open Archiver](https://docs.openarchiver.com) - Email archiving solution with full-text search and eDiscovery search features. ([Source Code](https://github.com/LogicLabs-OU/OpenArchiver)) `AGPL-3.0` `Docker`
+- [Minarca](https://minarca.org/) - Client–server backup platform with a centralized web console to manage and restore Linux, Windows, and macOS backups via GUI or CLI. ([Source Code](https://gitlab.com/ikus-soft/minarca)) `AGPL-3.0` `Python`
 - [Portabase](https://portabase.io/) - Server dashboard tool that simplifies the backup and restoration of your database instances. ([Source Code](https://github.com/Soluce-Technologies/portabase)) `Apache-2.0` `Docker`
 - [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
 - [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code](https://github.com/rclone/rclone)) `MIT` `Go`
@@ -510,6 +512,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go)) `MIT` `Go`
 - [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status.enshittification.social/) `MIT` `Python`
 - [Thruk](https://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk)) `GPL-1.0` `Perl`
+- [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Source Code](https://github.com/louislam/uptime-kuma)) `MIT` `NodeJS`
 - [Wazuh](https://wazuh.com/) - Unified XDR and SIEM protection for endpoints and cloud workloads. ([Source Code](https://github.com/wazuh/wazuh)) `GPL-2.0` `C`
 - [Zabbix](https://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse)) `GPL-2.0` `C`
 
@@ -604,6 +607,7 @@ _See also: [awesome-selfhosted/Remote Access](https://awesome-selfhosted.net/tag
 Software for management of [router](https://en.wikipedia.org/wiki/Router_(computing)) hardware.
 
 - [DD-WRT](https://dd-wrt.com/) - A Linux-based firmware for wireless routers and access points, originally designed for the Linksys WRT54G series. ([Source Code](https://svn.dd-wrt.com/)) `GPL-2.0` `C`
+- [IPFire](https://www.ipfire.org/) - Free network firewall distribution, based on the Linux operating system with easy-to-use web management console. ([Source Code](https://github.com/ipfire/ipfire-2.x)) `GPL-2.0` `Shell/PHP/Other`
 - [OpenWrt](https://openwrt.org/) - A Linux-based router featuring Mesh networking, IPS via snort and AQM among many other features. ([Source Code](https://git.openwrt.org/openwrt/openwrt.git)) `GPL-2.0` `C`
 - [OPNsense](https://opnsense.org/) - An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities. ([Source Code](https://github.com/opnsense)) `BSD-2-Clause` `C/PHP`
 - [pfSense CE](https://www.pfsense.org/) - Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ([Source Code](https://github.com/pfsense/pfsense)) `Apache-2.0` `Shell/PHP/Other`
