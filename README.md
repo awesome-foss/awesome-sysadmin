@@ -164,6 +164,7 @@ _See also: [/r/chatops](https://old.reddit.com/r/chatops)*
 - [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code](https://github.com/puppetlabs/puppet)) `Apache-2.0` `Ruby/C`
 - [Rudder](https://www.rudder.io/) - Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine. ([Source Code](https://github.com/Normation/rudder)) `GPL-3.0` `Scala`
 - [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code](https://github.com/saltstack/salt)) `Apache-2.0` `Python`
+- [SiteKit](https://www.sitekit.dev) - Server management platform for deploying web applications. Provision servers, manage databases, issue SSL certificates, and deploy via Git. Alternative to Laravel Forge, Runcloud etc. ([Source Code](https://github.com/avansaber/sitekit)) `Apache-2.0` `NodeJs` `Nginx`
 
 
 ### Configuration Management Database
