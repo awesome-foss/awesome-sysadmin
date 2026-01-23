@@ -315,6 +315,7 @@ _Related: [DNS - Control Panels & Domain Management](#dns---control-panels--doma
 _See also: [awesome-selfhosted/DNS](https://awesome-selfhosted.net/tags/dns.html)_
 
 - [Bind](https://www.isc.org/bind/) - Versatile, classic, complete name server software. ([Source Code](https://gitlab.isc.org/isc-projects/bind9)) `MPL-2.0` `C`
+- [BMDNS](https://github.com/ryzeon-dev/bmdns) - A lightweight DNS server for homelabs: local records, ad-blocking, VLAN segmentation, and DoT support. No database, no web UI, just DNS. `CC-BY-SA-4.0` `Docker`
 - [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 - [djbdns](https://cr.yp.to/djbdns.html) - A collection of DNS applications, including tinydns. ([Source Code](https://salsa.debian.org/debian/djbdns)) `CC0-1.0` `C`
 - [dnsmasq](https://www.thekelleys.org.uk/dnsmasq/doc.html) - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. ([Source Code](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree)) `GPL-2.0` `C`
