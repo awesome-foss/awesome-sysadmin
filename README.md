@@ -526,7 +526,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 Network configuration management tools.
 
 - [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances. ([Source Code](https://github.com/GNS3/gns3-gui/)) `GPL-3.0` `Python`
-- [NSL Mesh Router](https://github.com/Yundera/mesh-router) - Mesh networking and routing management system providing WireGuard VPN, automatic subdomain routing, and HTTPS termination for containerized applications. ([Source Code](https://github.com/Yundera/mesh-router)) `GPL-3.0` `Go/Shell`
+- [NSL Mesh Router](https://nsl.sh) - Mesh networking and routing management system providing WireGuard VPN, automatic subdomain routing, and HTTPS termination for containerized applications. ([Source Code](https://github.com/Yundera/mesh-router-tunnel)) `GPL-3.0` `Go/Shell`
 - [OpenWISP](https://openwisp.org/) - Open Source Network Management System for OpenWRT based routers and access points. ([Demo](https://openwisp.org/demo.html), [Source Code](https://github.com/openwisp)) `GPL-3.0` `Python`
 - [Oxidized](https://github.com/ytti/oxidized) - Network device configuration backup tool. `Apache-2.0` `Ruby`
 - [phpIPAM](https://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
