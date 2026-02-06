@@ -727,7 +727,7 @@ VPN software.
 **Please visit [awesome-selfhosted/Web Servers](https://awesome-selfhosted.net/tags/web-servers.html)**
 
 
-- [BunkerWeb](https://www.bunkerweb.io) - Next-generation, open-source Web Application Firewall (WAF). ([Source Code](https://github.com/bunkerity/bunkerweb)) `AGPL-3.0` `Docker/Lua/Python`
+- [BunkerWeb](https://www.bunkerweb.io) - Next-generation, open-source Web Application Firewall (WAF). ([Demo](https://demo.bunkerweb.io), [Source Code](https://github.com/bunkerity/bunkerweb)) `AGPL-3.0` `Docker/Lua/Python`
 
 --------------------
 
