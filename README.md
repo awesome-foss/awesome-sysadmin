@@ -304,6 +304,7 @@ _See also: [awesome-selfhosted/DNS](https://awesome-selfhosted.net/tags/dns.html
 - [octoDNS](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 - [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 - [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
+- [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) - Global DNS propagation checker with real-time results across worldwide servers. ([Demo](https://dns-propagation.autocompany.workers.dev)) `MIT` `TypeScript`
 
 
 ### DNS - Servers
