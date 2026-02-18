@@ -99,6 +99,7 @@ _See also: [Restic's list of Linux backup software](https://github.com/restic/ot
 - [Duplicati](https://www.duplicati.com) - Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ([Source Code](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
 - [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity)) `GPL-2.0` `Python`
 - [Minarca](https://minarca.org/) - Client–server backup platform with a centralized web console to manage and restore Linux, Windows, and macOS backups via GUI or CLI. ([Source Code](https://gitlab.com/ikus-soft/minarca)) `AGPL-3.0` `Python`
+- [Portabase](https://portabase.io/) - Server dashboard tool that simplifies the backup and restoration of your database instances. ([Source Code](https://github.com/Portabase/portabase)) `Apache-2.0` `Docker`
 - [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
 - [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code](https://github.com/rclone/rclone)) `MIT` `Go`
 - [Rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally. ([Source Code](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
@@ -106,7 +107,6 @@ _See also: [Restic's list of Linux backup software](https://github.com/restic/ot
 - [Rsnapshot](https://rsnapshot.org/) - Filesystem snapshot utility based on rsync. ([Source Code](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
 - [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
-
 
 ### Build and software organization tools
 
