@@ -30,9 +30,9 @@
     - [DNS - Servers](#dns-servers)
     - [Editors](#editors)
     - [Identity Management](#identity-management)
-    - [Identity Management - LDAP](#identity-management-ldap)
-    - [Identity Management - Single Sign-On (SSO)](#identity-management-single-sign-on-sso)
-    - [Identity Management - Tools and web interfaces](#identity-management-tools-and-web-interfaces)
+    - [Identity Management - LDAP](#identity-management---ldap)
+    - [Identity Management - Single Sign-On (SSO)](#identity-management---single-sign-on-sso)
+    - [Identity Management - Tools and web interfaces](#identity-management---tools-and-web-interfaces)
     - [IT Asset Management](#it-asset-management)
     - [Log Management](#log-management)
     - [Mail Clients](#mail-clients)
@@ -95,10 +95,12 @@ _See also: [Restic's list of Linux backup software](https://github.com/restic/ot
 - [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
 - [Burp](https://burp.grke.org/) - Network backup and restore program. ([Source Code](https://github.com/grke/burp)) `AGPL-3.0` `C`
 - [Dar](http://dar.linux.free.fr/) - Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style. ([Source Code](https://github.com/Edrusb/DAR)) `GPL-2.0` `C++`
+- [Databasus](https://databasus.com/) - PostgreSQL, MySQL, MariaDB and MongoDB backup tool with web UI, external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management. ([Source Code](https://github.com/databasus/databasus)) `Apache-2.0` `Docker`
 - [Duplicati](https://www.duplicati.com) - Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ([Source Code](https://github.com/duplicati/duplicati)) `LGPL-2.1` `C#`
 - [Duplicity](https://duplicity.gitlab.io/) - Encrypted bandwidth-efficient backup using the rsync algorithm. ([Source Code](https://gitlab.com/duplicity/duplicity)) `GPL-2.0` `Python`
 - [Minarca](https://minarca.org/) - Client–server backup platform with a centralized web console to manage and restore Linux, Windows, and macOS backups via GUI or CLI. ([Source Code](https://gitlab.com/ikus-soft/minarca)) `AGPL-3.0` `Python`
 - [mtsaver](https://github.com/mitoteam/mtsaver) - Simple differential backup archives command-line tool. 7-Zip archiver based. `MIT` `Go`
+- [Portabase](https://portabase.io/) - Server dashboard tool that simplifies the backup and restoration of your database instances. ([Source Code](https://github.com/Portabase/portabase)) `Apache-2.0` `Docker`
 - [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts. ([Source Code](https://git.proxmox.com/?p=proxmox-backup.git;a=tree)) `GPL-3.0` `Rust`
 - [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code](https://github.com/rclone/rclone)) `MIT` `Go`
 - [Rdiff-backup](https://rdiff-backup.net/) - Reverse differential backup tool, over a network or locally. ([Source Code](https://github.com/rdiff-backup/rdiff-backup)) `GPL-2.0` `Python`
@@ -106,7 +108,6 @@ _See also: [Restic's list of Linux backup software](https://github.com/restic/ot
 - [Rsnapshot](https://rsnapshot.org/) - Filesystem snapshot utility based on rsync. ([Source Code](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
 - [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
-
 
 ### Build and software organization tools
 
@@ -244,6 +245,7 @@ Tools and scripts to support deployments to your servers.
 - [CloudStack](https://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack)) `Apache-2.0` `Java/Python`
 - [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler)) `GPL-2.0` `Python`
 - [Fabric](https://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ([Source Code](https://github.com/fabric/fabric)) `BSD-2-Clause` `Python`
+- [FaynoSync](https://faynosync.com) - Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights.  ([Source Code](https://github.com/ku9nov/faynoSync), [Clients](https://github.com/ku9nov/faynoSync-dashboard)) `Apache-2.0` `Docker/Go`
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code](https://github.com/munki/munki)) `Apache-2.0` `Python`
 - [Overcast](https://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([Source Code](https://github.com/andrewchilds/overcast)) `MIT` `Nodejs`
@@ -514,6 +516,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go)) `MIT` `Go`
 - [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status.enshittification.social/) `MIT` `Python`
 - [Thruk](https://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk)) `GPL-1.0` `Perl`
+- [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
 - [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Source Code](https://github.com/louislam/uptime-kuma)) `MIT` `NodeJS`
 - [Wazuh](https://wazuh.com/) - Unified XDR and SIEM protection for endpoints and cloud workloads. ([Source Code](https://github.com/wazuh/wazuh)) `GPL-2.0` `C`
 - [Zabbix](https://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse)) `GPL-2.0` `C`
