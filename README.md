@@ -213,6 +213,7 @@ Web hosting and server or service control panels.
 
 - [Ajenti](https://ajenti.org/) - Control panel for Linux and BSD. ([Source Code](https://github.com/ajenti/ajenti)) `MIT` `Python/Shell`
 - [Cockpit](https://cockpit-project.org/) - Web-based graphical interface for servers. ([Source Code](https://github.com/cockpit-project/cockpit)) `LGPL-2.1` `C`
+- [Distr](https://distr.sh/) - Control plane to distribute applications to self-managed, BYOC, and on-prem environments.([Source Code](https://github.com/distr-sh/distr)) `Apache-2.0` `Go`
 - [Froxlor](https://froxlor.org/) - Lightweight server management software with Nginx and PHP-FPM support. ([Source Code](https://github.com/Froxlor/Froxlor/)) `GPL-2.0` `PHP`
 - [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). ([Demo](https://demo.hestiacp.com:8083/login/), [Source Code](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
 - [ISPConfig](https://www.ispconfig.org) - Manage Linux servers directly through your browser. ([Source Code](https://git.ispconfig.org/ispconfig/ispconfig3)) `BSD-3-Clause` `PHP`
