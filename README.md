@@ -248,7 +248,7 @@ Tools and scripts to support deployments to your servers.
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code](https://github.com/munki/munki)) `Apache-2.0` `Python`
 - [Overcast](https://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([Source Code](https://github.com/andrewchilds/overcast)) `MIT` `Nodejs`
-
+- [ShipIt](https://diegostefanini.github.io/shipit/) - Deploy and infrastructure management platform. Deploy, monitor, and secure Docker services via SSH and Proxmox API with zero agents. ([Source Code](https://github.com/DiegoStefanini/shipit)) `MIT` `Nodejs`
 
 ### Diagramming
 
