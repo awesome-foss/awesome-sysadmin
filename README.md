@@ -408,6 +408,7 @@ Miscellaneous utilities and web interfaces for identity management systems.
 IT [asset management](https://en.wikipedia.org/wiki/Asset_management) software.
 
 - [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
+- [OCO](https://oco.sieber.systems/) - Self-hosted endpoint management solution - client & server inventory, configuration & policy management, software deployment, mobile device management. ([Source Code](https://github.com/schorschii/OCO-Server)) `GPL-3.0` `PHP/Python`
 - [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 - [OPSI](https://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
 - [RackTables](https://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Demo](https://www.racktables.org/demo.php), [Source Code](https://github.com/RackTables/racktables)) `GPL-2.0` `PHP`
