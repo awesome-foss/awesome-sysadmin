@@ -518,6 +518,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
 - [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Source Code](https://github.com/louislam/uptime-kuma)) `MIT` `NodeJS`
 - [Wazuh](https://wazuh.com/) - Unified XDR and SIEM protection for endpoints and cloud workloads. ([Source Code](https://github.com/wazuh/wazuh)) `GPL-2.0` `C`
+- [xymon](https://xymon.sourceforge.io/) - Monitoring tool for servers and networks. ([Source_Code](https://sourceforge.net/p/xymon/code/HEAD/tree/)) `GPL-2.0` `Perl/C/Shell`
 - [Zabbix](https://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse)) `GPL-2.0` `C`
 
 
