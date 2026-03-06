@@ -690,6 +690,7 @@ Virtualization software.
 - [Ganeti](https://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen. ([Source Code](https://github.com/ganeti/ganeti)) `BSD-2-Clause` `Python/Haskell`
 - [KVM](https://www.linux-kvm.org) - Linux kernel virtualization infrastructure. ([Source Code](https://git.kernel.org/pub/scm/virt/kvm/kvm.git/)) `GPL-2.0/LGPL-2.0` `C`
 - [OpenNebula](https://opennebula.org/) - Build and manage enterprise clouds for virtualized services, containerized applications and serverless computing. ([Source Code](https://github.com/OpenNebula/one)) `Apache-2.0` `C++`
+- [osx-proxmox](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM automation for Proxmox with TUI wizard and recovery auto-download. ([Source Code](https://github.com/lucid-fabrics/osx-proxmox-next)) `Apache-2.0` `Python`
 - [oVirt](https://www.ovirt.org/) - Manages virtual machines, storage and virtual networks. ([Source Code](https://github.com/oVirt)) `Apache-2.0` `Java`
 - [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration. ([Source Code](https://github.com/hashicorp/packer)) `MPL-2.0` `Go`
 - [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution. ([Source Code](https://git.proxmox.com/)) `GPL-2.0` `Perl/Shell`
