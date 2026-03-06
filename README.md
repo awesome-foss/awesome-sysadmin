@@ -599,6 +599,7 @@ _See also: [Cloud Native Landscape - Streaming & Messaging](https://landscape.cn
 
 _See also: [awesome-selfhosted/Remote Access](https://awesome-selfhosted.net/tags/remote-access.html)_
 
+- [NETworkManager](https://borntoberoot.net/NETworkManager/) - Windows tool for managing networks and servers via RDP, SSH, VNC, and more. ([Source Code](https://github.com/BornToBeRoot/NETworkManager)) `GPL-3.0` `C#/WPF`
 - [Remmina](https://www.remmina.org/) - Feature-rich remote desktop application for linux and other unixes. ([Source Code](https://gitlab.com/Remmina/Remmina)) `GPL-2.0` `C`
 - [Tiger VNC](https://tigervnc.org/) - High-performance, multi-platform VNC client and server. ([Source Code](https://github.com/TigerVNC/tigervnc)) `GPL-2.0` `C++`
 - [X2go](https://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol. ([Source Code](https://code.x2go.org/gitweb)) `GPL-2.0` `Perl`
