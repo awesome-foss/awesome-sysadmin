@@ -512,6 +512,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [rtop](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on SSH. `MIT` `Go`
 - [ruptime](https://github.com/alexmyczko/ruptime) - Classic system status server. `AGPL-3.0` `Shell`
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
+- [SecGate](https://github.com/zzmlb/secgate) - One-command Linux server security gateway with authentication proxy for any TCP port, real-time attack dashboard, vulnerability scanner and AI security assistant. ([Source Code](https://github.com/zzmlb/secgate)) `MIT` `Python`
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go)) `MIT` `Go`
 - [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status.enshittification.social/) `MIT` `Python`
 - [Thruk](https://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk)) `GPL-1.0` `Perl`
