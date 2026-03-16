@@ -38,7 +38,7 @@
     - [Mail Clients](#mail-clients)
     - [Metrics \& Metric Collection](#metrics-metric-collection)
     - [Miscellaneous](#miscellaneous)
-    - [Monitoring](#monitoring)
+    - [Monitoring](#monitoring--status-pages)
     - [Network Configuration Management](#network-configuration-management)
     - [PaaS](#paas)
     - [Packaging](#packaging)
@@ -48,7 +48,6 @@
     - [Router](#router)
     - [Service Discovery](#service-discovery)
     - [Software Containers](#software-containers)
-    - [Status Pages](#status-pages)
     - [Troubleshooting](#troubleshooting)
     - [Version control](#version-control)
     - [Virtualization](#virtualization)
@@ -474,7 +473,7 @@ Software that does not fit in another section.
 - [phpList](https://www.phplist.org/) - Newsletter and email marketing software. ([Source Code](https://github.com/phpList/phplist3)) `AGPL-3.0` `PHP`
 
 
-### Monitoring
+### Monitoring & Status Pages
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
@@ -642,16 +641,6 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 - [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/containers/podman)) `Apache-2.0` `Go`
 - [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code](https://github.com/portainer/portainer)) `Zlib` `Go`
 - [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code](https://github.com/systemd/systemd)) `GPL-2.0` `C`
-
-
-### Status Pages
-
-**[`^        back to top        ^`](#awesome-sysadmin)**
-
-[Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available.
-
-**Please visit [awesome-selfhosted/Status / Uptime Pages](https://awesome-selfhosted.net/tags/status--uptime-pages.html)**
-
 
 
 ### Troubleshooting
