@@ -38,7 +38,7 @@
     - [Mail Clients](#mail-clients)
     - [Metrics \& Metric Collection](#metrics-metric-collection)
     - [Miscellaneous](#miscellaneous)
-    - [Monitoring](#monitoring--status-pages)
+    - [Monitoring & Status Pages](#monitoring--status-pages)
     - [Network Configuration Management](#network-configuration-management)
     - [PaaS](#paas)
     - [Packaging](#packaging)
