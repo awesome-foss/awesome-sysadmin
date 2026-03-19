@@ -486,6 +486,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code](https://github.com/henrygd/beszel)) `MIT` `Go`
 - [Cacti](https://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. `Apache-2.0` `Go`
+- [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code](https://github.com/cstate/cstate))
 - [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Demo]([Source Code](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 - [CheckCle](https://checkcle.io) - Seamless, real-time monitoring of full-stack systems, applications, and infrastructure. ([Source Code](https://github.com/operacle/checkcle)) `MIT` `Docker`
 - [dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
