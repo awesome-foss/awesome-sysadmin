@@ -246,6 +246,7 @@ Tools and scripts to support deployments to your servers.
 - [FaynoSync](https://faynosync.com) - Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights.  ([Source Code](https://github.com/ku9nov/faynoSync), [Clients](https://github.com/ku9nov/faynoSync-dashboard)) `Apache-2.0` `Docker/Go`
 - [Genesis](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code](https://github.com/munki/munki)) `Apache-2.0` `Python`
+- [`okd-metal-installer`](https://github.com/tosin2013/okd-metal-installer) - Ansible-driven bare-metal provisioning for OKD (community Kubernetes) via static ISOs and Bootstrap-in-Place. ([Source Code](https://github.com/tosin2013/okd-metal-installer)) `Apache-2.0` `Jinja`
 - [Overcast](https://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([Source Code](https://github.com/andrewchilds/overcast)) `MIT` `Nodejs`
 
 
