@@ -486,6 +486,7 @@ Monitoring software.
 
 _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
+- [Admirarr](https://github.com/maxtechera/admirarr) - Unified CLI for Jellyfin/Plex + \*Arr media server stacks — fleet status, health diagnostics, and automated repair from a single terminal. ([Source Code](https://github.com/maxtechera/admirarr)) `MIT` `Go`
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code](https://github.com/henrygd/beszel)) `MIT` `Go`
