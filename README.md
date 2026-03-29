@@ -40,6 +40,7 @@
     - [Miscellaneous](#miscellaneous)
     - [Monitoring & Status Pages](#monitoring--status-pages)
     - [Network Configuration Management](#network-configuration-management)
+    - [NTP](#ntp)
     - [PaaS](#paas)
     - [Packaging](#packaging)
     - [Project Management](#project-management)
@@ -544,6 +545,17 @@ Network configuration management tools.
 - [phpIPAM](https://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
 - [RANCID](https://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
 - [rConfig](https://www.rconfig.com/) - Network device configuration management tool. ([Source Code](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
+
+
+### NTP
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
+Network Time Protocol servers and clients.
+
+- [Chrony](https://chrony-project.org/) - A versatile implementation of the Network Time Protocol (NTP).
+- [NTPsec](https://www.ntpsec.org/) - A secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic.
+- [OpenNTPD](https://www.openntpd.org/) - A FREE, easy to use implementation of the Network Time Protocol.
 
 
 ### PaaS
