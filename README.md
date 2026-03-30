@@ -399,6 +399,7 @@ Miscellaneous utilities and web interfaces for identity management systems.
 - [Samba](https://www.samba.org/) - Active Directory and CIFS protocol implementation. ([Source Code](https://download.samba.org/pub/samba/)) `GPL-3.0` `C`
 - [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 - [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
+- [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate sudo on any Mac without Touch ID. PAM module + BLE daemon. `MIT` `Swift/C`
 
 
 ### IT Asset Management
