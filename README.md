@@ -461,6 +461,7 @@ _Related: [Databases](#databases), [Monitoring](#monitoring)_
 - [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - Gathers data from local collectors and pushes the data to OpenTSDB. ([Source Code](https://github.com/OpenTSDB/tcollector/)) `LGPL-3.0/GPL-3.0` `Python`
 - [Telegraf](https://github.com/influxdata/telegraf) - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics. `MIT` `Go`
 - [VictoriaMetrics](https://victoriametrics.com/) - Fast, cost-effective time series database and monitoring solution; drop-in replacement for Prometheus with PromQL/MetricsQL support. ([Source Code](https://github.com/VictoriaMetrics/VictoriaMetrics)) `Apache-2.0` `Go`
+- [vmagent](https://docs.victoriametrics.com/victoriametrics/vmagent/) - Lightweight agent for metrics collection and forwarding. `Apache2` `Go`
 
 
 
