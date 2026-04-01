@@ -707,6 +707,7 @@ Virtualization software.
 
 VPN software.
 
+- [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - One-command installer for AmneziaWG 2.0 VPN with DPI-resistant obfuscation on Ubuntu and Debian. `MIT` `Shell`
 - [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 - [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 - [Firezone](https://www.firezone.dev/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
