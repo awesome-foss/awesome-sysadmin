@@ -48,6 +48,7 @@
     - [Router](#router)
     - [Service Discovery](#service-discovery)
     - [Software Containers](#software-containers)
+    - [Time Servers](#time-servers)
     - [Troubleshooting](#troubleshooting)
     - [Version control](#version-control)
     - [Virtualization](#virtualization)
@@ -654,6 +655,19 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 - [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/containers/podman)) `Apache-2.0` `Go`
 - [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code](https://github.com/portainer/portainer)) `Zlib` `Go`
 - [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code](https://github.com/systemd/systemd)) `GPL-2.0` `C`
+
+
+### Time Servers
+
+**[`^        back to top        ^`](#awesome-sysadmin)**
+
+Time synchronization servers and clients (NTP, PTP, Roughtime).
+
+- [Chrony](https://chrony-project.org/) - A versatile implementation of the Network Time Protocol (NTP). ([Source Code](https://gitlab.com/chrony/chrony)) `GPL-2.0` `C`
+- [NTPsec](https://www.ntpsec.org/) - A secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic. ([Source Code](https://gitlab.com/NTPsec/ntpsec)) `BSD-2-Clause/Custom` `C`
+- [OpenNTPD](https://www.openntpd.org/) - A FREE, easy to use implementation of the Network Time Protocol. ([Source Code](https://github.com/openntpd-portable/openntpd-openbsd/)) `ISC` `C`
+- [Roughenough](https://github.com/int08h/roughenough) - A Roughtime secure time synchronization client and server. `MIT/Apache-2.0` `Rust`
+- [Statime](https://github.com/pendulum-project/statime) - A Precision Time Protocol (PTP) implementation in Rust. `MIT/Apache-2.0` `Rust`
 
 
 ### Troubleshooting
