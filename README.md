@@ -268,7 +268,7 @@ Tools used to create diagrams of networks, flows, etc.
 
 Network distributed filesystems.
 
-_See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](https://awesome-selfhosted.net/tags/file-transfer---object-storage--file-servers.html)_
+_See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](https://awesome-selfhosted.net/tags/file-transfer---object-storage--file-servers.html), [Awesome Object Storage](https://github.com/mixpeek/awesome-object-storage) - 21 S3-compatible providers compared (pricing, gotchas, migration costs)_
 
 - [Ceph](https://ceph.com/en/) - Distributed object, block, and file storage platform. ([Source Code](https://github.com/ceph/ceph)) `LGPL-3.0` `C++`
 - [DRBD](https://linbit.com/drbd/) - Distributed replicated storage system, implemented as a Linux kernel driver. ([Source Code](https://github.com/LINBIT/drbd)) `GPL-2.0` `C`
