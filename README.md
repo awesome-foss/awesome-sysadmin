@@ -732,6 +732,7 @@ VPN software.
 - [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features. ([Source Code](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
 - [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
+- [WgDashboard++](https://github.com/polumish/wgdashboard-plus-plus) - Web dashboard to manage WireGuard servers and peers (fork of WGDashboard) with client self-service portal, dual-column peer view, and OPNsense integration. `Apache-2.0` `Python/Docker`
 - [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. ([Source Code](https://www.wireguard.com/repositories/)) `GPL-2.0` `C`
 
 
