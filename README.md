@@ -39,6 +39,7 @@
     - [Metrics \& Metric Collection](#metrics-metric-collection)
     - [Miscellaneous](#miscellaneous)
     - [Monitoring & Status Pages](#monitoring--status-pages)
+- [Glitch](https://github.com/Ankitajainkuniya/glitch-widget) - AI bug reporting with uptime monitoring and error alerting. `MIT`
     - [Network Configuration Management](#network-configuration-management)
     - [PaaS](#paas)
     - [Packaging](#packaging)
