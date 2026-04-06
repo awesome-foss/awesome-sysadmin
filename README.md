@@ -7,6 +7,7 @@
 
 --------------------
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for automated infrastructure monitoring, system administration, and multi-agent orchestration. MIT licensed.
 ## Table of contents
 
 - [Awesome Sysadmin](#awesome-sysadmin)
