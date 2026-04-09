@@ -303,6 +303,10 @@ _See also: [awesome-selfhosted/DNS](https://awesome-selfhosted.net/tags/dns.html
 - [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
 - [octoDNS](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 - [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
+- [DNSChecker](https://dnschecker.org) - DNS propagation checker that queries 100+ DNS servers worldwide to verify record changes. `Proprietary` `Web`
+- [IntoDNS](https://intodns.com) - DNS health and mail server configuration checker that reports misconfigurations and best-practice issues. `Proprietary` `Web`
+- [iptoolspro.com](https://iptoolspro.com) - Browser-based network diagnostic tools: IP lookup, DNS records, port checker, WHOIS, VPN leak test, IP blacklist check. `Proprietary` `Web`
+- [MXToolbox](https://mxtoolbox.com) - Free online tools to investigate MX records, DNS propagation, blacklists, SMTP diagnostics, and network lookups. `Proprietary` `Web`
 - [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
 
