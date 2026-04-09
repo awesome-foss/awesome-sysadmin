@@ -732,6 +732,7 @@ VPN software.
 - [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features. ([Source Code](https://github.com/SoftEtherVPN/SoftEtherVPN/)) `Apache-2.0` `C`
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Poor man's VPN. `LGPL-2.1` `Python`
 - [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux. ([Source Code](https://github.com/strongswan/strongswan)) `GPL-2.0` `C`
+- [TiredVPN](https://github.com/tiredvpn/tiredvpn) - DPI-resistant VPN with 20+ obfuscation strategies and adaptive fallback for censored networks. ([Source Code](https://github.com/tiredvpn/tiredvpn)) `AGPL-3.0` `Go/Docker`
 - [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto. ([Source Code](https://www.wireguard.com/repositories/)) `GPL-2.0` `C`
 
 
