@@ -428,6 +428,7 @@ Log management tools: collect, parse, visualize...
 - [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 - [reaction](https://reaction.ppom.me/) - A lightweight daemon that scans program outputs for repeated patterns, and takes action. ([Source Code](https://framagit.org/ppom/reaction)) `AGPL-3.0` `Rust`
 - [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
+- [PFC-JSONL](https://github.com/ImpossibleForge/pfc-jsonl) - Specialized JSONL log compressor with block-level timestamp indexing for efficient storage and querying. Fluent Bit compatible, DuckDB integration. ([Source Code](https://github.com/ImpossibleForge/pfc-jsonl)) `Proprietary` `Python`
 
 
 ### Mail Clients
