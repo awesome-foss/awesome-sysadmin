@@ -492,7 +492,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code](https://github.com/henrygd/beszel)) `MIT` `Go`
 - [Cacti](https://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. `Apache-2.0` `Go`
-- [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code](https://github.com/cstate/cstate))
+- [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code](https://github.com/cstate/cstate)) `MIT` `HTML`
 - [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Demo]([Source Code](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 - [CheckCle](https://checkcle.io) - Seamless, real-time monitoring of full-stack systems, applications, and infrastructure. ([Source Code](https://github.com/operacle/checkcle)) `MIT` `Docker`
 - [dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
@@ -513,8 +513,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
 - [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 - [Observium Community Edition](http://www.observium.org/) - Network monitoring and management platform that provides real-time insight into network health and performance. `QPL-1.0` `PHP`
-- [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code](https://github.com/openITCOCKPIT/openITCOCKPIT)) 
-`GPL-3.0` `deb/Docker`
+- [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code](https://github.com/openITCOCKPIT/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
 - [OneUptime](https://oneuptime.com) - A comprehensive solution for monitoring and managing your online services. ([Source Code](https://github.com/oneuptime/oneuptime)) `Apache-2.0` `Docker`
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. ([Source Code](https://github.com/performancecopilot/pcp)) `LGPL-2.1/GPL-2.0` `C`
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon)) `GPL-3.0` `PHP`
@@ -525,7 +524,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [ruptime](https://github.com/alexmyczko/ruptime) - Classic system status server. `AGPL-3.0` `Shell`
 - [Scrutiny](https://github.com/AnalogJ/scrutiny) - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds. `MIT` `Go`
 - [Sensu](https://sensu.io/) - Monitoring tool for ephemeral infrastructure and distributed applications. ([Source Code](https://github.com/sensu/sensu-go)) `MIT` `Go`
-- [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status.enshittification.social/) `MIT` `Python`
+- [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status.enshittification.social/)) `MIT` `Python`
 - [Thruk](https://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk)) `GPL-1.0` `Perl`
 - [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
 - [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Source Code](https://github.com/louislam/uptime-kuma)) `MIT` `NodeJS`
@@ -724,7 +723,7 @@ VPN software.
 - [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 - [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 - [Firezone](https://www.firezone.dev/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
-- [Gluetun VPN client](https://github.com/qdm12/gluetun) -  VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.  `MIT` `docker`
+- [Gluetun VPN client](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. `MIT` `docker`
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
 - [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
