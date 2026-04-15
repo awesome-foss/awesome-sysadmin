@@ -1,4 +1,5 @@
-<!-- DO NOT DELETE THE TEXT BELOW. Please make sure relevant boxes are checked [x] -->
+<!-- IF YOUR PULL REQUEST ADDS NEW SOFTWARE TO THE LIST, DO NOT DELETE THE TEXT BELOW. -->
+<!-- Please make sure relevant boxes are checked [x] -->
 
 Thank you for taking the time to work on a PR for Awesome-Sysadmin!
 
