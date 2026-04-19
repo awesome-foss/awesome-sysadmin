@@ -488,6 +488,7 @@ Monitoring software.
 _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
+- [AgentPulse](https://agentpulse.dustinnstroud.com) - AI-powered server monitoring with auto-remediation. Kill runaway processes, restart crashed services, free disk space automatically. ([Source Code](https://github.com/strouddustinn-bot/agentpulse)) `MIT` `Shell/Go`
 - [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code](https://github.com/henrygd/beszel)) `MIT` `Go`
 - [Cacti](https://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
