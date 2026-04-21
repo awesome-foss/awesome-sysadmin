@@ -106,6 +106,7 @@ _See also: [Restic's list of Linux backup software](https://github.com/restic/ot
 - [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
 - [Rsnapshot](https://rsnapshot.org/) - Filesystem snapshot utility based on rsync. ([Source Code](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
 - [Shield](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
+- [TimeNest](https://github.com/momenbasel/timenest) - Self-hosted network Time Machine server that turns a Mac mini, Raspberry Pi, or any Linux host into a Time Capsule replacement for every Mac on the LAN. Docker stack: Samba with `vfs_fruit`, Avahi for Bonjour discovery, FastAPI admin UI with per-user quotas and Prometheus metrics. `MIT` `Docker/Python`
 - [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
 
 ### Build and software organization tools
