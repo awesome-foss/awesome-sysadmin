@@ -166,6 +166,7 @@ _See also: [/r/chatops](https://old.reddit.com/r/chatops)*
 - [OpenVox](https://voxpupuli.org/openvox/) - Community fork of the last open source version of [Puppet](https://www.puppet.com/), a software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code](https://github.com/OpenVoxProject/openvox)) `Apache-2.0` `Ruby/C`
 - [Rudder](https://www.rudder.io/) - Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine. ([Source Code](https://github.com/Normation/rudder)) `GPL-3.0` `Scala`
 - [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code](https://github.com/saltstack/salt)) `Apache-2.0` `Python`
+- [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator, formatter and viewer with JSON Schema support for Ansible, Kubernetes, Docker Compose, and other configuration formats.
 
 
 ### Configuration Management Database
