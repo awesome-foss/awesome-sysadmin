@@ -89,6 +89,7 @@ Build automation.
 _See also: [Restic's list of Linux backup software](https://github.com/restic/others)_
 
 - [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. `GPL-2.0` `Shell`
+- [Backup Manager](https://github.com/nomad4tech/backup-manager) - Web UI for scheduling PostgreSQL, MySQL and MariaDB backups from Docker containers via Docker exec API. No credentials stored in config files. ([Source Code](https://github.com/nomad4tech/backup-manager)) `MIT` `Java/Docker`
 - [Backrest](https://garethgeorge.github.io/backrest/) - Backrest is a web UI and orchestrator for restic backup. ([Source Code](https://github.com/garethgeorge/backrest)) `GPL-3.0` `Docker/Go`
 - [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 - [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
