@@ -488,6 +488,8 @@ Monitoring software.
 
 _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 
+- [KubeStellar Console](https://console.kubestellar.io/) - AI-powered multi-cluster Kubernetes dashboard with real-time observability, CNCF project integrations, and edge/cloud cluster management. ([Source Code](https://github.com/kubestellar/console)) `Apache-2.0` `Go/TypeScript`
+
 - [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 - [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code](https://github.com/henrygd/beszel)) `MIT` `Go`
