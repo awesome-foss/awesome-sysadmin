@@ -451,7 +451,7 @@ An [email client](https://en.wikipedia.org/wiki/Email_client), email reader or, 
 
 Metric gathering and display software.
 
-_Related: [Databases](#databases), [Monitoring](#monitoring)_
+_Related: [Databases](#databases), [Monitoring & Status Pages](#monitoring--status-pages)_
 
 - [Beats](https://www.elastic.co/beats/) - Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ([Source Code](https://github.com/elastic/beats)) `Apache-2.0` `Go`
 - [Collectd](https://collectd.org/) - System statistics collection daemon. ([Source Code](https://github.com/collectd/collectd)) `MIT` `C`
@@ -528,7 +528,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Status](https://github.com/dani3l0/Status) - Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface. ([Demo](https://status.enshittification.social/)) `MIT` `Python`
 - [Thruk](https://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken. ([Source Code](https://github.com/sni/Thruk)) `GPL-1.0` `Perl`
 - [tirreno](https://www.tirreno.com/) - Application-level security to protect your app from threats, fraud, and abuse. ([Demo](https://play.tirreno.com/), [Source Code](https://github.com/tirrenotechnologies/tirreno)) `AGPL-3.0` `PHP/Docker`
-- [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Source Code](https://github.com/louislam/uptime-kuma)) `MIT` `NodeJS`
+- [Uptime Kuma](https://uptime.kuma.pet/) - Modern, self-hosted monitoring tool with a clean UI and rich notification support. ([Source Code](https://github.com/louislam/uptime-kuma)) `MIT` `Nodejs`
 - [Wazuh](https://wazuh.com/) - Unified XDR and SIEM protection for endpoints and cloud workloads. ([Source Code](https://github.com/wazuh/wazuh)) `GPL-2.0` `C`
 - [Zabbix](https://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. ([Source Code](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse)) `GPL-2.0` `C`
 
@@ -664,7 +664,7 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 Time synchronization servers and clients (NTP, PTP, Roughtime).
 
 - [Chrony](https://chrony-project.org/) - A versatile implementation of the Network Time Protocol (NTP). ([Source Code](https://gitlab.com/chrony/chrony)) `GPL-2.0` `C`
-- [NTPsec](https://www.ntpsec.org/) - A secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic. ([Source Code](https://gitlab.com/NTPsec/ntpsec)) `BSD-2-Clause/Custom` `C`
+- [NTPsec](https://www.ntpsec.org/) - A secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic. ([Source Code](https://gitlab.com/NTPsec/ntpsec)) `BSD-2-Clause` `C`
 - [OpenNTPD](https://www.openntpd.org/) - A FREE, easy to use implementation of the Network Time Protocol. ([Source Code](https://github.com/openntpd-portable/openntpd-openbsd/)) `ISC` `C`
 - [Roughenough](https://github.com/int08h/roughenough) - A Roughtime secure time synchronization client and server. `MIT/Apache-2.0` `Rust`
 - [Statime](https://github.com/pendulum-project/statime) - A Precision Time Protocol (PTP) implementation in Rust. `MIT/Apache-2.0` `Rust`
@@ -724,7 +724,7 @@ VPN software.
 - [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 - [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 - [Firezone](https://www.firezone.dev/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
-- [Gluetun VPN client](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. `MIT` `docker`
+- [Gluetun VPN client](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. `MIT` `Docker`
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
 - [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/ocserv/ocserv)) `GPL-2.0` `C`
