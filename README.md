@@ -745,6 +745,7 @@ VPN software.
 
 
 --------------------
+- [ci-doctor](https://github.com/depmedicdev-byte/ci-doctor) `MIT` `Node` - Audits GitHub Actions workflows for cost waste, security gaps, and reliability issues. 16 rules. SARIF + PR comment integration.
 
 ## List of Licenses
 
