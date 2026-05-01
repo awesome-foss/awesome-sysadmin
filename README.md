@@ -115,7 +115,7 @@ _See also: [Restic's list of Linux backup software](https://github.com/restic/ot
 Build and software organization tools.
 
 - [EasyBuild](https://easybuild.io/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ([Source Code](https://github.com/easybuilders/easybuild-easyconfigs)) `GPL-2.0` `Python`
-- [Environment Modules](https://cea-hpc.github.io/modules/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code](https://github.com/envmodules/modules)) `GPL-2.0` `Tcl`
+- [Environment Modules](https://envmodules.io/) - Environment Modules provides for the dynamic modification of a user's environment via modulefiles. ([Source Code](https://github.com/envmodules/modules)) `GPL-2.0` `Tcl`
 - [Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem. ([Source Code](https://github.com/TACC/Lmod)) `MIT` `Lua`
 - [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
@@ -192,7 +192,7 @@ _Related: [IT Asset Management](#it-asset-management)_
 - [Buildbot](https://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 - [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 - [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
-- [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code](https://github.com/harness/harness)) `Apache-2.0` `Go`
+- [Harness](https://www.harness.io/open-source) - End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Harness). ([Source Code](https://github.com/harness/harness)) `Apache-2.0` `Go`
 - [Factor](https://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code](https://github.com/factor-io/factor)) `MIT` `Ruby`
 - [GitLab CI](https://about.gitlab.com/solutions/continuous-integration/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby`
 - [GoCD](https://www.go.cd/) - Continuous delivery server. ([Source Code](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
