@@ -298,7 +298,7 @@ _See also: [awesome-selfhosted/DNS](https://awesome-selfhosted.net/tags/dns.html
 
 - [Atomia DNS](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate)) `Apache-2.0` `Python`
-- [DNSControl](https://dnscontrol.org/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code](https://github.com/itstoragesvc/dnscontrol)) `MIT` `Go/Docker`
+- [DNSControl](https://dnscontrol.org/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code](https://github.com/DNSControl/dnscontrol)) `MIT` `Go/Docker`
 - [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
 - [nsupdate.info](https://www.nsupdate.info/) - Dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`
 - [octoDNS](https://github.com/octodns/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
