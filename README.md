@@ -513,6 +513,7 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Nezha](https://nezha.wiki/en_US/) - Lightweight, servers & websites monitoring and O&M tool. ([Source Code](https://github.com/nezhahq/nezha)) `Apache-2.0` `Go/Shell`
 - [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
 - [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+- [Nexis](https://github.com/s4solutionsllc/Nexis) - Cross-platform desktop system optimizer and monitoring tool for Linux & macOS (CPU, RAM, GPU, Docker, disk health). ([Source Code](https://github.com/s4solutionsllc/Nexis)) `GPL-3.0` `C++`
 - [Observium Community Edition](http://www.observium.org/) - Network monitoring and management platform that provides real-time insight into network health and performance. `QPL-1.0` `PHP`
 - [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code](https://github.com/openITCOCKPIT/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
 - [OneUptime](https://oneuptime.com) - A comprehensive solution for monitoring and managing your online services. ([Source Code](https://github.com/oneuptime/oneuptime)) `Apache-2.0` `Docker`
