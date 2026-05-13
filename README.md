@@ -473,6 +473,7 @@ _Related: [Databases](#databases), [Monitoring & Status Pages](#monitoring--stat
 
 Software that does not fit in another section.
 
+- [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted agent memory server for AI workflows. Stores and retrieves structured memories using RocksDB persistence and HNSW vector indexing. MCP protocol integration for connecting AI agents to local persistent storage without external dependencies. ([Source Code](https://github.com/dakera-ai/dakera-mcp)) `Apache-2.0` `Rust`
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. ([Source Code](https://github.com/chocolatey/choco)) `Apache-2.0` `C#/PowerShell`
 - [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program. ([Source Code](https://clonezilla.org/downloads/src/)) `GPL-2.0` `Perl/Shell/Other`
 - [DadaMail](https://dadamailproject.com/) - Mailing List Manager, written in Perl. ([Source Code](https://sourceforge.net/projects/dadamail/files/)) `GPL-2.0` `Perl`
