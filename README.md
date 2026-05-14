@@ -39,6 +39,7 @@
     - [Metrics \& Metric Collection](#metrics--metric-collection)
     - [Miscellaneous](#miscellaneous)
     - [Monitoring & Status Pages](#monitoring--status-pages)
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool.
     - [Network Configuration Management](#network-configuration-management)
     - [PaaS](#paas)
     - [Packaging](#packaging)
