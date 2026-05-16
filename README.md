@@ -338,7 +338,6 @@ Open-source code editors.
 - [Geany](https://www.geany.org/) - GTK2 text editor. ([Source Code](https://github.com/geany/geany)) `GPL-2.0` `C/C++`
 - [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more. ([Source Code](https://github.com/emacs-mirror/emacs)) `GPL-3.0` `C`
 - [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview. ([Source Code](https://github.com/rhiokim/haroopad)) `GPL-3.0` `JavaScript`
-- [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing. `MIT` `Nodejs`
 - [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE. ([Source Code](https://invent.kde.org/kdevelop/kdevelop)) `GFDL-1.2` `C++`
 - [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code](https://github.com/micro-editor/micro)) `MIT` `Go`
 - [Nano](https://nano-editor.org) - Easy to use, customizable text editor. ([Source Code](https://git.savannah.gnu.org/cgit/nano.git/tree/)) `GPL-3.0` `C`
