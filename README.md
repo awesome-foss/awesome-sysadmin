@@ -239,6 +239,7 @@ _See also: [awesome-selfhosted/Database Management](https://awesome-selfhosted.n
 
 Tools and scripts to support deployments to your servers.
 
+- [Agyn](https://agyn.io/) - Kubernetes-native platform for deploying and operating AI agents with serverless execution, Terraform configuration, MCP tool isolation, and observability. ([Source Code](https://github.com/agynio/platform)) `AGPL-3.0` `Go`
 - [Capistrano](https://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based). ([Source Code](https://github.com/capistrano/capistrano)) `MIT` `Ruby`
 - [CloudSlang](https://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities. ([Source Code](https://github.com/CloudSlang/score)) `Apache-2.0` `Java`
 - [CloudStack](https://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack)) `Apache-2.0` `Java/Python`
