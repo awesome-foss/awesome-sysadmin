@@ -1,65 +1,68 @@
 # Awesome Sysadmin
 
-[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![](https://github.com/awesome-foss/awesome-sysadmin/actions/workflows/ci.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin/issues/416)
+[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/dead-links.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin-data/issues/1) [![](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/unmaintained-projects.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin-data/issues/1)
 
-**A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Pull Request template](./.github/PULL_REQUEST_TEMPLATE.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly. Please consider contributing to fix one of the pinned [issues](https://github.com/awesome-foss/awesome-sysadmin/issues) if your time allows.
+**A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Contributing](#contributing) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly. Please consider contributing to fix one of the pinned [issues](https://github.com/awesome-foss/awesome-sysadmin-data/issues) if your time allows.
+
+**[HTML version](https://sysadmin.awesome-selfhosted.net/) (recommended)**, **[Markdown version](https://github.com/awesome-foss/awesome-sysadmin)** (legacy).
+
+See [Contributing](#contributing).
 
 --------------------
 
 ## Table of contents
 
-- [Awesome Sysadmin](#awesome-sysadmin)
-  - [Table of contents](#table-of-contents)
-  - [Software](#software)
-    - [Automation](#automation)
-    - [Backups](#backups)
-    - [Build and software organization tools](#build-and-software-organization-tools)
-    - [ChatOps](#chatops)
-    - [Cloud Computing](#cloud-computing)
-    - [Code Review](#code-review)
-    - [Configuration Management](#configuration-management)
-    - [Configuration Management Database](#configuration-management-database)
-    - [Continuous Integration \& Continuous Deployment](#continuous-integration--continuous-deployment)
-    - [Control Panels](#control-panels)
-    - [Databases](#databases)
-    - [Deployment Automation](#deployment-automation)
-    - [Diagramming](#diagramming)
-    - [Distributed Filesystems](#distributed-filesystems)
-    - [DNS - Control Panels \& Domain Management](#dns---control-panels--domain-management)
-    - [DNS - Servers](#dns---servers)
-    - [Editors](#editors)
-    - [Identity Management](#identity-management)
-    - [Identity Management - LDAP](#identity-management---ldap)
-    - [Identity Management - Single Sign-On (SSO)](#identity-management---single-sign-on-sso)
-    - [Identity Management - Tools and web interfaces](#identity-management---tools-and-web-interfaces)
-    - [IT Asset Management](#it-asset-management)
-    - [Log Management](#log-management)
-    - [Mail Clients](#mail-clients)
-    - [Metrics \& Metric Collection](#metrics--metric-collection)
-    - [Miscellaneous](#miscellaneous)
-    - [Monitoring & Status Pages](#monitoring--status-pages)
-    - [Network Configuration Management](#network-configuration-management)
-    - [PaaS](#paas)
-    - [Packaging](#packaging)
-    - [Project Management](#project-management)
-    - [Queuing](#queuing)
-    - [Remote Desktop Clients](#remote-desktop-clients)
-    - [Router](#router)
-    - [Service Discovery](#service-discovery)
-    - [Software Containers](#software-containers)
-    - [Time Servers](#time-servers)
-    - [Troubleshooting](#troubleshooting)
-    - [Version control](#version-control)
-    - [Virtualization](#virtualization)
-    - [VPN](#vpn)
-    - [Web](#web)
-  - [List of Licenses](#list-of-licenses)
-  - [External links](#external-links)
+- [Software](#software)
+  - [Automation](#automation)
+  - [Backups](#backups)
+  - [Build and software organization tools](#build-and-software-organization-tools)
+  - [ChatOps](#chatops)
+  - [Cloud Computing](#cloud-computing)
+  - [Code Review](#code-review)
+  - [Configuration Management](#configuration-management)
+  - [Configuration Management Database](#configuration-management-database)
+  - [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
+  - [Control Panels](#control-panels)
+  - [Databases](#databases)
+  - [Deployment Automation](#deployment-automation)
+  - [Diagramming](#diagramming)
+  - [Distributed Filesystems](#distributed-filesystems)
+  - [DNS - Control Panels & Domain Management](#dns---control-panels--domain-management)
+  - [DNS - Servers](#dns---servers)
+  - [Editors](#editors)
+  - [Identity Management](#identity-management)
+  - [Identity Management - LDAP](#identity-management---ldap)
+  - [Identity Management - Single Sign-On (SSO)](#identity-management---single-sign-on-sso)
+  - [Identity Management - Tools and web interfaces](#identity-management---tools-and-web-interfaces)
+  - [IT Asset Management](#it-asset-management)
+  - [Log Management](#log-management)
+  - [Mail Clients](#mail-clients)
+  - [Metrics & Metric Collection](#metrics--metric-collection)
+  - [Miscellaneous](#miscellaneous)
+  - [Monitoring & Status Pages](#monitoring--status-pages)
+  - [Network Configuration Management](#network-configuration-management)
+  - [PaaS](#paas)
+  - [Packaging](#packaging)
+  - [Project Management](#project-management)
+  - [Queuing](#queuing)
+  - [Remote Desktop Clients](#remote-desktop-clients)
+  - [Router](#router)
+  - [Service Discovery](#service-discovery)
+  - [Software Containers](#software-containers)
+  - [Time Servers](#time-servers)
+  - [Troubleshooting](#troubleshooting)
+  - [Version control](#version-control)
+  - [Virtualization](#virtualization)
+  - [VPN](#vpn)
+  - [Web](#web)
+- [List of Licenses](#list-of-licenses)
+- [Anti-features](#anti-features)
+- [External links](#external-links)
   - [Communities / Forums](#communities--forums)
   - [Repositories](#repositories)
   - [Websites](#websites)
-  - [License](#license)
+- [Contributing](#contributing)
+- [License](#license)
 
 --------------------
 
@@ -88,8 +91,8 @@ Build automation.
 
 _See also: [Restic's list of Linux backup software](https://github.com/restic/others)_
 
-- [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. `GPL-2.0` `Shell`
 - [Backrest](https://garethgeorge.github.io/backrest/) - Backrest is a web UI and orchestrator for restic backup. ([Source Code](https://github.com/garethgeorge/backrest)) `GPL-3.0` `Docker/Go`
+- [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. `GPL-2.0` `Shell`
 - [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 - [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
 - [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
@@ -107,6 +110,7 @@ _See also: [Restic's list of Linux backup software](https://github.com/restic/ot
 - [Rsnapshot](https://rsnapshot.org/) - Filesystem snapshot utility based on rsync. ([Source Code](https://github.com/rsnapshot/rsnapshot)) `GPL-2.0` `Perl`
 - [Shield](https://github.com/shieldproject/shield) - A pluggable architecture for backup and restore of database systems. `MIT` `Go`
 - [UrBackup](https://www.urbackup.org/) - Client/Server Open Source Network Backup for Windows, MacOS and Linux. ([Source Code](https://github.com/uroni/urbackup_backend)) `AGPL-3.0` `C/C++`
+
 
 ### Build and software organization tools
 
@@ -244,7 +248,7 @@ Tools and scripts to support deployments to your servers.
 - [CloudStack](https://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services. ([Source Code](https://github.com/apache/cloudstack)) `Apache-2.0` `Java/Python`
 - [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. ([Source Code](https://github.com/cobbler/cobbler)) `GPL-2.0` `Python`
 - [Fabric](https://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ([Source Code](https://github.com/fabric/fabric)) `BSD-2-Clause` `Python`
-- [FaynoSync](https://faynosync.com) - Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights.  ([Source Code](https://github.com/ku9nov/faynoSync), [Clients](https://github.com/ku9nov/faynoSync-dashboard)) `Apache-2.0` `Docker/Go`
+- [FaynoSync](https://faynosync.com) - Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights. ([Source Code](https://github.com/ku9nov/faynoSync), [Clients](https://github.com/ku9nov/faynoSync-dashboard)) `Apache-2.0` `Docker/Go`
 - [Genesis](https://github.com/genesis-community/genesis) - A template framework for multi-environment BOSH deployments. `MIT` `Perl`
 - [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ([Source Code](https://github.com/munki/munki)) `Apache-2.0` `Python`
 - [Overcast](https://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH. ([Source Code](https://github.com/andrewchilds/overcast)) `MIT` `Nodejs`
@@ -295,7 +299,6 @@ _Related: [DNS - Servers](#dns---servers)_
 
 _See also: [awesome-selfhosted/DNS](https://awesome-selfhosted.net/tags/dns.html)_
 
-- [Atomia DNS](https://github.com/atomia/atomiadns/) - DNS management system. `ISC` `Perl`
 - [Designate](https://wiki.openstack.org/wiki/Designate) - DNSaaS services for OpenStack. ([Source Code](https://opendev.org/openstack/designate)) `Apache-2.0` `Python`
 - [DNSControl](https://dnscontrol.org/) - Synchronize your DNS to multiple providers from a simple DSL. ([Source Code](https://github.com/DNSControl/dnscontrol)) `MIT` `Go/Docker`
 - [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location. ([Source Code](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
@@ -408,7 +411,7 @@ IT [asset management](https://en.wikipedia.org/wiki/Asset_management) software.
 
 - [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
 - [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
-- [openDCIM](https://opendcim.org/) - GPL v3 Data Center Inventory Management (DCIM). ([Source Code](https://github.com/opendcim/openDCIM), [Demo](https://opendcim.org/demo.html)) `GPL-3.0` `PHP/JavaScript`
+- [openDCIM](https://opendcim.org/) - GPL v3 Data Center Inventory Management (DCIM). ([Demo](https://opendcim.org/demo.html), [Source Code](https://github.com/opendcim/openDCIM)) `GPL-3.0` `PHP/JavaScript`
 - [OPSI](https://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
 - [RackTables](https://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Demo](https://www.racktables.org/demo.php), [Source Code](https://github.com/RackTables/racktables)) `GPL-2.0` `PHP`
 - [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Demo](https://github.com/allegro/ralph#live-demo), [Source Code](https://github.com/allegro/ralph)) `Apache-2.0` `Python/Docker`
@@ -463,8 +466,6 @@ _Related: [Databases](#databases), [Monitoring & Status Pages](#monitoring--stat
 - [VictoriaMetrics](https://victoriametrics.com/) - Fast, cost-effective time series database and monitoring solution; drop-in replacement for Prometheus with PromQL/MetricsQL support. ([Source Code](https://github.com/VictoriaMetrics/VictoriaMetrics)) `Apache-2.0` `Go`
 
 
-
-
 ### Miscellaneous
 
 **[`^        back to top        ^`](#awesome-sysadmin)**
@@ -491,9 +492,9 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code](https://github.com/henrygd/beszel)) `MIT` `Go`
 - [Cacti](https://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. `Apache-2.0` `Go`
-- [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code](https://github.com/cstate/cstate)) `MIT` `HTML`
-- [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 - [CheckCle](https://checkcle.io) - Seamless, real-time monitoring of full-stack systems, applications, and infrastructure. ([Source Code](https://github.com/operacle/checkcle)) `MIT` `Docker`
+- [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
+- [cState](https://cstate.netlify.app/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code](https://github.com/cstate/cstate)) `MIT` `HTML`
 - [dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
 - [EdMon](https://github.com/eahlys/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 - [eZ Server Monitor](https://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
@@ -508,12 +509,12 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [Monit](https://mmonit.com/monit/#home) - Small utility for managing and monitoring Unix systems. ([Source Code](https://bitbucket.org/tildeslash/monit/src/master/)) `AGPL-3.0` `C`
 - [Munin](https://munin-monitoring.org/) - Networked resource monitoring tool. ([Source Code](https://github.com/munin-monitoring/munin)) `GPL-2.0` `Perl/Shell`
 - [Naemon](https://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features. ([Source Code](https://github.com/naemon/naemon-core)) `GPL-2.0` `C`
-- [Nezha](https://nezha.wiki/en_US/) - Lightweight, servers & websites monitoring and O&M tool. ([Source Code](https://github.com/nezhahq/nezha)) `Apache-2.0` `Go/Shell`
 - [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application. ([Source Code](https://github.com/NagiosEnterprises/nagioscore)) `GPL-2.0` `C`
 - [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+- [Nezha](https://nezha.wiki/en_US/) - Lightweight, servers & websites monitoring and O&M tool. ([Source Code](https://github.com/nezhahq/nezha)) `Apache-2.0` `Go/Shell`
 - [Observium Community Edition](http://www.observium.org/) - Network monitoring and management platform that provides real-time insight into network health and performance. `QPL-1.0` `PHP`
-- [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code](https://github.com/openITCOCKPIT/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
 - [OneUptime](https://oneuptime.com) - A comprehensive solution for monitoring and managing your online services. ([Source Code](https://github.com/oneuptime/oneuptime)) `Apache-2.0` `Docker`
+- [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code](https://github.com/openITCOCKPIT/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
 - [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. ([Source Code](https://github.com/performancecopilot/pcp)) `LGPL-2.1/GPL-2.0` `C`
 - [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites. ([Source Code](https://github.com/phpservermon/phpservermon)) `GPL-3.0` `PHP`
 - [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely. ([Source Code](https://github.com/phpsysinfo/phpsysinfo)) `GPL-2.0` `PHP`
@@ -550,7 +551,6 @@ Network configuration management tools.
 **[`^        back to top        ^`](#awesome-sysadmin)**
 
 [Platform-as-a-Service](https://en.wikipedia.org/wiki/Platform_as_a_service) software allows customers to provision, instantiate, run, and manage a computing platform and one or more applications, without the complexity of building and maintaining the infrastructure typically associated with developing and launching the application. Also includes [Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing) and [Function-as-a-service (FaaS)](https://en.wikipedia.org/wiki/Function_as_a_service) software.
-
 
 - [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`
 - [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative (and even more). ([Source Code](https://github.com/coollabsio/coolify)) `Apache-2.0` `Docker`
@@ -649,7 +649,7 @@ Software for management of [router](https://en.wikipedia.org/wiki/Router_(comput
 - [Incus](https://linuxcontainers.org/incus/) - Container "hypervisor" and a better UX for LXC. ([Source Code](https://github.com/lxc/incus)) `Apache-2.0` `Go`
 - [LXC](https://linuxcontainers.org/lxc/) - Userspace interface for the Linux kernel containment features. ([Source Code](https://github.com/lxc/lxc)) `GPL-2.0` `C`
 - [OpenVZ](https://openvz.org) - Container-based virtualization for Linux. ([Source Code](https://src.openvz.org/projects/OVZ)) `GPL-2.0` `C`
-- [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/containers/podman)) `Apache-2.0` `Go`
+- [Podman](https://podman.io) - Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`. ([Source Code](https://github.com/podman-container-tools/podman)) `Apache-2.0` `Go`
 - [Portainer Community Edition](https://www.portainer.io/) - Simple management UI for Docker. ([Source Code](https://github.com/portainer/portainer)) `Zlib` `Go`
 - [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html) - Lightweight, chroot-like, environment to run an OS or command directly under systemd. ([Source Code](https://github.com/systemd/systemd)) `GPL-2.0` `C`
 
@@ -721,7 +721,7 @@ VPN software.
 - [DefGuard](https://defguard.net/) - True enterprise WireGuard with MFA/2FA and SSO. ([Source Code](https://github.com/DefGuard)) `Apache-2.0` `Rust`
 - [Dockovpn](https://dockovpn.io) - Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds. ([Source Code](https://github.com/dockovpn/dockovpn)) `GPL-2.0` `Docker`
 - [Firezone](https://www.firezone.dev/) - WireGuard based VPN Server and Firewall. ([Source Code](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
-- [Gluetun VPN client](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. `MIT` `Docker`
+- [Gluetun VPN client](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. `MIT` `Docker`
 - [Headscale](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools. `BSD-3-Clause` `Go`
 - [Nebula](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security. `MIT` `Go`
 - [ocserv](https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server. ([Source Code](https://gitlab.com/openconnect/ocserv)) `GPL-2.0` `C`
@@ -739,6 +739,7 @@ VPN software.
 [Web servers](https://en.wikipedia.org/wiki/Web_server) and [reverse proxies](https://en.wikipedia.org/wiki/Reverse_proxy).
 
 **Please visit [awesome-selfhosted/Web Servers](https://awesome-selfhosted.net/tags/web-servers.html)**
+
 
 
 --------------------
@@ -775,9 +776,15 @@ VPN software.
 
 --------------------
 
+## Anti-features
+
+- `⚠ ` - Depends on a proprietary service outside the user's control
+
+--------------------
+
 ## External links
 
-## Communities / Forums
+### Communities / Forums
 
 - [ArsTechnica OpenForum](https://arstechnica.com/civis/) - IT Forum which is attached to a large news site.
 - [Reddit](https://www.reddit.com) - Really, really large bulletin board system.
@@ -788,7 +795,7 @@ VPN software.
 - [StackExchange Network](https://stackexchange.com/sites#technology) - Q&A communities.
   - [Server Fault](https://serverfault.com/) - StackExchange community for system and network administrators.
 
-## Repositories
+### Repositories
 
 *Software package repositories.*
 
@@ -800,7 +807,7 @@ VPN software.
 - [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
 - [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
 
-## Websites
+### Websites
 
 - [Cloud Native Software Landscape](https://landscape.cncf.io/?group=projects-and-products&view-mode=card) - Compilation of software and tools for cloud computing.
 - [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki which has really nice written articles valid for other distros.
@@ -809,10 +816,14 @@ VPN software.
 - [Ops School](https://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 - [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 6,000+ tutorials for getting the basics of certain applications/tools/systems administration topics.
 
-------------------
+--------------------
+
+## Contributing
+
+Contributing guidelines can be found [here](https://github.com/awesome-foss/awesome-sysadmin-data/blob/master/CONTRIBUTING.md).
 
 ## License
 
-![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+This list is under the [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE).
+Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/4.0).
+The list of authors can be found in the [AUTHORS](AUTHORS) file.
