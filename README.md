@@ -815,6 +815,7 @@ VPN software.
 - [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
 - [Ops School](https://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 - [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 6,000+ tutorials for getting the basics of certain applications/tools/systems administration topics.
+- [ZeroData Tools](https://zerodatatools.com/) - A collection of 40+ secure, client-side web utilities for DevOps and developers (SSH generators, Ansible builders, Nginx parsers).
 
 --------------------
 
