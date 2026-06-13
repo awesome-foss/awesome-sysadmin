@@ -134,6 +134,7 @@ _See also: [/r/chatops](https://old.reddit.com/r/chatops)_
 
 - [Eggdrop](https://www.eggheads.org/) - The oldest Internet Relay Chat (IRC) bot still in active development. ([Source Code](https://github.com/eggheads/eggdrop)) `GPL-2.0` `C`
 - [Errbot](https://errbot.io/) - Plugin based chatbot designed to be easily deployable, extensible and maintainable. ([Source Code](https://github.com/errbotio/errbot)) `GPL-3.0` `Python`
+- [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) - AI-powered sysadmin assistant with 10,800+ experts across networking, security, DevOps, databases, and more. CPU-only, self-hosted, REST API. `Python` `PyTorch`
 - [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot. ([Source Code](https://github.com/hubotio/hubot)) `MIT` `Nodejs`
 
 
