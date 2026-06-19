@@ -400,6 +400,7 @@ Miscellaneous utilities and web interfaces for identity management systems.
 - [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 - [Samba](https://www.samba.org/) - Active Directory and CIFS protocol implementation. ([Source Code](https://download.samba.org/pub/samba/)) `GPL-3.0` `C`
 - [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+- [Stars](https://github.com/Birgerson/stars-ad-permission-analyzer) - Read-only analyzer for effective NTFS, Active Directory, and SMB permissions with an explainable permission path for Windows environments. ([Source Code](https://github.com/Birgerson/stars-ad-permission-analyzer)) `AGPL-3.0` `Rust/Windows`
 - [ZITADEL](https://zitadel.com/) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ([Source Code](https://github.com/zitadel/zitadel)) `Apache-2.0` `Go/Docker/K8S`
 
 
