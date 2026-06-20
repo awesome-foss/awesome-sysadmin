@@ -809,12 +809,13 @@ VPN software.
 
 ### Websites
 
-- [Cloud Native Software Landscape](https://landscape.cncf.io/?group=projects-and-products&view-mode=card) - Compilation of software and tools for cloud computing.
 - [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki which has really nice written articles valid for other distros.
-- [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
 - [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
-- [Ops School](https://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
+- [awesome-sysadmin.theravenhub.com](https://awesome-sysadmin.theravenhub.com/) - Alternative frontend to filter and search the list.
+- [Cloud Native Software Landscape](https://landscape.cncf.io/?group=projects-and-products&view-mode=card) - Compilation of software and tools for cloud computing.
 - [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 6,000+ tutorials for getting the basics of certain applications/tools/systems administration topics.
+- [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
+- [Ops School](https://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 
 --------------------
 
