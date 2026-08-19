@@ -278,7 +278,6 @@ _See also: [awesome-selfhosted/File Transfer - Object Storage & File Servers](ht
 - [Hadoop Distributed Filesystem (HDFS)](https://hadoop.apache.org/) - Distributed file system that provides high-throughput access to application data. ([Source Code](https://github.com/apache/hadoop)) `Apache-2.0` `Java`
 - [JuiceFS](https://juicefs.com/) - Distributed POSIX file system built on top of Redis and S3. ([Source Code](https://github.com/juicedata/juicefs)) `Apache-2.0` `Go`
 - [Kubo](https://github.com/ipfs/kubo) - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files. `Apache-2.0/MIT` `Go`
-- [LeoFS](https://leo-project.net) - Highly available, distributed, replicated eventually consistent object/blob store. ([Source Code](https://github.com/leo-project/leofs)) `Apache-2.0` `Erlang`
 - [Lustre](https://www.lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing. ([Source Code](https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary)) `GPL-2.0` `C`
 - [MooseFS](https://moosefs.com/) - Fault tolerant, network distributed file system. ([Source Code](https://github.com/moosefs/moosefs)) `GPL-2.0` `C`
 - [OpenAFS](https://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support. ([Source Code](https://git.openafs.org/?p=openafs.git;a=summary)) `IPL-1.0` `C`
@@ -494,7 +493,6 @@ _Related: [Metrics & Metric Collection](#metrics--metric-collection)_
 - [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
 - [cState](https://cstate.uncascade.com/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. ([Demo](https://cstate.mnts.lt/), [Source Code](https://github.com/cstate/cstate)) `MIT` `HTML`
 - [dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard for smaller private servers. ([Demo](https://dash.mauz.dev/)) `MIT` `Nodejs/Docker`
-- [eZ Server Monitor](https://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
 - [Gatus](https://gatus.io) - Automated service health dashboard. ([Demo](https://status.twin.sh), [Source Code](https://github.com/TwiN/gatus)) `Apache-2.0` `Docker/K8S`
 - [glances](https://nicolargo.github.io/glances/) - Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. ([Source Code](https://github.com/nicolargo/glances)) `GPL-3.0` `Python`
 - [Healthchecks](https://healthchecks.io/docs/self_hosted/) - Monitoring for cron jobs, background services and scheduled tasks. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
